@@ -1,23 +1,28 @@
-# TÍTULO DO PROJETO
+# PET PASS
 
-`CURSO`
+`PUC Minas - PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS`
 
-`DISCIPLINA`
+`GRADUAÇÃO TECNOLÓGICA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`SEMESTRE`
+`PROJETO: DESENVOLVIMENTO DE APLICAÇÃO INTERATIVA`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`2º SEMESTRE`
+
+O Pet Pass é uma aplicação digital interativa que permite ao usuário ter acesso à cateira de vacinação do seu pet de qualquer lugar que esteja. 
+O sistema foi pensado para ser prático, intuitivo e de fácil navegação, proporcionando ao responsável do animal um melhor acompanhamento das vacinas e medicações que o seu melhor amigo necessitará tomar ao longo da vida. Além disso, a aplicação também pode auxiliar veterinários, hotéis de pets e donos de abrigos de animais, ou lares temporários, já que permite o acompanhamento e a visualização do histórico de vacinação e medicação dos pets de forma individualizada.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Aline dos Santos Silva
+* Arthur Bernardo de Almeida Simões
+* Arthur Fernandes Roque Ferrarez
+* Gabriel Santos Pereira
+* Luisa Helena Gonçalves de Oliveira
+* Maiquel Alves Peres
 
 ## Orientador
 
-* Nome completo do professor 1
+* José Wilson da Costa
 
 ## Instruções de utilização
 
@@ -31,7 +36,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template Padrão da Aplicação.md"> Template Padrão da Aplicação</a></li>
+<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
 <li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
 <li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
