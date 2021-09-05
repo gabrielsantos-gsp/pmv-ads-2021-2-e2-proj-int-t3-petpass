@@ -5,7 +5,7 @@ import { Sidebar } from '../components/Sidebar'
 /**
  * Dashboard do site com acesso as demais telas
  * @author ArthurBernardoDev
- * @param SideBarDrawerProviderProps 
+ * @param void 
  * @returns void
  */
 export default function Home() {

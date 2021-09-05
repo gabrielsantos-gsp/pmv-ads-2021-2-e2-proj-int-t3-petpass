@@ -8,7 +8,7 @@ import React from 'react'
 /**
  * Mostar os pets em tela após serem registrados
  * @author ArthurBernardoDev
- * @param SideBarDrawerProviderProps 
+ * @param void
  * @returns void
  */
 export default function Home() {

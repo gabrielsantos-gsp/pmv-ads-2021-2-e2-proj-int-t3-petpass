@@ -29,7 +29,7 @@ const createUserFormSchema = yup.object().shape({
 /**
  * Registrar um novo usuário
  * @author ArthurBernardoDev
- * @param SideBarDrawerProviderProps 
+ * @param CreateUserFormData 
  * @returns void
  */
 export default function CreateUser() {

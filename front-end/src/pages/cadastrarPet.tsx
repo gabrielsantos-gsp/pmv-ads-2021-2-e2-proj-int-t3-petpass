@@ -6,7 +6,7 @@ import { Sidebar } from '../components/Sidebar'
 /**
  * Registrar um novo pet
  * @author ArthurBernardoDev
- * @param SideBarDrawerProviderProps 
+ * @param void 
  * @returns void
  */
 export default function CadastrarPet() {

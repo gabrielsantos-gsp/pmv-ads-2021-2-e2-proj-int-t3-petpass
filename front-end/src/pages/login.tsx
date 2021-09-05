@@ -19,7 +19,7 @@ const signInFormSchema = yup.object().shape({
 /**
  * Fazer login do usuário
  * @author ArthurBernardoDev
- * @param SideBarDrawerProviderProps 
+ * @param SingInFormData
  * @returns void
  */
 export default function Login() {
