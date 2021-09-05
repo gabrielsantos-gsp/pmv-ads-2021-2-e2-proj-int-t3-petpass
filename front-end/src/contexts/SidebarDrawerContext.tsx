@@ -14,14 +14,14 @@ type SideBarDrawerContextData = UseDisclosureReturn
 
 const sideBarDrawerContext = createContext({} as SideBarDrawerContextData);
 /**
- * kkkkkkkk
+ * Contexto da Sidebar utilizando ChakraUI
  * @author ArthurBernardoDev
  * @param SideBarDrawerProviderProps 
  * @returns void
  */
 export function SidebarDrawerProvider({ children }: SideBarDrawerProviderProps) {
 
-    
+
     const disclosure = useDisclosure()
     const router = useRouter()
 

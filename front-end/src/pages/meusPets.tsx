@@ -29,7 +29,7 @@ export default function Home() {
                             Seus pets estão aqui! 😉
                         </Text>
 
-                        <SimpleGrid minChildWidth="150px" maxWidth="350px" spacing={["6", "8"]} w="100%">
+                        <SimpleGrid minChildWidth="250px" maxWidth="350px" spacing={["6", "8"]} w="100%">
                             <Image
                                 id="cachorro"
                                 src="/images/cachorro.svg"
@@ -37,19 +37,34 @@ export default function Home() {
                                 height="200">
                             </Image>
                             <Table variant="simple">
-                                <TableCaption>Informações sobre seu pet!</TableCaption>
                                 <Thead>
                                     <Tr>
                                         <Th>Nome</Th>
-                                        <Th>Sexo</Th>
-                                        <Th>Idade</Th>
-                                        <Th>Raça</Th>
+                                        <Th >Sexo</Th>
+                                        {/* <Th>Idade</Th>
+                                        <Th>Raça</Th> */}
                                     </Tr>
                                 </Thead>
                                 <Tbody>
                                     <Tr>
                                         <Td>Luke</Td>
                                         <Td>Macho</Td>
+                                        {/* <Td>5 Meses</Td>
+                                        <Td>Maltês</Td> */}
+                                    </Tr>
+                                </Tbody>
+                            </Table>
+                            <Table variant="simple">
+                                <TableCaption>Informações sobre seu pet!</TableCaption>
+                                <Thead>
+                                    <Tr>
+
+                                        <Th>Idade</Th>
+                                        <Th>Raça</Th>
+                                    </Tr>
+                                </Thead>
+                                <Tbody>
+                                    <Tr>
                                         <Td>5 Meses</Td>
                                         <Td>Maltês</Td>
                                     </Tr>
