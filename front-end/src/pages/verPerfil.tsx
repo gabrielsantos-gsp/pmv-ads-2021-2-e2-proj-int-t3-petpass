@@ -1,4 +1,4 @@
-import { Box, Flex, SimpleGrid, Button, Link, Table, Heading, Tr, Thead, Th, Tbody, Td, Tfoot } from '@chakra-ui/react'
+import { Box, Flex, SimpleGrid, Text, Link, Table, Heading, Tr, Thead, Th, Tbody, Td, Tfoot } from '@chakra-ui/react'
 import { MdBuild, MdCall } from "react-icons/md"
 import Image from 'next/image'
 import { Header } from '../components/Header'
@@ -35,18 +35,6 @@ export default function Home() {
                                 height="200"
                             ></Image>
                         </Flex>
-                        <Flex align="center" ml="20rem">
-                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="2">
-                                <Link href="/verPerfil">Ver Perfil</Link>
-                            </Button>
-                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="2">
-                                Relatório
-                            </Button>
-                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="2">
-                                Excluir Dono
-                            </Button>
-                        </Flex>
-
                     </Flex>
 
                     <Table colorScheme="whiteAlpha">
@@ -76,7 +64,36 @@ export default function Home() {
                             </Tr>
                         </Tbody>
                     </Table>
+
+                    <Heading size="lg" fontWeight="normal" color="gray.900">
+                        Vacinas
+                    </Heading>
+
+                    <Table colorScheme="whiteAlpha">
+                        <Thead>
+                            <Tr>
+                                <Th>Produto</Th>
+                                <Th>Data</Th>
+
+                                <Th>
+                                    Dose
+                                </Th>
+                            </Tr>
+                        </Thead>
+
+                        <Tbody>
+                            <Tr>
+                                <Td>V8</Td>
+                                <Td>
+                                    19/09/2019
+                                </Td>
+                                <Td>Primeira</Td>
+                            </Tr>
+                        </Tbody>
+                    </Table>
                 </Box>
+
+
             </Flex>
 
         </Box>
