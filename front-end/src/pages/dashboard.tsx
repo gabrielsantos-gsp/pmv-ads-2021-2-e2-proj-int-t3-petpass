@@ -2,6 +2,12 @@ import { Box, Flex, SimpleGrid, Text } from '@chakra-ui/react'
 import { Header } from '../components/Header'
 import { Sidebar } from '../components/Sidebar'
 
+/**
+ * Dashboard do site com acesso as demais telas
+ * @author ArthurBernardoDev
+ * @param SideBarDrawerProviderProps 
+ * @returns void
+ */
 export default function Home() {
   return (
 

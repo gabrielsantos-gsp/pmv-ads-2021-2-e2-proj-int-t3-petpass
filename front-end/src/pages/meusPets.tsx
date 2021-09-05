@@ -5,6 +5,13 @@ import { Header } from '../components/Header'
 import { Sidebar } from '../components/Sidebar'
 import React from 'react'
 
+
+/**
+ * Mostar os pets em tela após serem registrados
+ * @author ArthurBernardoDev
+ * @param SideBarDrawerProviderProps 
+ * @returns void
+ */
 export default function Home() {
     return (
 

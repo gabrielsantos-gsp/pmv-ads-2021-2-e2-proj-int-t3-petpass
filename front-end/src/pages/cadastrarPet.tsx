@@ -2,6 +2,13 @@ import { Box, Flex, SimpleGrid, Text, FormControl, FormLabel, RadioGroup, Button
 import { Header } from '../components/Header'
 import { Sidebar } from '../components/Sidebar'
 
+
+/**
+ * Registrar um novo pet
+ * @author ArthurBernardoDev
+ * @param SideBarDrawerProviderProps 
+ * @returns void
+ */
 export default function CadastrarPet() {
     return (
 
