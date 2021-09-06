@@ -1,4 +1,4 @@
-import { Box, Flex, SimpleGrid, Button, Link, Table, Heading, Tr, Thead, Th, Tbody, Td, Tfoot } from '@chakra-ui/react'
+import { Box, Flex, Slide, Button, Link, Table, Heading, Tr, Thead, Th, Tbody, Td, Text, useDisclosure } from '@chakra-ui/react'
 import { MdBuild, MdCall } from "react-icons/md"
 import Image from 'next/image'
 import { Header } from '../components/Header'
@@ -12,6 +12,9 @@ import React from 'react'
  * @returns void
  */
 export default function Home() {
+
+    const { isOpen, onToggle } = useDisclosure()
+
     return (
 
         <Box>
@@ -40,11 +43,21 @@ export default function Home() {
                                 <Link href="/verPerfil">Ver Perfil</Link>
                             </Button>
                             <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="6">
-                                Transferir Perfil
+                                <Link href="/transferirPet">Transferir Perfil</Link>
                             </Button>
-                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="8">
-                                Excluir Perfil
-                            </Button>
+                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="6" onClick={onToggle}>Excluir Perfil</Button>
+                            <Slide direction="bottom" in={isOpen} style={{ zIndex: 10 }}>
+                                <Box
+                                    p="40px"
+                                    color="white"
+                                    mt="4"
+                                    bg="gray.800"
+                                    rounded="md"
+                                    shadow="md"
+                                >
+                                    Ao clicar nessa opção você está excluindo o perfil do seu pet. Essa ação não pode ser revertida<Text>Tem certeza que deseja excluir Luke?</Text> <Button mr="8" bg="gray.400">Aceitar</Button> <Button bg="gray.400">Recusar</Button>
+                                </Box>
+                            </Slide>
                         </Flex>
 
                     </Flex>
