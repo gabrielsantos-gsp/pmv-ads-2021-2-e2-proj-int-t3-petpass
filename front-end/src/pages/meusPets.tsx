@@ -36,14 +36,14 @@ export default function Home() {
                             ></Image>
                         </Flex>
                         <Flex align="center" ml="20rem">
-                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="2">
+                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="6">
                                 <Link href="/verPerfil">Ver Perfil</Link>
                             </Button>
-                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="2">
-                                Relatório
+                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="6">
+                                Transferir Perfil
                             </Button>
-                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="2">
-                                Excluir Dono
+                            <Button leftIcon={<MdBuild />} colorScheme="gray.300" w="100px" ml="8">
+                                Excluir Perfil
                             </Button>
                         </Flex>
 
