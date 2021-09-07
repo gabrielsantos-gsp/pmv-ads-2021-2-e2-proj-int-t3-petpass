@@ -1,6 +1,7 @@
 import { Stack } from "@chakra-ui/react";
-import { AiOutlineLaptop } from "react-icons/ai";
+import { GiSittingDog } from "react-icons/gi";
 import { RiContactsLine, RiDashboardLine } from "react-icons/ri";
+import { FaSyringe } from "react-icons/fa";
 import { FiBook } from "react-icons/fi";
 import { NavLink } from "./NavLink";
 import { NavSection } from "./NavSection";
@@ -18,7 +19,7 @@ export function SidebarNav() {
                 <NavLink icon={RiContactsLine} href="/cadastrarPet">
                     Cadastrar pet
                 </NavLink>
-                <NavLink icon={FiBook} href="/meusPets">
+                <NavLink icon={GiSittingDog} href="/meusPets">
                     Meus pets
                 </NavLink>
             </NavSection>
@@ -27,7 +28,7 @@ export function SidebarNav() {
                 <NavLink icon={RiContactsLine} href="/contato">
                     Cadastrar Vacinas
                 </NavLink>
-                <NavLink icon={FiBook} href="/certificados">
+                <NavLink icon={FaSyringe} href="/certificados">
                     Minhas Vacinas
                 </NavLink>
                 <NavLink icon={FiBook} href="/certificados">
