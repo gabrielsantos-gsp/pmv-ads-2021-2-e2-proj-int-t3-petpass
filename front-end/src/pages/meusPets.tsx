@@ -12,11 +12,8 @@ import React from 'react'
  * @returns void
  */
 export default function Home() {
-
     const { isOpen, onToggle } = useDisclosure()
-
     return (
-
         <Box>
             <Header />
 

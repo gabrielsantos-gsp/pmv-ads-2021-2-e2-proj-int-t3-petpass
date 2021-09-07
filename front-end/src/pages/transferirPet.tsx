@@ -1,6 +1,4 @@
-import { Box, Flex, SimpleGrid, Button, Text, FormControl, FormLabel, Input, Stack, Slide, Td, useDisclosure } from '@chakra-ui/react'
-import { MdBuild, } from "react-icons/md"
-import Image from 'next/image'
+import { Box, Flex, SimpleGrid, Button, Text, FormControl, FormLabel, Input, Stack, Slide, useDisclosure } from '@chakra-ui/react'
 import { Header } from '../components/Header'
 import { Sidebar } from '../components/Sidebar'
 import React from 'react'
@@ -16,7 +14,6 @@ export default function Home() {
     const { isOpen, onToggle } = useDisclosure()
 
     return (
-
         <Box>
             <Header />
 

@@ -31,7 +31,7 @@ export function SidebarNav() {
                 <NavLink icon={FaSyringe} href="/certificados">
                     Minhas Vacinas
                 </NavLink>
-                <NavLink icon={FiBook} href="/certificados">
+                <NavLink icon={FiBook} href="/informacoes">
                     Informações
                 </NavLink>
             </NavSection>
