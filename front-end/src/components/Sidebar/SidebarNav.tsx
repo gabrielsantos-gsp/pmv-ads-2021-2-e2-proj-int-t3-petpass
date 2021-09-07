@@ -30,6 +30,9 @@ export function SidebarNav() {
                 <NavLink icon={FiBook} href="/certificados">
                     Minhas Vacinas
                 </NavLink>
+                <NavLink icon={FiBook} href="/certificados">
+                    Informações
+                </NavLink>
             </NavSection>
         </Stack>
 
