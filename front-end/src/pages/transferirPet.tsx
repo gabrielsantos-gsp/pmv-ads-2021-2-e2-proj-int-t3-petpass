@@ -9,7 +9,7 @@ import React from 'react'
  * @param void
  * @returns void
  */
-export default function Home() {
+export default function transferirPet() {
 
     const { isOpen, onToggle } = useDisclosure()
 

@@ -11,7 +11,7 @@ import React from 'react'
  * @param void
  * @returns void
  */
-export default function Home() {
+export default function meusPets() {
     const { isOpen, onToggle } = useDisclosure()
     return (
         <Box>

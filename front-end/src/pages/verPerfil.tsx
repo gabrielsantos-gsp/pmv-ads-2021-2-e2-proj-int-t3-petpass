@@ -11,7 +11,7 @@ import React from 'react'
  * @param void
  * @returns void
  */
-export default function Home() {
+export default function verPerfil() {
     return (
 
         <Box>
