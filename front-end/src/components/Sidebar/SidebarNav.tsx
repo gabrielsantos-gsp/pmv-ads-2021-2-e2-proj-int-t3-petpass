@@ -25,10 +25,10 @@ export function SidebarNav() {
             </NavSection>
 
             <NavSection title="VACINAS">
-                <NavLink icon={RiContactsLine} href="/contato">
+                <NavLink icon={RiContactsLine} href="/cadastrarVacina">
                     Cadastrar Vacinas
                 </NavLink>
-                <NavLink icon={FaSyringe} href="/certificados">
+                <NavLink icon={FaSyringe} href="/#">
                     Minhas Vacinas
                 </NavLink>
                 <NavLink icon={FiBook} href="/informacoes">
