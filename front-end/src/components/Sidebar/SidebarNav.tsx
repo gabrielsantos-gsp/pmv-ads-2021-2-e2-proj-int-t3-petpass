@@ -16,22 +16,22 @@ export function SidebarNav() {
             </NavSection>
 
             <NavSection title="PETS">
-                <NavLink icon={RiContactsLine} href="/cadastrarPet">
+                <NavLink icon={RiContactsLine} href="/pets/cadastrarPet">
                     Cadastrar pet
                 </NavLink>
-                <NavLink icon={GiSittingDog} href="/meusPets">
+                <NavLink icon={GiSittingDog} href="/pets/meuspets/meusPets">
                     Meus pets
                 </NavLink>
             </NavSection>
 
             <NavSection title="VACINAS">
-                <NavLink icon={RiContactsLine} href="/cadastrarVacina">
+                <NavLink icon={RiContactsLine} href="/vacinas/cadastrarVacina">
                     Cadastrar Vacinas
                 </NavLink>
                 <NavLink icon={FaSyringe} href="/#">
                     Minhas Vacinas
                 </NavLink>
-                <NavLink icon={FiBook} href="/informacoes">
+                <NavLink icon={FiBook} href="/vacinas/informacoes">
                     Informações
                 </NavLink>
             </NavSection>

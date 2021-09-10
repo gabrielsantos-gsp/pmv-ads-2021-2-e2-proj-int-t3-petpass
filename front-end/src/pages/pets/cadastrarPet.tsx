@@ -1,6 +1,6 @@
 import { Box, Flex, SimpleGrid, Text, FormControl, FormLabel, RadioGroup, Button, Stack, HStack, Radio, FormHelperText, Input, NumberInput, NumberInputField, NumberDecrementStepper, NumberInputStepper, NumberIncrementStepper } from '@chakra-ui/react'
-import { Header } from '../components/Header'
-import { Sidebar } from '../components/Sidebar'
+import { Header } from '../../components/Header'
+import { Sidebar } from '../../components/Sidebar'
 
 
 /**
