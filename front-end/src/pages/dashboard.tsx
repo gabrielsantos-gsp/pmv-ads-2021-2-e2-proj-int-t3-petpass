@@ -8,7 +8,7 @@ import { Sidebar } from '../components/Sidebar'
  * @param void 
  * @returns void
  */
-export default function dashboard() {
+export default function Home() {
   return (
 
     <Flex direction="column" h="100vh">

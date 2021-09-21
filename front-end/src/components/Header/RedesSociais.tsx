@@ -1,5 +1,5 @@
 import { HStack, Icon, Link } from "@chakra-ui/react";
-import { IoIosNotifications } from "react-icons/io";
+import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
 export function RedesSociais() {
     return (
@@ -13,8 +13,8 @@ export function RedesSociais() {
             borderColor="gray.700"
 
         >
-            <Link href="#"><Icon as={IoIosNotifications} fontSize="25" /></Link>
-
+            <Link href="https://github.com/ArthurBernardoDev"><Icon as={AiFillGithub} fontSize="20" /></Link>
+            <Link href="https://www.linkedin.com/in/arthur-bernardo-a636b3180/"><Icon as={AiFillLinkedin} fontSize="20" /></Link>
         </HStack>
     );
 }
