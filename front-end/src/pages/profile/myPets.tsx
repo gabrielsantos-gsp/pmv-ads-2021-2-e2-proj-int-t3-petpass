@@ -14,8 +14,8 @@ import {
 } from "@chakra-ui/react";
 import { MdBuild, MdCall } from "react-icons/md";
 import Image from "next/image";
-import { Header } from "../components/Header";
-import { Sidebar } from "../components/Sidebar";
+import { Header } from "../../components/Header";
+import { Sidebar } from "../../components/Sidebar";
 import React, { useState } from "react";
 
 /**

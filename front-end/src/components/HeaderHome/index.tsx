@@ -32,7 +32,7 @@ export function HeaderHome() {
             bg: "#0086ac",
           }}
         >
-          Login
+          <Link href="/account/login">Login</Link>
         </Button>
         <Button
           type="button"
@@ -43,7 +43,7 @@ export function HeaderHome() {
             bg: "#0086ac",
           }}
         >
-          <Link href="/registrar">Registrar</Link>
+          <Link href="/account/register">Registrar</Link>
         </Button>
       </Flex>
     </Flex>

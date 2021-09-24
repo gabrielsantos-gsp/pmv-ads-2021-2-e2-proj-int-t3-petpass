@@ -17,7 +17,7 @@ export function SidebarNav() {
         <NavLink icon={RiContactsLine} href="/cadastrarPet">
           Cadastrar pet
         </NavLink>
-        <NavLink icon={FiBook} href="/meusPets">
+        <NavLink icon={FiBook} href="/myPets">
           Meus pets
         </NavLink>
       </NavSection>

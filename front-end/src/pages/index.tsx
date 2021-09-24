@@ -3,9 +3,9 @@ import Image from "next/image";
 import { HeaderHome } from "../components/HeaderHome";
 
 /**
- * Pagina inicial do site 
+ * Pagina inicial do site
  * @author ArthurBernardoDev
- * @param SideBarDrawerProviderProps 
+ * @param SideBarDrawerProviderProps
  * @returns void
  */
 export default function Home() {
@@ -21,14 +21,9 @@ export default function Home() {
         display="flex"
         alignItems="center"
         justify="space-between"
-
       >
         <Box>
-          <Text
-            fontSize="3.5rem"
-            fontWeight="bold"
-            color="gray.800"
-          >
+          <Text fontSize="3.5rem" fontWeight="bold" color="gray.800">
             PetPass
           </Text>
           <Text
@@ -40,7 +35,8 @@ export default function Home() {
           >
             O jeito mais fácil de manter a saúde do seu melhor amigo em dia.
           </Text>
-          <Button type="button"
+          <Button
+            type="button"
             mt="5"
             aling="center"
             w="60"
@@ -48,7 +44,7 @@ export default function Home() {
             color="black"
             _hover={{
               bg: "gray.900",
-              color: "white"
+              color: "white",
             }}
           >
             Sobre nós
@@ -59,10 +55,9 @@ export default function Home() {
             id="imagem"
             src="/images/teste3.svg"
             width={1300}
-            height={900}>
-          </Image>
+            height={900}
+          ></Image>
         </Box>
-
       </Flex>
 
       <Flex
@@ -75,19 +70,10 @@ export default function Home() {
         justify="space-between"
       >
         <Box marginRight="5">
-          <Image
-            id="imagem"
-            src="/images/"
-            width={1200}
-            height={1000}>
-          </Image>
+          <Image id="imagem" src="/images/" width={1200} height={1000}></Image>
         </Box>
         <Box>
-          <Text
-            fontSize="1.5rem"
-            fontWeight="bold"
-            color="whiteAplha.900"
-          >
+          <Text fontSize="1.5rem" fontWeight="bold" color="whiteAplha.900">
             Lorem lorem
           </Text>
           <Text
@@ -97,17 +83,13 @@ export default function Home() {
             margin-top="2.5rem"
             color="whiteAplha.900"
           >
-            Lorem Lorem Lorem
-            Lorem.
+            Lorem Lorem Lorem Lorem.
           </Text>
-          <Text
-            fontSize="1.5rem"
-            fontWeight="bold"
-            color="whiteAplha.900"
-          >
+          <Text fontSize="1.5rem" fontWeight="bold" color="whiteAplha.900">
             Lorem Lorem Lorem Lorem Lorem
           </Text>
-          <Button type="button"
+          <Button
+            type="button"
             mt="5"
             aling="center"
             w="60"
@@ -115,15 +97,13 @@ export default function Home() {
             color="black"
             _hover={{
               bg: "#000",
-              color: "white"
+              color: "white",
             }}
           >
             Lorem
           </Button>
         </Box>
-
-
       </Flex>
     </>
-  )
+  );
 }
