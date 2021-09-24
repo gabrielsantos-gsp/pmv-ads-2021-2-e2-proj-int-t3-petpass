@@ -60,7 +60,6 @@ export default function Login() {
             <Input
               placeholder="Digite sua senha"
               name="password"
-              type="password"
               label="senha"
               error={errors.password}
               {...register("password")}

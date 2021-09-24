@@ -24,7 +24,7 @@ import React, { useState } from "react";
  * @param void
  * @returns void
  */
-export default function Home() {
+export default function myPets() {
   const [name, setName] = useState("");
 
   async function ShowInfo() {

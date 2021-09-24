@@ -1,40 +1,44 @@
 import { FieldError } from "react-hook-form";
-import { FormControl, FormLabel, InputProps as ChakraInputProps, Input as ChakraInput, FormErrorMessage } from '@chakra-ui/react'
+import {
+  FormControl,
+  FormLabel,
+  InputProps as ChakraInputProps,
+  Input as ChakraInput,
+  FormErrorMessage,
+} from "@chakra-ui/react";
 import { forwardRef, ForwardRefRenderFunction } from "react";
 
 interface InputProps extends ChakraInputProps {
-    name: string;
-    label?: string;
-    error?: FieldError;
+  name: string;
+  label?: string;
+  error?: FieldError;
 }
 
-const InputBase: ForwardRefRenderFunction<HTMLInputElement, InputProps> = ({ name, label, error = null, ...rest }, ref) => {
+const InputBase: ForwardRefRenderFunction<HTMLInputElement, InputProps> = (
+  { name, label, error = null, ...rest },
+  ref
+) => {
+  return (
+    <FormControl isInvalid={!!error}>
+      {!!label && <FormLabel htmlFor={name}>{label}</FormLabel>}
 
-    return (
-        <FormControl isInvalid={!!error}>
-            {!!label && <FormLabel htmlFor={name}>{label}</FormLabel>}
+      <ChakraInput
+        id={name}
+        name={name}
+        focusBorderColor="black"
+        color="black"
+        bgColor="white"
+        variant="outline"
+        _hover={{
+          bgColor: "white",
+        }}
+        size="lg"
+        ref={ref}
+        {...rest}
+      />
+      {!!error && <FormErrorMessage>{error.message}</FormErrorMessage>}
+    </FormControl>
+  );
+};
 
-            <ChakraInput
-                id={name}
-                name={name}
-                focusBorderColor="black"
-                color="black"
-                bgColor="white"
-                variant="outline"
-                _hover={{
-                    bgColor: 'white'
-                }}
-                size="lg"
-                ref={ref}
-                {...rest}
-            />
-            {!!error &&
-                (<FormErrorMessage>
-                    {error.message}
-                </FormErrorMessage>)}
-
-        </FormControl>
-    )
-}
-
-export const Input = forwardRef(InputBase)
+export const Input = forwardRef(InputBase);
