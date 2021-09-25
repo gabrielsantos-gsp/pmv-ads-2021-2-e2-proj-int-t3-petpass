@@ -78,3 +78,39 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
 - O usuário deve conseguir logar na sua conta;
 - O redirecionamento deverá levar para o DashBoard (Tela principal do site) da aplicação.
+
+---
+
+### Caso teste CT-003
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de criar uma conta no site.
+
+**Requisitos associados:**
+RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.
+
+**Passos:**
+
+    1- Acessar o Navegador;
+
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/registrar);
+
+    3- Clicar em 'ENTER' no teclado;
+
+    4- Visualizar a página de login do site ;
+
+    5- Localizar texto “Esqueci minha senha";
+
+    6- Clicar em “Esqueci minha senha”;
+
+    7- Inserir e-mail já cadastrado;
+
+    8- Clicar no botão “Confirmar”;
+
+**Critérios de êxito:**
+
+- O usuário deve conseguir recuperar sua senha;
+- O usuário deve conseguir Logar no site.
+
+---
