@@ -16,7 +16,7 @@ import { MdBuild, MdCall } from "react-icons/md";
 import Image from "next/image";
 import { Header } from "../../components/Header";
 import { Sidebar } from "../../components/Sidebar";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
 /**
  * Mostar os pets em tela após serem registrados
@@ -25,14 +25,15 @@ import React, { useState } from "react";
  * @returns void
  */
 export default function myPets() {
-  const [name, setName] = useState("");
+  const [pet, setPet] = useState([{}]);
 
-  async function ShowInfo() {
-    const response = await fetch("http://localhost:3333/pets");
-    const data = await response.json();
-
-    setName(data);
-  }
+  // o useEffect recebe 2 parametros, o 1° qual função eu quero executar, a 2° é quando algum que eu escolher mudar essa função executa dnv
+  useEffect(() => {
+    fetch("http://localhost:3000/api/pets") // Faz um fetch dos dados na api
+      .then((response) => response.json()) // quando o fetch me der uma resposta(response) conversão para json
+      .then((data) => setPet(data)); // depois da conversão, os dados são atribuidos a setPet, criado com useState
+  }, []);
+  console.log(pet);
 
   return (
     <Box>
