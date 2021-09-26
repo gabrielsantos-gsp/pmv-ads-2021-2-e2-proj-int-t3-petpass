@@ -3,7 +3,6 @@ import { Input } from "../../components/Form/Input";
 import { SubmitHandler, useForm } from "react-hook-form";
 import * as yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
-import { Header } from "../../components/Header";
 import { HeaderHome } from "../../components/HeaderHome";
 
 type CreateUserFormData = {
