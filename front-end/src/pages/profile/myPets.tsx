@@ -14,8 +14,8 @@ import {
 } from "@chakra-ui/react";
 import { MdBuild, MdCall } from "react-icons/md";
 import Image from "next/image";
-import { Header } from "../components/Header";
-import { Sidebar } from "../components/Sidebar";
+import { Header } from "../../components/Header";
+import { Sidebar } from "../../components/Sidebar";
 import React, { useState } from "react";
 
 /**
@@ -24,7 +24,7 @@ import React, { useState } from "react";
  * @param void
  * @returns void
  */
-export default function Home() {
+export default function myPets() {
   const [name, setName] = useState("");
 
   async function ShowInfo() {

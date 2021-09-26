@@ -1,9 +1,9 @@
 import { Button, Flex, Link, Stack, Text } from "@chakra-ui/react";
-import { Input } from "../components/Form/Input";
+import { Input } from "../../components/Form/Input";
 import { SubmitHandler, useForm } from "react-hook-form";
 import * as yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
-import { HeaderHome } from "../components/HeaderHome";
+import { HeaderHome } from "../../components/HeaderHome";
 
 type SingInFormData = {
   email: string;
@@ -60,7 +60,6 @@ export default function Login() {
             <Input
               placeholder="Digite sua senha"
               name="password"
-              type="password"
               label="senha"
               error={errors.password}
               {...register("password")}
