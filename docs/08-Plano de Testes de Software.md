@@ -132,7 +132,7 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
 **Requisitos associados:**
 
-RF-006: O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinação, etc.) para compartilhamento com hotéis de pets, veterinários, etc.; mediante autorização do usuário responsável pela conta.
+RF-004: O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinação, etc.) para compartilhamento com hotéis de pets, veterinários, etc.; mediante autorização do usuário responsável pela conta.
 
 **Passos:**
 
@@ -232,7 +232,7 @@ RF-006: O sistema deverá permitir a transferência do perfil do pet para outra 
 
 **Requisitos associados:** 
 
-RF-009: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.
+RF-007: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.
 
 **Passos:**
 
@@ -276,7 +276,7 @@ RF-009: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
 **Requisitos associados:** 
 
-RF-010: O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo automaticamente qualquer perfil de pet vinculado somente a ela no momento.
+RF-008: O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo automaticamente qualquer perfil de pet vinculado somente a ela no momento.
 
 **Passos:**
 
