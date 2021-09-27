@@ -22,6 +22,7 @@ Os testes funcionais a serem realizados na aplicação interativa são descritos
 - Verificar a funcionalidade de criar uma conta no site.
 
 **Requisitos associados:**
+
 RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.
 
 **Passos:**
@@ -58,6 +59,7 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 - Verificar a funcionalidade de login do usuário.
 
 **Requisitos associados:**
+
 RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.
 
 **Passos:**
@@ -92,6 +94,7 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 - Verificar a funcionalidade de recuperação de senha do usuário
 
 **Requisitos associados:**
+
 RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet, associado ao seu e-mail, se ele for maior de idade.
 
 **Passos:**
@@ -121,13 +124,56 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
 ---
 
+### Caso teste CT-006
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de Gerar Relatório do Pet
+
+**Requisitos associados:**
+
+RF-006: O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinação, etc.) para compartilhamento com hotéis de pets, veterinários, etc.; mediante autorização do usuário responsável pela conta.
+
+**Passos:**
+
+    1- Acessar o Navegador;
+
+    2- Informar o endereço do Site *(https://pet-pass.vercel.app/login)*;
+
+    3- Clicar em 'ENTER' no teclado;
+
+    4- Visualizar a homepage do site e a região de Login;
+
+    5- Informar o Email e Senha cadastrados no site;
+    
+    6- Clicar no botão para Entrar;
+
+    7- Visualizar a tela *DashBoard*;
+    
+    8- Clicar no botão 'Gerar Relatório' da *side bar*;
+
+    9- Visualizar a tela 'Gerar Relatório'
+    
+    10- Selecionar as check box de quais Pets deseja-se emitir o relatório (pode ser de um ou mais Pets);
+    
+    11- Clicar e 'Gerar relatório';
+    
+    12- Ser redirecionado para a tela de impressão do seu computador, celular ou tablet.
+
+**Critérios de êxito:**
+- O usuário deve conseguir gerar uma versão para impressão do relatório;
+- O relatório deve conter todas as informações dos Pets selecionados pelo usuário.
+
+---
+
 ### Caso teste CT-008
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade de tranferência do perfil do Pet
+- Verificar a funcionalidade de Tranferência do perfil do Pet
 
 **Requisitos associados:**
+
 RF-006: O sistema deverá permitir a transferência do perfil do pet para outra conta de usuário (responsável), caso ele mude de dono.
 
 **Passos:**
@@ -228,7 +274,9 @@ RF-009: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
 - Verificar a funcionalidade excluir conta de usuário.
 
-**Requisitos associados:** RF-010: O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo automaticamente qualquer perfil de pet vinculado somente a ela no momento.
+**Requisitos associados:** 
+
+RF-010: O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo automaticamente qualquer perfil de pet vinculado somente a ela no momento.
 
 **Passos:**
 
@@ -265,7 +313,9 @@ RF-009: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
 - Verificar o funcionamento do sistema nos principais navegadores da Web.
 
-**Requisitos associados:** RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google Chrome, Mozila Firefox, Microsoft Edge).
+**Requisitos associados:** 
+
+RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google Chrome, Mozila Firefox, Microsoft Edge).
 
 **Passos:**
 
