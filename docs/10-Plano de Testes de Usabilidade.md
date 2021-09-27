@@ -23,12 +23,12 @@ A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que se
 
 ### Definição dos participantes do teste:
 
-| Faixa etária | Nº de particiántes |	Possui pet? |	Participante Deficiente? |
-|--------------|--------------------|-------------|--------------------------|
-| 18 - 39 anos | 4 | sim ou não? | sim ou não? |
-| 40 - 59 anos | 3 | sim ou não? | sim ou não? |
-| 60 anos ou + | 3 | sim ou não? | sim ou não? |
-| Total: | 10 |  |  | 
+| Faixa etária | Nº de particiántes |	Possui pet? |
+|--------------|--------------------|-------------|
+| 18 - 39 anos | 2 | sim ou não? |
+| 40 - 59 anos | 2 | sim ou não? |
+| 60 anos ou + | 2 | sim ou não? |
+| Total: | 6 |  |  |
 
 ### Sequência de testes a serem aplicados:
 
