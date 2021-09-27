@@ -13,7 +13,7 @@ Requisitos para realização dos testes:
 - Navegador de Internet (_Google Chrome, Firefox, Microsoft Edge_);
 - Conectividade de Internet para acesso à plataforma.
 
-Os testes funcionais a serem realizados na aplicação _interativa_ são descritos a seguir:
+Os testes funcionais a serem realizados na aplicação interativa são descritos a seguir:
 
 ### Caso teste CT-001
 
@@ -31,14 +31,18 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
     2- Informar o endereço do Site (https://pet-pass.vercel.app/registrar);
 
     3- Clicar em 'ENTER' no teclado;
+    
+    4- Visualizar a homepage do site e a região de Login;
+    
+    5- Clicar no botão 'Criar conta';
 
-    4- Visualizar a página de registrar do site;
+    6- Visualizar a página de registrar do site;
 
-    5- Visualizar os inputs;
+    7- Visualizar os compos para preenchimento com os dados do usuário;
 
-    6- Preencher as informações a cada um dos inputs e suas exigências;
+    8- Preencher as informações a cada um dos campos e suas exigências;
 
-    8- Clicar no botão de Cadastrar;
+    9- Clicar no botão de 'Cadastrar';
 
 **Critérios de êxito:**
 
@@ -64,20 +68,20 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de Login do site;
+    4- Visualizar a homepage do site e a região de Login;
 
-    5- Visualizar os input de Nome e Email;
+    5- Visualizar os campos de Nome e e-mail na área de Login;
 
-    6- Clicar nos inputs do login que aparecem no centro da página;
+    6- Clicar nos campos do Login que aparecem no centro da página;
 
-    7- Informar o email e senha cadastrada no site;
+    7- Preencher os campos com o e-mail e a senha cadastrados no site;
 
     8- Clicar no botão de Entrar;
 
 **Critérios de êxito:**
 
-- O usuário deve conseguir logar na sua conta;
-- O redirecionamento deverá levar para o DashBoard (Tela principal do site) da aplicação.
+- O usuário deve conseguir logar em sua conta;
+- O redirecionamento deverá levar o usuário para o DashBoard (Tela principal do site) da aplicação.
 
 ---
 
@@ -85,10 +89,10 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade de criar uma conta no site.
+- Verificar a funcionalidade de recuperação de senha do usuário
 
 **Requisitos associados:**
-RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.
+RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet, associado ao seu e-mail, se ele for maior de idade.
 
 **Passos:**
 
@@ -98,20 +102,22 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de login do site ;
+    4- Visualizar a homepage do site e a região de Login;
 
-    5- Localizar texto “Esqueci minha senha";
+    5- Localizar o texto “Esqueci minha senha" na região de Login;
 
     6- Clicar em “Esqueci minha senha”;
+    
+    7- Visualizar o campo para preenchimento com o e-mail de recuperação cadastrado;
 
-    7- Inserir e-mail já cadastrado;
+    7- Inserir o e-mail já cadastrado para recuperação de senha;
 
     8- Clicar no botão “Confirmar”;
 
 **Critérios de êxito:**
-
+- Uma mensagem deve ser enviada ao e-mail de recuperação do usuário com a senha cadastrada;
 - O usuário deve conseguir recuperar sua senha;
-- O usuário deve conseguir Logar no site.
+- O usuário deve conseguir fazer Login no site.
 
 ---
 
@@ -119,9 +125,11 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade excluir Pet associado ao usuário.
+- Verificar a funcionalidade de excluir um Pet associado ao usuário.
 
-**Requisitos associados:** RF-009: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.
+**Requisitos associados:** 
+
+RF-009: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.
 
 **Passos:**
 
@@ -131,24 +139,29 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de Login do site;
+    4- Visualizar a homepage do site e a região de Login;
 
-    5- Informar o Email e Senha cadastrada no site;
+    5- Informar o Email e Senha cadastrados no site;
     
     6- Clicar no botão para Entrar;
 
-    7- Visualizar a tela DashBoard e clicar no botão Meus Pets;
+    7- Visualizar a tela *DashBoard*;
+    
+    8- Clicar no botão 'Meus Pets' da *side bar*;
 
-    8- Visualizar a tela Meus Pets e selecionar a opção Excluir Perfil;
+    9- Visualizar a tela 'Meus Pets'
+    
+    10- Selecionar a opção 'Excluir Perfil' no Pet desejado;
 
-    9- Clicar em 'SIM' na tela de exclusão;
+    11- Clicar em 'SIM' na tela de confirmação da exclusão;
 
-    10- Visualizar a mensagem de confirmação;
+    12- Visualizar a mensagem de confirmação de exclusão;
 
 **Critérios de êxito:**
 
-- O usuário deve conseguir excluir o perfil do pet cadastrado na sua conta;
-- O redirecionamento deverá levar para a Tela Meus Pets da aplicação.
+- O usuário deve conseguir excluir o perfil do pet cadastrado em sua conta;
+- O redirecionamento deverá levar para a Tela Meus Pets da aplicação;
+- O perfil do usuário não deve ser excluído juntamente com o perfil do Pet.
 
 ---
 
