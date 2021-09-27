@@ -80,13 +80,12 @@ A tabela abaixo apresenta os requisitos funcionais do projeto, identificando a p
 |------|-------------------------------------|--------|
 |RF-001| O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.| ALTA |
 |RF-002| O sistema deverá permitir criar um perfil para o pet, registrando seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação).| ALTA |
-|RF-003| O sistema deverá permitir ao usuário cadastrar vacinas e medicamentos que não estejam no banco de dados padrão do site, bom como suas referidas datas de aplicação.| ALTA |
-|RF-004| O sistema deverá informar ao usuário as vacinas e os medicamentos que estiverem em atraso no momento do cadastro do perfil do pet, com base nos dados fornecidos pelo dono.| MÉDIA |
-|RF-006|O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinação, medicação) para compartilhamento com hotéis de pets, veterinários, etc., mediante autorização do usuário responsável pela conta.| MÉDIA |
-|RF-007| O sistema deverá fornecer notificações das datas de aplicação das próximas vacinas, vermífugos e medicamentos controlados.| MÉDIA |
-|RF-008| O sistema deverá permitir a transferência do perfil do pet para outra conta de usuário (responsável), caso ele mude de dono.| ALTA |
-|RF-009| O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.| ALTA |
-|RF-010| O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo automaticamente qualquer perfil de pet vinculado somente a ela no momento.| ALTA |
+|RF-003| O sistema deverá informar ao usuário as vacinas e os medicamentos que estiverem em atraso.| MÉDIA |
+|RF-004|O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinação, etc.) para compartilhamento com hotéis de pets, veterinários, etc., mediante autorização do usuário responsável pela conta.| MÉDIA |
+|RF-005| O sistema deverá fornecer notificações das datas de aplicação das próximas vacinas e vermífugos.| MÉDIA |
+|RF-006| O sistema deverá permitir a transferência do perfil do pet para outra conta de usuário (responsável), caso ele mude de dono.| ALTA |
+|RF-007| O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.| ALTA |
+|RF-008| O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo, automaticamente, qualquer perfil de pet vinculado somente a ela.| ALTA |
 
 ### Requisitos não Funcionais
 
