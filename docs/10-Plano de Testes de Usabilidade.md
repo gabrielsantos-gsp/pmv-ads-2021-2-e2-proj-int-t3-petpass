@@ -4,24 +4,24 @@ O teste de usabilidade permite avaliar a qualidade da interface com o usuário d
 
 A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que será adotado para a aplicação do Pet Pass.
 
-###Tipo de Teste de Usabilidade a ser adotado:
+### Tipo de Teste de Usabilidade a ser adotado:
 - Teste de Usabilidade remoto e não mderado
 
-###Objetivos do teste:
+### Objetivos do teste:
 - Descoberta de problemas
 - Teste de experimentação
 
-###O que será mensurado (indicadores):
+### O que será mensurado (indicadores):
 - Facilidade de navegação do usuário;
 - Funcionamento adequado das funcionalidades do sistema;
 - Acessibilidade da aplicação;
 - Satisfação do usuário com o uso da aplicação;
 - Possibilidade de indicação da aplicação para terceiros
 
-###Meio de avaliação e forma de registro das percepções dos participantes do teste:
+### Meio de avaliação e forma de registro das percepções dos participantes do teste:
 - Formulário no estilo questionário
 
-###Definição dos participantes do teste:
+### Definição dos participantes do teste:
 
 | Faixa etária | Nº de particiántes |	Possui pet? |	Participante Deficiente? |
 |--------------|--------------------|-------------|--------------------------|
@@ -30,7 +30,7 @@ A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que se
 | 60 anos ou + | 3 | sim ou não? | sim ou não? |
 | Total: | 10 |  |  | 
 
-###Sequência de testes a serem aplicados:
+### Sequência de testes a serem aplicados:
 
 - 01- Criar uma conta de usuário;
 - 02- Fazer login com a conta criada;
