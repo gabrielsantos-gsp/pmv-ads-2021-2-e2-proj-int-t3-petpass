@@ -32,9 +32,9 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
     2- Informar o endereço do Site (https://pet-pass.vercel.app/registrar);
 
     3- Clicar em 'ENTER' no teclado;
-    
+
     4- Visualizar a homepage do site e a região de Login;
-    
+
     5- Clicar no botão 'Criar conta';
 
     6- Visualizar a página de registrar do site;
@@ -110,7 +110,7 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
     5- Localizar o texto “Esqueci minha senha" na região de Login;
 
     6- Clicar em “Esqueci minha senha”;
-    
+
     7- Visualizar o campo para preenchimento com o e-mail de recuperação cadastrado;
 
     7- Inserir o e-mail já cadastrado para recuperação de senha;
@@ -118,11 +118,128 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
     8- Clicar no botão “Confirmar”;
 
 **Critérios de êxito:**
+
 - Uma mensagem deve ser enviada ao e-mail de recuperação do usuário com a senha cadastrada;
 - O usuário deve conseguir recuperar sua senha;
 - O usuário deve conseguir fazer Login no site.
 
 ---
+
+### Caso teste CT-004
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de criar um perfil de pet no site.
+
+**Requisitos associados:**
+
+RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação).
+
+**Passos:**
+
+1- Acessar o Navegador;
+
+2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+3- Clicar em 'ENTER' no teclado;
+
+4- Visualizar a página de Login do site;
+
+5- Visualizar os inputs de Nome e Email;
+
+6- Clicar nos inputs do login que aparecem no centro da página;
+
+7- Informar o email e senha cadastrada no site;
+
+8- Clicar no botão de Entrar;
+
+9- Clicar na opção ‘CADASTRAR PETS’ no menu à esquerda;
+
+10- Clicar na opção ‘Cadastre um novo pet’;
+
+11- Informar os dados do pet: Foto, Nome, Idade, Cachorro/Gato, Raça, Sexo, Peso;
+
+12- Clicar no botão Cadastrar.
+
+**Critérios de êxito:**
+
+- O usuário deve conseguir criar um perfil de pet no site;
+
+  --
+
+### Caso teste CT-005
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de verificação dos perfis de pet cadastrados em uma conta.
+
+**Requisitos associados:**
+
+RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação).
+
+**Passos:**
+1- Acessar o Navegador;
+
+2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+3- Clicar em 'ENTER' no teclado;
+
+4- Visualizar a página de Login do site;
+
+5- Visualizar os inputs de Nome e Email;
+
+6- Clicar nos inputs do login que aparecem no centro da página;
+
+7- Informar o email e senha cadastrada no site;
+
+8- Clicar no botão de Entrar;
+
+9- Clicar na opção ‘Meus pets’ no menu à esquerda;
+
+**Critérios de êxito:**
+
+- O usuário deve conseguir observar todos os perfis de pet cadastrados em sua conta;
+
+--
+
+### Caso teste CT-006
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de verificação dos detalhes do perfil de um pet cadastrado em uma conta.
+
+**Requisitos associados:**
+
+RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação).
+
+**Passos:**
+1- Acessar o Navegador;
+
+2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+3- Clicar em 'ENTER' no teclado;
+
+4- Visualizar a página de Login do site;
+
+5- Visualizar os inputs de Nome e Email;
+
+6- Clicar nos inputs do login que aparecem no centro da página;
+
+7- Informar o email e senha cadastrada no site;
+
+8- Clicar no botão de Entrar;
+
+9- Clicar na opção ‘Meus pets’ no menu à esquerda;
+
+10- Clicar na opção ‘Ver perfil’ no perfil do pet desejado;
+
+11- Clicar em ‘Voltar’ para retornar ao menu com o perfil geral de todos os pets cadastrados.
+
+**Critérios de êxito:**
+
+- O usuário deve conseguir observar o perfil detalhado de um pet cadastrado em sua conta;
+
+--
 
 ### Caso teste CT-006
 
@@ -145,22 +262,23 @@ RF-004: O sistema deverá permitir gerar um relatório com as informações de s
     4- Visualizar a homepage do site e a região de Login;
 
     5- Informar o Email e Senha cadastrados no site;
-    
+
     6- Clicar no botão para Entrar;
 
     7- Visualizar a tela *DashBoard*;
-    
+
     8- Clicar no botão 'Gerar Relatório' da *side bar*;
 
     9- Visualizar a tela 'Gerar Relatório'
-    
+
     10- Selecionar as check box de quais Pets deseja-se emitir o relatório (pode ser de um ou mais Pets);
-    
+
     11- Clicar e 'Gerar relatório';
-    
+
     12- Ser redirecionado para a tela de impressão do seu computador, celular ou tablet.
 
 **Critérios de êxito:**
+
 - O usuário deve conseguir gerar uma versão para impressão do relatório;
 - O relatório deve conter todas as informações dos Pets selecionados pelo usuário.
 
@@ -187,35 +305,35 @@ RF-006: O sistema deverá permitir a transferência do perfil do pet para outra 
     4- Visualizar a homepage do site e a região de Login;
 
     5- Informar o Email e Senha cadastrados no site;
-    
+
     6- Clicar no botão para Entrar;
 
     7- Visualizar a tela *DashBoard*;
-    
+
     8- Clicar no botão 'Meus Pets' da *side bar*;
 
     9- Visualizar a tela 'Meus Pets'
-    
+
     10- Selecionar a opção 'Tranferir Perfil' no Pet desejado;
-    
+
     11- Visualizar a tela de busca para o usuário de destino;
-    
+
     12- Preencher o campo de busca com o CPF do usuário de destino;
-    
+
     13- Encontrar o perfil do usuário de destino e selecioná-lo;
-    
+
     14- Clicar em 'Transferir';
-    
+
     15- Uma notificação aparecerá no perfil do usuário de destino;
-    
+
     16- O usuário de destino deverá abrir a notificação de transferência exibida no sininho da página;
-    
+
     17- A notificação de tranferência deve conter os dados principais do Pet, sua foto e o nome do usuário de origem;
-    
+
     18- O usuário de destino deverá clicar em 'Aceitar" ou 'Recusar' para completar ou não a tranferência.
-    
 
 **Critérios de êxito:**
+
 - Uma notificação de tranferência deve ser enviada ao perfil do úsuário de destino;
 - A tranferência só poderá ser concluída quando o usuário de destino der o aceite;
 - O perfil do Pet não poderá aparecer simultaneamente nos dois perfis (usuário de origem e usuário de destino);
@@ -230,7 +348,7 @@ RF-006: O sistema deverá permitir a transferência do perfil do pet para outra 
 
 - Verificar a funcionalidade de excluir um Pet associado ao usuário.
 
-**Requisitos associados:** 
+**Requisitos associados:**
 
 RF-007: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.
 
@@ -245,15 +363,15 @@ RF-007: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
     4- Visualizar a homepage do site e a região de Login;
 
     5- Informar o Email e Senha cadastrados no site;
-    
+
     6- Clicar no botão para Entrar;
 
     7- Visualizar a tela *DashBoard*;
-    
+
     8- Clicar no botão 'Meus Pets' da *side bar*;
 
     9- Visualizar a tela 'Meus Pets'
-    
+
     10- Selecionar a opção 'Excluir Perfil' no Pet desejado;
 
     11- Clicar em 'SIM' na tela de confirmação da exclusão;
@@ -274,7 +392,7 @@ RF-007: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
 - Verificar a funcionalidade excluir conta de usuário.
 
-**Requisitos associados:** 
+**Requisitos associados:**
 
 RF-008: O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo automaticamente qualquer perfil de pet vinculado somente a ela no momento.
 
@@ -313,7 +431,7 @@ RF-008: O sistema deverá permitir a exclusão da conta de usuário responsável
 
 - Verificar o funcionamento do sistema nos principais navegadores da Web.
 
-**Requisitos associados:** 
+**Requisitos associados:**
 
 RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google Chrome, Mozila Firefox, Microsoft Edge).
 
