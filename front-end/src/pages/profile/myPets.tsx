@@ -29,7 +29,7 @@ export default function myPets() {
 
   // o useEffect recebe 2 parametros, o 1° qual função eu quero executar, a 2° é quando algum que eu escolher mudar essa função executa dnv
   useEffect(() => {
-    fetch("http://localhost:3000/api/pets") // Faz um fetch dos dados na api
+    fetch("http://localhost:3000/api/") // Faz um fetch dos dados na api
       .then((response) => response.json()) // quando o fetch me der uma resposta(response) conversão para json
       .then((data) => setPet(data)); // depois da conversão, os dados são atribuidos a setPet, criado com useState
   }, []);
