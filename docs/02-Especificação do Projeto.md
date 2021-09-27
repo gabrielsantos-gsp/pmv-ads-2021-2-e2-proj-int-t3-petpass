@@ -80,7 +80,7 @@ A tabela abaixo apresenta os requisitos funcionais do projeto, identificando a p
 |------|-------------------------------------|--------|
 |RF-001| O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.| ALTA |
 |RF-002| O sistema deverá permitir criar um perfil para o pet, registrando seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação).| ALTA |
-|RF-003| O sistema deverá informar ao usuário as vacinas e os medicamentos que estiverem em atraso.| MÉDIA |
+|RF-003| O sistema deverá informar ao usuário as vacinas que estiverem em atraso.| MÉDIA |
 |RF-004|O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinação, etc.) para compartilhamento com hotéis de pets, veterinários, etc., mediante autorização do usuário responsável pela conta.| MÉDIA |
 |RF-005| O sistema deverá fornecer notificações das datas de aplicação das próximas vacinas e vermífugos.| MÉDIA |
 |RF-006| O sistema deverá permitir a transferência do perfil do pet para outra conta de usuário (responsável), caso ele mude de dono.| ALTA |
