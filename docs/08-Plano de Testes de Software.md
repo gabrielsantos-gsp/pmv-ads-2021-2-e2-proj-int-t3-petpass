@@ -121,6 +121,63 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
 ---
 
+### Caso teste CT-008
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de tranferência do perfil do Pet
+
+**Requisitos associados:**
+RF-006: O sistema deverá permitir a transferência do perfil do pet para outra conta de usuário (responsável), caso ele mude de dono.
+
+**Passos:**
+
+    1- Acessar o Navegador;
+
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+    3- Clicar em 'ENTER' no teclado;
+
+    4- Visualizar a homepage do site e a região de Login;
+
+    5- Informar o Email e Senha cadastrados no site;
+    
+    6- Clicar no botão para Entrar;
+
+    7- Visualizar a tela *DashBoard*;
+    
+    8- Clicar no botão 'Meus Pets' da *side bar*;
+
+    9- Visualizar a tela 'Meus Pets'
+    
+    10- Selecionar a opção 'Tranferir Perfil' no Pet desejado;
+    
+    11- Visualizar a tela de busca para o usuário de destino;
+    
+    12- Preencher o campo de busca com o CPF do usuário de destino;
+    
+    13- Encontrar o perfil do usuário de destino e selecioná-lo;
+    
+    14- Clicar em 'Transferir';
+    
+    15- Uma notificação aparecerá no perfil do usuário de destino;
+    
+    16- O usuário de destino deverá abrir a notificação de transferência exibida no sininho da página;
+    
+    17- A notificação de tranferência deve conter os dados principais do Pet, sua foto e o nome do usuário de origem;
+    
+    18- O usuário de destino deverá clicar em 'Aceitar" ou 'Recusar' para completar ou não a tranferência.
+    
+
+**Critérios de êxito:**
+- Uma notificação de tranferência deve ser enviada ao perfil do úsuário de destino;
+- A tranferência só poderá ser concluída quando o usuário de destino der o aceite;
+- O perfil do Pet não poderá aparecer simultaneamente nos dois perfis (usuário de origem e usuário de destino);
+- O usuário de origem deve conseguir encontrar o perfil do usuário de destino fazendo uma busca por CPF no site;
+- O usuário de origem deve conseguir realizar a transfeência do perfil do Pet.
+
+---
+
 ### **Caso teste CT-011**
 
 **Objetivo do teste:**
