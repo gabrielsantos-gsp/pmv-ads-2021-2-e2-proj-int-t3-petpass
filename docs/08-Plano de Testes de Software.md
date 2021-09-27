@@ -114,3 +114,107 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 - O usuário deve conseguir Logar no site.
 
 ---
+
+### **Caso teste CT-011**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade excluir Pet associado ao usuário.
+
+**Requisitos associados:** RF-009: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.
+
+**Passos:**
+
+    1- Acessar o Navegador;
+
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+    3- Clicar em 'ENTER' no teclado;
+
+    4- Visualizar a página de Login do site;
+
+    5- Informar o Email e Senha cadastrada no site;
+    
+    6- Clicar no botão para Entrar;
+
+    7- Visualizar a tela DashBoard e clicar no botão Meus Pets;
+
+    8- Visualizar a tela Meus Pets e selecionar a opção Excluir Perfil;
+
+    9- Clicar em 'SIM' na tela de exclusão;
+
+    10- Visualizar a mensagem de confirmação;
+
+**Critérios de êxito:**
+
+- O usuário deve conseguir excluir o perfil do pet cadastrado na sua conta;
+- O redirecionamento deverá levar para a Tela Meus Pets da aplicação.
+
+---
+
+### **Caso teste CT-012**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade excluir conta de usuário.
+
+**Requisitos associados:** RF-010: O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo automaticamente qualquer perfil de pet vinculado somente a ela no momento.
+
+**Passos:**
+
+    1- Acessar o Navegador;
+
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+    3- Clicar em 'ENTER' no teclado;
+
+    4- Visualizar a página de Login do site;
+
+    5- Informar o Email e Senha cadastrada no site;
+
+    6- Clicar no botão para Entrar;
+
+    7- Visualizar a tela DashBoard, clicar no botão referente ao Perfil e selecionar a opção 'Editar Perfil';
+
+    8- Visualizar a tela Editar Perfil e selecionar a opção 'Excluir Perfil';
+
+    9- Clicar em 'Sim' na tela de exclusão;
+
+    10- Visualizar a mensagem de confirmação;
+
+**Critérios de êxito:**
+
+- O usuário deve conseguir excluir a sua conta de usuário e os dos Pets associados;
+- O redirecionamento deverá levar para o DashBoard (Tela principal do site) da aplicação.
+
+---
+
+### **Caso teste CT-013**
+
+**Objetivo do teste:**
+
+- Verificar o funcionamento do sistema nos principais navegadores da Web.
+
+**Requisitos associados:** RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google Chrome, Mozila Firefox, Microsoft Edge).
+
+**Passos:**
+
+    1- Acessar o Navegador Google Chrome;
+
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+    3- Clicar em 'ENTER' no teclado;
+
+    4- Visualizar a página de Login do site;
+
+    5- Informar o Email e Senha cadastrada no site;
+
+    6- Clicar no botão para Entrar;
+
+    7 – Assistir ao vídeo demonstrativo;
+
+    8- Executar as principais funcionalidades do sistema: Cadastrar Pet, Cadastrar Vacina, Editar Perfil de Usuário, Excluir Pet, Excluir Perfil de Usuário, Gerar Relatório, etc;
+
+**Critérios de êxito:**
+
+- O sistema responde corretamente em todos os navegadores testados.
