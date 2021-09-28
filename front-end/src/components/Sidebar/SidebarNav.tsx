@@ -10,7 +10,7 @@ export function SidebarNav() {
   return (
     <Stack spacing="8" align="flex-start">
       <NavSection title="GERAL">
-        <NavLink icon={RiDashboardLine} href="/profile/dashboard">
+        <NavLink icon={RiDashboardLine} href="/profile">
           Dashboard
         </NavLink>
       </NavSection>
