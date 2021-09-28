@@ -1,5 +1,3 @@
-import { Box, Button, Flex, Text } from "@chakra-ui/react";
-import Image from "next/image";
 import { HeaderHome } from "../components/HeaderHome";
 import { HomePage } from "../components/HomePage";
 

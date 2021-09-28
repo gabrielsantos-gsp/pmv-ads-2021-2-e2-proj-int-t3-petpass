@@ -11,8 +11,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "yarn jest",
-    "server": "json-server -d 750 -w -p 3333 ./server.js"
+    "test": "yarn jest"
   },
   "dependencies": {
     "@chakra-ui/react": "^1.6.6",
@@ -26,20 +25,12 @@
     "react-dom": "17.0.2",
     "react-hook-form": "^7.12.2",
     "react-icons": "^4.2.0",
-    "sass": "^1.37.5",
     "yup": "^0.32.9"
   },
   "devDependencies": {
-    "@testing-library/dom": "^8.2.0",
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^12.0.0",
     "@types/react": "^17.0.16",
-    "babel-jest": "^27.1.0",
     "eslint": "7.32.0",
     "eslint-config-next": "11.0.1",
-    "jest": "^27.1.0",
-    "jest-dom": "^4.0.0",
-    "json-server": "^0.16.3",
     "typescript": "^4.3.5"
   }
 }
