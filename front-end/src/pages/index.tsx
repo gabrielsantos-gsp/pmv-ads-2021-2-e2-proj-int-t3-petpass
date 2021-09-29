@@ -4,7 +4,7 @@ import { HomePage } from "../components/HomePage";
 /**
  * Pagina inicial do site
  * @author ArthurBernardoDev
- * @param SideBarDrawerProviderProps
+ * @param
  * @returns void
  */
 export default function Home() {

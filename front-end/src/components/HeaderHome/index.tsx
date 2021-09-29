@@ -1,18 +1,10 @@
-import { Button, Flex, Link, Text } from "@chakra-ui/react";
+import { Button, Flex, Text } from "@chakra-ui/react";
+import styles from "./HeaderHome.module.scss";
+import { Link } from "../Link/index";
 
 export function HeaderHome() {
   return (
-    <Flex
-      as="header"
-      w="100%"
-      maxWidth={1480}
-      h="20"
-      mx="auto"
-      mt="4"
-      px="6"
-      align="center"
-      // background="#47a9c4"
-    >
+    <header className={styles.header}>
       <Text
         fontSize={["2xl", "3xl"]}
         fontWeight="bold"
@@ -46,6 +38,6 @@ export function HeaderHome() {
           <Link href="/account/register">Registrar</Link>
         </Button>
       </Flex>
-    </Flex>
+    </header>
   );
 }
