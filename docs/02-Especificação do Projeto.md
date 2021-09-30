@@ -90,8 +90,7 @@ A tabela abaixo apresenta os requisitos funcionais do projeto, identificando a p
 | RF-006 | O sistema deverá permitir a transferência do perfil do pet para outra conta de usuário (responsável), caso ele mude de dono.                                                                                                        | ALTA       |
 | RF-007 | O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.                                                                                                                                          | ALTA       |
 | RF-008 | O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo, automaticamente, qualquer perfil de pet vinculado somente a ela.                                                                            | ALTA       |
-
-| RF-009 | O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados. | ALTA |
+| RF-009 | O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.                                                                                                                                               | ALTA       |
 
 ### Requisitos não Funcionais
 
