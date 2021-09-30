@@ -137,35 +137,35 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
 **Passos:**
 
-1- Acessar o Navegador;
+    1- Acessar o Navegador;
 
-2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
 
-3- Clicar em 'ENTER' no teclado;
+    3- Clicar em 'ENTER' no teclado;
 
-4- Visualizar a página de Login do site;
+    4- Visualizar a página de Login do site;
 
-5- Visualizar os inputs de Nome e Email;
+    5- Visualizar os inputs de Nome e Email;
 
-6- Clicar nos inputs do login que aparecem no centro da página;
+    6- Clicar nos inputs do login que aparecem no centro da página;
 
-7- Informar o email e senha cadastrada no site;
+    7- Informar o email e senha cadastrada no site;
 
-8- Clicar no botão de Entrar;
+    8- Clicar no botão de Entrar;
 
-9- Clicar na opção ‘CADASTRAR PETS’ no menu à esquerda;
+    9- Clicar na opção ‘CADASTRAR PETS’ no menu à esquerda;
 
-10- Clicar na opção ‘Cadastre um novo pet’;
+    10- Clicar na opção ‘Cadastre um novo pet’;
 
-11- Informar os dados do pet: Foto, Nome, Idade, Cachorro/Gato, Raça, Sexo, Peso;
+    11- Informar os dados do pet: Foto, Nome, Idade, Cachorro/Gato, Raça, Sexo, Peso;
 
-12- Clicar no botão Cadastrar.
+    12- Clicar no botão Cadastrar.
 
 **Critérios de êxito:**
 
 - O usuário deve conseguir criar um perfil de pet no site;
 
-  --
+---
 
 ### Caso teste CT-005
 
@@ -178,29 +178,30 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação).
 
 **Passos:**
-1- Acessar o Navegador;
 
-2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    1- Acessar o Navegador;
 
-3- Clicar em 'ENTER' no teclado;
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
 
-4- Visualizar a página de Login do site;
+    3- Clicar em 'ENTER' no teclado;
 
-5- Visualizar os inputs de Nome e Email;
+    4- Visualizar a página de Login do site;
 
-6- Clicar nos inputs do login que aparecem no centro da página;
+    5- Visualizar os inputs de Nome e Email;
 
-7- Informar o email e senha cadastrada no site;
+    6- Clicar nos inputs do login que aparecem no centro da página;
 
-8- Clicar no botão de Entrar;
+    7- Informar o email e senha cadastrada no site;
 
-9- Clicar na opção ‘Meus pets’ no menu à esquerda;
+    8- Clicar no botão de Entrar;
+
+    9- Clicar na opção ‘Meus pets’ no menu à esquerda;
 
 **Critérios de êxito:**
 
 - O usuário deve conseguir observar todos os perfis de pet cadastrados em sua conta;
 
---
+---
 
 ### Caso teste CT-006
 
@@ -213,35 +214,36 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação).
 
 **Passos:**
-1- Acessar o Navegador;
 
-2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    1- Acessar o Navegador;
 
-3- Clicar em 'ENTER' no teclado;
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
 
-4- Visualizar a página de Login do site;
+    3- Clicar em 'ENTER' no teclado;
 
-5- Visualizar os inputs de Nome e Email;
+    4- Visualizar a página de Login do site;
 
-6- Clicar nos inputs do login que aparecem no centro da página;
+    5- Visualizar os inputs de Nome e Email;
 
-7- Informar o email e senha cadastrada no site;
+    6- Clicar nos inputs do login que aparecem no centro da página;
 
-8- Clicar no botão de Entrar;
+    7- Informar o email e senha cadastrada no site;
 
-9- Clicar na opção ‘Meus pets’ no menu à esquerda;
+    8- Clicar no botão de Entrar;
 
-10- Clicar na opção ‘Ver perfil’ no perfil do pet desejado;
+    9- Clicar na opção ‘Meus pets’ no menu à esquerda;
 
-11- Clicar em ‘Voltar’ para retornar ao menu com o perfil geral de todos os pets cadastrados.
+    10- Clicar na opção ‘Ver perfil’ no perfil do pet desejado;
+
+    11- Clicar em ‘Voltar’ para retornar ao menu com o perfil geral de todos os pets cadastrados.
 
 **Critérios de êxito:**
 
 - O usuário deve conseguir observar o perfil detalhado de um pet cadastrado em sua conta;
 
---
+---
 
-### Caso teste CT-006
+### Caso teste CT-007
 
 **Objetivo do teste:**
 
@@ -342,7 +344,7 @@ RF-006: O sistema deverá permitir a transferência do perfil do pet para outra 
 
 ---
 
-### **Caso teste CT-011**
+### Caso teste CT-009
 
 **Objetivo do teste:**
 
@@ -386,7 +388,7 @@ RF-007: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
 ---
 
-### **Caso teste CT-012**
+### Caso teste CT-010
 
 **Objetivo do teste:**
 
@@ -425,7 +427,7 @@ RF-008: O sistema deverá permitir a exclusão da conta de usuário responsável
 
 ---
 
-### **Caso teste CT-013**
+### Caso teste CT-011
 
 **Objetivo do teste:**
 
@@ -456,3 +458,94 @@ RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google C
 **Critérios de êxito:**
 
 - O sistema responde corretamente em todos os navegadores testados.
+
+---
+
+### Caso teste CT-012
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de editar perfil do usuário.
+
+**Requisitos associados:**
+
+RF-009: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
+
+**Passos:**
+
+    1- Acessar o Navegador;
+
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+    3- Clicar em 'ENTER' no teclado;
+
+    4- Visualizar a homepage do site e a região de Login;
+
+    5- Visualizar os campos de Nome e e-mail na área de Login;
+
+    6- Clicar nos campos do Login que aparecem no centro da página;
+
+    7- Preencher os campos com o e-mail e a senha cadastrados no site;
+
+    8- Clicar no botão de Entrar;
+
+    9- Clicar no ícone redondo no canto superior direito;
+
+    10- Clicar em 'Editar Perfil';
+
+    11-Clicar em 'Editar' nos campos à direita de 'Nome' ou 'Email' ou 'Alterar foto' e fazer as alterações necessárias;
+
+    12- Clicar no botão 'Salvar'.
+
+**Critérios de êxito:**
+
+- O usuário deve conseguir logar em sua conta;
+- O usuário deve conseguir acessar o seu perfil com seus dados;
+- O usuário deve conseguir salvar as alterações feitas;
+
+---
+
+### Caso teste CT-013
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de editar perfil do pet.
+
+**Requisitos associados:**
+
+RF-009: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
+
+**Passos:**
+
+    1- Acessar o Navegador;
+
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+    3- Clicar em 'ENTER' no teclado;
+
+    4- Visualizar a página de Login do site;
+
+    5- Visualizar os inputs de Nome e Email;
+
+    6- Clicar nos inputs do login que aparecem no centro da página;
+
+    7- Informar o email e senha cadastrada no site;
+
+    8- Clicar no botão de Entrar;
+
+    9- Clicar na opção ‘Meus pets’ no menu à esquerda;
+
+    10- Clicar na opção ‘Editar perfil’ no perfil do pet desejado;
+
+    11- Alterar os dados desejados em cada campo específico;
+
+    12-  Clicar em 'Salvar alterações';
+
+    13- Caso deseje cancelar as alterações, clicar em 'Cancelar'.
+
+**Critérios de êxito:**
+
+- O usuário deve conseguir acessar o perfil do pet;
+- O usuário deve conseguir salvar as alterações feitas;
+
+---
