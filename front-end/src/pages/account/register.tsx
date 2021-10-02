@@ -56,7 +56,7 @@ export default function CreateUser() {
           as="form"
           w="100%"
           maxWidth={360}
-          bg="gray.800"
+          bg="white"
           p="8"
           borderRadius={8}
           flexDir="column"
@@ -65,7 +65,6 @@ export default function CreateUser() {
           <Stack spacing="4">
             <Input
               placeholder="Digite seu nome"
-              name="name"
               type="name"
               label="Nome"
               error={errors.name}
@@ -73,7 +72,6 @@ export default function CreateUser() {
             />
             <Input
               placeholder="Digite seu email"
-              name="email"
               type="email"
               label="E-mail"
               error={errors.email}
@@ -81,7 +79,6 @@ export default function CreateUser() {
             />
             <Input
               placeholder="Digite sua data de nascimento"
-              name="dataDeNascimento"
               type="dataDeNascimento"
               label="Data de nascimento"
               error={errors.dataDeNascimento}
@@ -90,7 +87,6 @@ export default function CreateUser() {
 
             <Input
               placeholder="Digite sua senha"
-              name="password"
               type="password"
               label="Senha"
               error={errors.password}
@@ -98,7 +94,6 @@ export default function CreateUser() {
             />
             <Input
               placeholder="Digite sua senha"
-              name="password_confirmation"
               type="password"
               label="Confirmarção de senha"
               error={errors.password_confirmation}
@@ -117,8 +112,8 @@ export default function CreateUser() {
             Criar conta
           </Button>
           <Text mt="4">
-            Já criou sua conta?{" "}
-            <Link href="/login" color="gray.300">
+            Já criou sua conta?
+            <Link href="/account/login" color="gray.300">
               Entrar com sua conta
             </Link>
           </Text>
