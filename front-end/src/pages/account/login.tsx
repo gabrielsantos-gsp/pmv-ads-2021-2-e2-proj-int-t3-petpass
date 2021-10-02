@@ -41,7 +41,7 @@ export default function Login() {
           as="form"
           w="100%"
           maxWidth={360}
-          bg="gray.800"
+          bg="white"
           p="8"
           borderRadius={8}
           flexDir="column"
@@ -50,16 +50,13 @@ export default function Login() {
           <Stack spacing="4">
             <Input
               placeholder="Digite seu email"
-              name="email"
               type="email"
               label="E-mail"
               error={errors.email}
               {...register("email")}
             />
-
             <Input
               placeholder="Digite sua senha"
-              name="password"
               label="senha"
               error={errors.password}
               {...register("password")}
@@ -77,15 +74,14 @@ export default function Login() {
             Entrar
           </Button>
           <Text mt="4">
-            Não tem uma conta?{" "}
-            <Link href="/registrar" color="gray.300">
+            Não tem uma conta?
+            <Link href="/account/register" color="gray.300">
               Criar conta
             </Link>
           </Text>
           <Text mt="4">
             Esqueceu sua senha?
             <Link href="/registrar" color="gray.300">
-              {" "}
               Clique Aqui
             </Link>
           </Text>

@@ -1,5 +1,6 @@
-import { Box, Button, Flex, Text } from "@chakra-ui/react";
+import { Box, Button, Text } from "@chakra-ui/react";
 import Image from "next/image";
+import styles from "./HomePage.module.scss";
 
 interface HomePageProps {
   titulo: string;
@@ -17,15 +18,7 @@ export function HomePage({
   src,
 }: HomePageProps) {
   return (
-    <Flex
-      maxWidth="1120px"
-      margin="0 auto"
-      p="0 2rem"
-      h="90vh"
-      display="flex"
-      alignItems="center"
-      justify="space-between"
-    >
+    <div className={styles.contentHome}>
       <Box>
         <Text fontSize="3.5rem" fontWeight="bold" color="gray.800">
           {titulo}
@@ -57,6 +50,6 @@ export function HomePage({
       <Box marginRight="5">
         <Image id={imagem} src={src} width={1300} height={900}></Image>
       </Box>
-    </Flex>
+    </div>
   );
 }
