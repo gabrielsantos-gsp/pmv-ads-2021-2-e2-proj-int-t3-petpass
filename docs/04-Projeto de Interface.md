@@ -73,7 +73,7 @@ Tela responsável pelo cadastro do perfil Pet, associado ao perfil do usuário, 
 
 ![Tela Cadastrar Pets](img/Tela_CadastrarPet.PNG)
 
-### Tela Selecionar Vacinas Aplicadas:
+### Tela Minhas Vacinas:
 
 Tela em que o usuário seleciona, de uma relação de vacinas previamente cadastradas no sistema, quais já foram aplicadas, bem como as datas em que foram realizadas as aplicações.
 
