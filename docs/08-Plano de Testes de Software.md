@@ -171,7 +171,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade de verificação dos perfis de pet cadastrados em uma conta.
+- Verificar a funcionalidade de visualização dos perfis de pet cadastrados em uma conta.
 
 **Requisitos associados:**
 
@@ -207,7 +207,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade de verificação dos detalhes do perfil de um pet cadastrado em uma conta.
+- Verificar a funcionalidade de visualização dos detalhes do perfil de um pet cadastrado em uma conta.
 
 **Requisitos associados:**
 
@@ -348,7 +348,7 @@ RF-006: O sistema deverá permitir a transferência do perfil do pet para outra 
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade de excluir um Pet associado ao usuário.
+- Verificar a funcionalidade de Excluir o perfil de um Pet associado ao usuário.
 
 **Requisitos associados:**
 
@@ -392,7 +392,7 @@ RF-007: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade excluir conta de usuário.
+- Verificar a funcionalidade Excluir conta de usuário.
 
 **Requisitos associados:**
 
@@ -465,7 +465,7 @@ RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google C
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade de editar perfil do usuário.
+- Verificar a funcionalidade de Editar perfil do usuário.
 
 **Requisitos associados:**
 
@@ -509,7 +509,7 @@ RF-009: O sistema deverá permitir a edição das informações do usuário e do
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade de editar perfil do pet.
+- Verificar a funcionalidade de Editar perfil do pet.
 
 **Requisitos associados:**
 
