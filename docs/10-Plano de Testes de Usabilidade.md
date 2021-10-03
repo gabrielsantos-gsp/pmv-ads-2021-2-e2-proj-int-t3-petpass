@@ -6,6 +6,7 @@ A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que se
 
 ### Modelo de teste a ser adotado:
 - Teste de Usabilidade remoto e não mderado
+-- Os participantes realizam os estudos diretamente em seus próprios dispositivos, como tablets, smartphones e notebooks, sem acompanhamento de moderador.
 
 ### Objetivos do teste:
 - Descoberta de problemas
