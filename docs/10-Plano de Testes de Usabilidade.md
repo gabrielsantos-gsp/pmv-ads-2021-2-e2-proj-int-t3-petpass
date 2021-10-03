@@ -4,7 +4,7 @@ O teste de usabilidade permite avaliar a qualidade da interface com o usuário d
 
 A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que será adotado para a aplicação do Pet Pass.
 
-### Tipo de Teste de Usabilidade a ser adotado:
+### Modelo de teste a ser adotado:
 - Teste de Usabilidade remoto e não mderado
 
 ### Objetivos do teste:
