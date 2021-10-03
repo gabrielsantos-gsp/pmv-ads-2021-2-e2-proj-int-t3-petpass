@@ -10,9 +10,13 @@ A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que se
 
 ### Objetivos do teste:
 - Descoberta de problemas
-- Teste de experimentação
+>  Seu objetivo é identificar e corrigir eventuais problemas existentes na plataforma e averiguar quais são os obstáculos para a fluida utilização da aplicação.
+- Teste de aprendizado
+>  O modelo adotado será o de teste de experimentação, por meio do qual, para realizar uma tarefa específica, uma pessoa que lida com a ferramenta pela primeira vez terá que começar do zero.
 
-### O que será mensurado (indicadores):
+### O que será mensurado:
+
+
 - Facilidade de navegação do usuário;
 - Funcionamento adequado das funcionalidades do sistema;
 - Acessibilidade da aplicação;
