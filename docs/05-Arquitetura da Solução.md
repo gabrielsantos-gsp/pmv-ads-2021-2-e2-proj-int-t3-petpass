@@ -14,15 +14,15 @@ A seguir, é mostrado o Diagrama de Classes da aplicação Pet Pass:
 
 ## Modelo ER
 
-O Modelo Entidade-Relacionamento (E-R) representa, através de um diagrama, como as entidades (coisas/objetos) se relacionam entre si na aplicação interativa.
+O Modelo Entidade-Relacionamento (MER) representa, através de um diagrama, como as entidades (coisas/objetos) se relacionam entre si na aplicação interativa.
 
-A seguir, é mostrado o Modelo E-R da aplicação Pet Pass:
+A seguir, é mostrado o MER da aplicação Pet Pass:
 
 ![Diagrama_E-R](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Diagrama%20E-R.PNG?raw=true)
 
 ## Esquema Relacional
 
-O Esquema Relacional corresponde à representação dos dados do Modelo E-R em tabelas, juntamente com as restrições de integridade e chave primária (destacada em negrito) e chave estrangeira (apenas sublinhada).
+O Esquema Relacional corresponde à representação dos dados do Modelo ER em tabelas, juntamente com as restrições de integridade e chave primária (destacada em negrito) e chave estrangeira (apenas sublinhada).
 
 A seguir, é mostrado o Esquema relacional da aplicação Pet Pass:
 
