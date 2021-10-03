@@ -124,5 +124,4 @@ O diagrama de casos de uso é o primeiro esboço da aplicação a ser desenvolvi
 
 A seguir, é representado o Diagrama de Casos de Uso do sistema Pat Pass (carteira de vacinação digital para pets):
 
-![Diagrama de Casos de Uso_Cliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/pet-pass/blob/main/docs/img/Diagrama%20de%20Caso%20de%20Uso_Cliente.png?raw=true)
-![Diagrama de Casos de Uso_Veterinário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pet-pass/blob/main/docs/img/Diagrama%20de%20Caso%20de%20Uso_Veterin%C3%A1rio.png?raw=true)
+![Diagrama de Casos de Uso_REVISADO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Diagrama%20de%20Caso%20de%20Uso_REVISADO.png?raw=true)
