@@ -51,41 +51,19 @@ A solução implementada conta com os seguintes módulos:
 >
 > - [Whimsical](https://whimsical.com/)
 
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
+## User Flow
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+Em complemento ao Diagrama de Fluxo, é destacado abaixo o *User Flow*, que apresenta a mesma ideia do diagrama anterior. Contudo, fornece uma visualização mais realista da interface pensada para a aplicação, utilizando para isso a concepção dos *Wireframes*.
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
+![User_Flow](img/Diagrama.png)
 
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
-
-![Exemplo de UserFlow](img/userflow.jpg)
-
+O usuário acessa o endereço *web* onde a aplicação está hospedada e então tem acesso à homepage do sistema. Nesta etapa, ele poderá fazer login em sua conta, caso já esteja cadastrado, ou criar uma nova conta de usuário, login e senha; podendo também recuperar a conta caso tenha esquecido a senha. Após o login, ao entrar de fato no sistema, o usuário é direcionado para a área do Dashboad, onde poderá assistir ao vídeo demonstrativo acerca do funcionamento da aplicação. Em seguida, ele poderá adicionar um perfil de Pet a sua conta, fornecendo todas as informações solicitadas acerca do Pet. Criado o perfil desse Pet, o usuário poderá associar a ele as vacinas que já foram aplicadas, escolhendo o tipo de vacina e informando a dose e a data de aplicação. Concluído o perfil do Pet, o usuário terá a opção, através da tela principal "Meus Pets", de visualizar o perfil do Pet criado (de forma detalhada), excluir o perfil desse Pet, ou tranferir o perfil desse Pet para outro usuário cadastrado no sistema. Na *sidebar* da aplicação, o usuário ainda encontra a opção de gerar um relatório das condições de vacinação dos Pets selecionados e um local de informações a respeitos de todas as vacinas que podem ser aplicadas nos pets, por espécie.
 
 ## Tecnologias Utilizadas
 
 Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
 
 ## Hospedagem
 
