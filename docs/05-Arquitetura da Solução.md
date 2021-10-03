@@ -32,19 +32,15 @@ A seguir, é mostrado o Esquema relacional da aplicação Pet Pass:
 
 Diagrama que permite a modelagem física de um sistema, através da visão de seus componentes e relacionamentos entre os mesmos.
 
-![Diagrama de Componentes](img/componentes.png)
+![Diagrama de Componentes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Diagrama%20de%20componentes%20.png?raw=true)
 
 A solução implementada conta com os seguintes módulos:
 
 - **Navegador** - Interface básica do sistema  
 - **Páginas Web** - Conjunto de arquivos JavaScript, TypeScript, React e imagens que implementam as funcionalidades do sistema.
-- **Storage** - local de armazenamento onde serão implementados os bancos de dados SQL e No-SQL em C# e Asp.NET.
+- **Local Storage** - local de armazenamento onde serão implementados os bancos de dados em SQL server, utilizando as linguagens C# e Asp.NET.
 - **API** - plataforma que permite a conexão e sincronização da aplicação com o g-mail do usuário.
 - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
 
 ## User Flow
 
