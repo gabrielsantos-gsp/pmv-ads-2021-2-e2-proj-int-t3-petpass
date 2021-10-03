@@ -2,8 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-O processo de realização dos testes da solução desenvolvida está documentado nesta seção, trazendo o plano de testes de software e os registros dos testes realizados.
-O plano de testes foi elaborado pelos desenvolvedores da aplicação e a testagem do funcionamento do site também foi realizado pelos mesmos.
+Esta seção aborda o Plano de Testes de Software a ser aplicado neste projeto. Tal plano de testes foi elaborado pelos próprios desenvolvedores da aplicação, que também serão os responsáveis pela execução dos testes no sistema e do registro dos resultados.
 
 ## Plano de Testes de Software
 
