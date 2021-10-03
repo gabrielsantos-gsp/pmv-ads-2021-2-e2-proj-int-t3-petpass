@@ -38,7 +38,7 @@ A solução implementada conta com os seguintes módulos:
 
 - **Navegador** - Interface básica do sistema  
 - **Páginas Web** - Conjunto de arquivos JavaScript, TypeScript, React e imagens que implementam as funcionalidades do sistema.
-- **Local Storage** - local de armazenamento onde serão implementados os bancos de dados em SQL server, utilizando as linguagens C# e Asp.NET.
+- **Local Storage** - local onde serão implementados os bancos de dados em SQL server, utilizando as linguagens C# e Asp.NET.
 - **API** - plataforma que permite a conexão e sincronização da aplicação com o g-mail do usuário.
 - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
