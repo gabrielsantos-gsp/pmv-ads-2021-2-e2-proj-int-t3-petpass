@@ -79,4 +79,4 @@ Para a organização e distribuição das tarefas do projeto, a equipe utilizar�
 
 Um exemplo do quadro Kanban montado pela equipe no Github é apresentado na imagem abaixo:
 
-![Kanban_Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Git%20Flow.png?raw=true)
+![Kanban_Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Kanban_github.PNG?raw=true)
