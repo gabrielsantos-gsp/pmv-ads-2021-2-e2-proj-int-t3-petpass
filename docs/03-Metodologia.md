@@ -62,34 +62,19 @@ A equipe utilizará o conceito de metodologias ágeis para fazer o gerenciamento
 A equipe está organizada da seguinte maneira:
 - **Scrum Master:** Arthur Bernardo de Almeida Simões
 - **Product Owner:** Gabriel Santos Pereira
-- **Equipe de Desenvolvimento:** Aline dos Santos Silva, Arthur Bernardo de Almeida Simões, Arthur Fernandes Roque Ferrarez, Gabriel Santos Pereira
+- **Equipe de Desenvolvimento:** Aline dos Santos Silva, Arthur Bernardo de Almeida Simões, Arthur Fernandes Roque Ferrarez, Gabriel Santos Pereira, Luisa Helena Gonçalves de Oliveira, Maiquel Alves Peres
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para a organização e distribuição das tarefas do projeto, a equipe utilizará o Github, estruturado com as seguintes listas: 
 
-### Ferramentas
+- **Product Backlog:** é uma lista detalhada de tudo o que precisa ser realizado para transformar a visão do produto em realidade (MindMaster, 2021). Ou seja, recebe todas as tarefas (entregas) que serão feitas durante o projeto. Caso surja a necessidade de incorporar novas atividades ao projeto, estas devem ser adicionadas a esta lista.
+- **Sprint:** são as entregas que serão feitas ao longo do projeto para compor o Product Backlog. Ao final de cada Sprint terá sido concluída uma das tarefas da lista do Product Backlog. Os Sprints serão divididos em Sprints Backlogs, que são tarefas menores dentro de cada Sprint que determinarão o progresso do projeto.
+- **Kanban:** é um Scrum Board que mostra o progresso da realização das Sprints Backlogs. Este quadro é delimitado em: To Do, Doing e Done.
+- **To Do:** É a lista dos Sprints Backlogs que serão trabalhados no Sprint da vez.
+- **Doing (In progress):** É a lista de tarefas que estão sendo executadas no momento pela equipe.
+- **Done:** É a lista de tarefas do Sprint que já foram concluídas e estão prontos para serem entregues ao usuário.
 
-As ferramentas empregadas no projeto são:
+Um exemplo do quadro Kanban montado pela equipe no Github é apresentado na imagem abaixo:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
