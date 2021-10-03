@@ -53,7 +53,7 @@ etiquetas:
 Para fazer a gestão do código fonte do software desenvolvido neste projeto, a equipe utilizará um processo baseado no Git Flow, no qual todas as manutenções no código serão realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature.
 Uma breve explicação sobre este processo é apresentada no vídeo [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs). A imagem a seguir exemplifica a metodologia do Git Flow.
 
-[Git_Flow]!(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Git%20Flow.png?raw=true)
+![Git_Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Git%20Flow.png?raw=true)
 
 ## Gerenciamento de Projeto
 
@@ -79,4 +79,4 @@ Para a organização e distribuição das tarefas do projeto, a equipe utilizar�
 
 Um exemplo do quadro Kanban montado pela equipe no Github é apresentado na imagem abaixo:
 
-
+![Kanban_Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Git%20Flow.png?raw=true)
