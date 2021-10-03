@@ -3,7 +3,29 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia contempla a definição das ferramentas que serão utilizadas pela equipe, tanto para a gestão e manutenção dos códigos e demais artefatos, quanto para a divisão de tarefas e gerenciamento do projeto.
+
+## Ferramentas e Ambientes de Trabalho
+
+Os artefatos do projeto serão desenvolvidos a partir de duas plataformas: GitHub e Figma. 
+A relação dos ambientes com sua respectiva plataforma é apresentada na tabela abaixo:
+
+|Ambiente    |Plataforma          |
+|------------|--------------------|
+|Repositório de código fonte |[Github](https://github.com) |
+|Documentos do projeto | [Github](https://github.com) |
+|Projeto de Interface e  Wireframes| [Figma](https://www.figma.com) |
+|Gerenciamento do Projeto | [Github](https://github.com) |
+
+A relação das ferramentas empregadas no projeto e suas respectivas funções segue abaixo:
+
+|Função     |Ferramentas          |
+|-----------|---------------------|
+|Editor de código |Github, VS Code | 
+|Ferramentas de comunicação |Github, Microsoft Teams, Discord |
+|Ferramentas de diagramação |Figma, Astah, Lucidchart |
+
+Os editores de código foram escolhidos por possuírem uma integração com o sistema de versão e maior possibilidade de integração da equipe na elaboração dos códigos. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas, facilitando o contato interno entre os membros da equipe e o contato externo da equipe com o orientador do projeto. Por fim, para criar diagramas, as ferramentas utilizada foram selecionadas por melhor captar as necessidades da solução e proporcionar uma melhor visualização do produto final, alémm de serem ambientes colaborativos para a atuação simultânea da equipe.
 
 ## Controle de Versão
 
@@ -26,25 +48,21 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+## Gestão do código fonte
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+Para fazer a gestão do código fonte do software desenvolvido neste projeto, a equipe utilizará um processo baseado no Git Flow, no qual todas as manutenções no código serão realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature.
+Uma breve explicação sobre este processo é apresentada no vídeo [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs). A imagem a seguir exemplifica a metodologia do Git Flow.
 
 ## Gerenciamento de Projeto
 
+A equipe utilizará o conceito de metodologias ágeis para fazer o gerenciamento do projeto, tendo escolhido a metodologia Scrum como base para a definição do processo de desenvolvimento.
+
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+A equipe está organizada da seguinte maneira:
+- **Scrum Master:** Arthur Bernardo de Almeida Simões
+- **Product Owner:** Gabriel Santos Pereira
+- **Equipe de Desenvolvimento:** Aline dos Santos Silva, Arthur Bernardo de Almeida Simões, Arthur Fernandes Roque Ferrarez, Gabriel Santos Pereira
 
 ### Processo
 
