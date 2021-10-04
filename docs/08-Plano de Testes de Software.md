@@ -557,18 +557,16 @@ RF-009: O sistema deverá permitir a edição das informações do usuário e do
 
 **Requisitos associados:**
 
-RF-005: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
+RF-005: O sistema deverá fornecer notificações das datas de aplicação das próximas vacinas.
 
 **Passos:**
 
 
 **Critérios de êxito:**
 
-- O usuário deve conseguir acessar o perfil do pet;
-- O usuário deve conseguir salvar as alterações feitas;
+- O Usuário deverá receber uma notificação em seu perfil informando que se aproxima a data de revacinação de um determinado Pet.
 
 ---
-
 
 ### Caso teste CT-015
 
@@ -578,12 +576,11 @@ RF-005: O sistema deverá permitir a edição das informações do usuário e do
 
 **Requisitos associados:**
 
-RNF-002: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
+RNF-002: O sistema deverá ser responsivo, permitindo sua utilização em computadores desktops, notebooks, tablets e smartphones.
 
 **Passos:**
 
 
 **Critérios de êxito:**
 
-- O usuário deve conseguir acessar o perfil do pet;
-- O usuário deve conseguir salvar as alterações feitas;
+- O usuário deve conseguir acessar e navegar pelo sistema, com a mesma usabilidade e acessando as mesmas funcionalidades, em diferentes dispositivos, como: desktops, notebooks, tablets e smartphones.
