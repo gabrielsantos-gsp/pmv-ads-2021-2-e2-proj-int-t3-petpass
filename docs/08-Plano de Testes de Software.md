@@ -548,3 +548,42 @@ RF-009: O sistema deverá permitir a edição das informações do usuário e do
 - O usuário deve conseguir salvar as alterações feitas;
 
 ---
+
+### Caso teste CT-014
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade do sistema enviar notificação quando estiver chegando a hora de revacinar o Pet.
+
+**Requisitos associados:**
+
+RF-009: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
+
+**Passos:**
+
+
+**Critérios de êxito:**
+
+- O usuário deve conseguir acessar o perfil do pet;
+- O usuário deve conseguir salvar as alterações feitas;
+
+---
+
+
+### Caso teste CT-015
+
+**Objetivo do teste:**
+
+- Verificar se o sistema está responsivo.
+
+**Requisitos associados:**
+
+RF-009: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
+
+**Passos:**
+
+
+**Critérios de êxito:**
+
+- O usuário deve conseguir acessar o perfil do pet;
+- O usuário deve conseguir salvar as alterações feitas;
