@@ -572,7 +572,7 @@ RF-005: O sistema deverá fornecer notificações das datas de aplicação das p
 
 **Objetivo do teste:**
 
-- Verificar se o sistema está responsivo.
+- Verificar se o sistema está responsivo no acesso pelo smartphone.
 
 **Requisitos associados:**
 
@@ -580,7 +580,27 @@ RNF-002: O sistema deverá ser responsivo, permitindo sua utilização em comput
 
 **Passos:**
 
+    1- Acessar o Navegador web do celular;
+
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    
+    3- Clicar no botão de 'AVANÇAR' no smartphone;
+    
+    4- Visualizar a página de Login do site;
+
+    5- Visualizar os inputs de Nome e E-mail;
+
+    6- Clicar nos inputs do login que aparecem no centro da página;
+
+    7- Informar o e-mail e senha cadastrada no site;
+
+    8- Clicar no botão de Entrar;
+
+    9- Navegar pelo site verificando seu layout e todas as suas funcionalidades.
 
 **Critérios de êxito:**
 
-- O usuário deve conseguir acessar e navegar pelo sistema, com a mesma usabilidade e acessando as mesmas funcionalidades, em diferentes dispositivos, como: desktops, notebooks, tablets e smartphones.
+- O sistema deverá funcionar normalmente na versão mobile.
+- Deverá aparecer o "Menu hamburguer" contendo as mesmas informações da *sidebar* que aparece na versão para desktop e notebook.
+- Todas as funcionalidades da aplicação deverão estar operando de forma correta na versão *mobile*.
+- As APIs devem estar funcionando corretamente na versão *mobile*.
