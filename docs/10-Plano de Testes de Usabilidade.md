@@ -79,7 +79,7 @@ Os participantes do teste deverão avaliar os indicadores descritos anteriorment
 ### Meio de avaliação e forma de registro das percepções dos participantes do teste:
 
 - Formulário no estilo questionário
- > Utilização de um formulário contendo diversas perguntas acerca dos indicadores que se deseja mensurar com os testes, baseados nas 10 Heurísticas de Jakob Nielsen. Tal formulário será feito no formato de questionário e segurá a sequência de testes que os participantes deverão realizar. 
+ > Utilização de um formulário contendo diversas perguntas acerca dos indicadores que se deseja mensurar com os testes, baseados nas 10 Heurísticas de Jakob Nielsen. Tal formulário será feito no formato de questionário, através da plataforma *Google Forms*, e segurá a sequência de testes que os participantes deverão realizar. 
  > Os resultados deste questionário serão devidamente registrados e comporão a documentação final do projeto.
 
 ### Definição dos participantes do teste:
