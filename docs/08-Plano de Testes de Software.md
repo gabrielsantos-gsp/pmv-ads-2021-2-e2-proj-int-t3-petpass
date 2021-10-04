@@ -557,7 +557,7 @@ RF-009: O sistema deverá permitir a edição das informações do usuário e do
 
 **Requisitos associados:**
 
-RF-009: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
+RF-005: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
 
 **Passos:**
 
@@ -578,7 +578,7 @@ RF-009: O sistema deverá permitir a edição das informações do usuário e do
 
 **Requisitos associados:**
 
-RF-009: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
+RNF-002: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
 
 **Passos:**
 
