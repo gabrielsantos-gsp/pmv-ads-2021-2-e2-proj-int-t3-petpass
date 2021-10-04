@@ -13,7 +13,7 @@ O diagrama de fluxo é um diagrama que representa um processo de interação ent
 
 A seguir, tem-se o Diagrama de Fluxo contruído para a aplicação do Pet Pass.
 
-![Diagrama_de_Fluxo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Diagrama%20de%20Fluxo.png?raw=true)
+![Diagrama_de_Fluxo]
 
 ## Wireframes
 
