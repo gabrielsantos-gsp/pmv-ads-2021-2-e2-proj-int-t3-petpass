@@ -561,6 +561,35 @@ RF-005: O sistema deverá fornecer notificações das datas de aplicação das p
 
 **Passos:**
 
+    1- Acessar o Navegador;
+
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+    3- Clicar em 'ENTER' no teclado;
+
+    4- Visualizar a página de Login do site;
+
+    5- Visualizar os inputs de Nome e Email;
+
+    6- Clicar nos inputs do login que aparecem no centro da página;
+
+    7- Informar o email e senha cadastrados no site;
+
+    8- Clicar no botão de Entrar;
+
+    9- Clicar em "Minhas Vacinas";
+
+    10- Adicionar uma nova vacina ao perfil de um Pet;
+
+    11- Colocar a data de aplicação como sendo do ano anterior;
+
+    12- Clicar em 'Cadastrar';
+
+    13- Encerrar sessão;
+    
+    14- Logar novamente no site;
+    
+    15- Verificar o 'sininho' e notificação
 
 **Critérios de êxito:**
 
@@ -592,7 +621,7 @@ RNF-002: O sistema deverá ser responsivo, permitindo sua utilização em comput
 
     6- Clicar nos inputs do login que aparecem no centro da página;
 
-    7- Informar o e-mail e senha cadastrada no site;
+    7- Informar o e-mail e senha cadastrados no site;
 
     8- Clicar no botão de Entrar;
 
@@ -604,3 +633,52 @@ RNF-002: O sistema deverá ser responsivo, permitindo sua utilização em comput
 - Deverá aparecer o "Menu hamburguer" contendo as mesmas informações da *sidebar* que aparece na versão para desktop e notebook.
 - Todas as funcionalidades da aplicação deverão estar operando de forma correta na versão *mobile*.
 - As APIs devem estar funcionando corretamente na versão *mobile*.
+
+---
+
+### Caso teste CT-016
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de adicionar uma vacina ao perfil do Pet.
+
+**Requisitos associados:**
+
+RF-005: O sistema deverá fornecer notificações das datas de aplicação das próximas vacinas.
+
+**Passos:**
+
+    1- Acessar o Navegador;
+
+    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+
+    3- Clicar em 'ENTER' no teclado;
+
+    4- Visualizar a página de Login do site;
+
+    5- Visualizar os inputs de Nome e Email;
+
+    6- Clicar nos inputs do login que aparecem no centro da página;
+
+    7- Informar o email e senha cadastrados no site;
+
+    8- Clicar no botão de Entrar;
+
+    9- Clicar em 'Minhas Vacinas';
+
+    10- Escolher o tipo de aninal;
+    
+    11- Escolher a vacina desejada;
+    
+    12- Escolher o Pet que tomou a vacina;
+    
+    13- Preencher a data de aplicação;
+    
+    14- Marcar a dose de aplicação;
+
+    15- Clicar em 'Cadastrar';
+
+**Critérios de êxito:**
+
+- Ao acessar o perfil do Pet, deverá aparecer a vacina adicionada recentemente pelo usuário.
+
