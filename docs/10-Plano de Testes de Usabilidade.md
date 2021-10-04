@@ -5,10 +5,12 @@ O teste de usabilidade permite avaliar a qualidade da interface com o usuário d
 A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que será adotado para a aplicação do Pet Pass.
 
 ### Modelo de teste a ser adotado:
+
 - Teste de Usabilidade remoto e não mderado
-> Os participantes realizam os estudos diretamente em seus próprios dispositivos, como tablets, smartphones e notebooks, sem acompanhamento de moderador.
+> Os participantes realizaram os estudos diretamente em seus próprios dispositivos, como: tablets, smartphones e notebooks; sem acompanhamento de moderador.
 
 ### Objetivos do teste:
+
 - Descoberta de problemas
 >  Seu objetivo é identificar e corrigir eventuais problemas existentes na plataforma e averiguar quais são os obstáculos para a fluida utilização da aplicação.
 - Teste de aprendizado
@@ -16,15 +18,61 @@ A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que se
 
 ### O que será mensurado:
 
-
-- Facilidade de navegação do usuário;
-- Funcionamento adequado das funcionalidades do sistema;
+ Os indicadores a serem avaliados durante os testes de usabilidade do sistema estão descritos abaixo:
+ 
+- Visibilidade do sistema; (A interface do sistema 
+- Navegabilidade; (O sistema é intuitivo e de fácil navegação?)
+- Padronização de telas; (A telas do sistema são padronizadas ede fácil entendimento?)
+- Eficiência e flexibilidade de uso; (
+- Estética e design;
+- Informatividade;
+- Facilidade de uso;
+- Flexibilidade de uso;
+- Funcionamento adequado das funcionalidades durante a realização das etapas do teste;
 - Acessibilidade da aplicação;
 - Satisfação do usuário com o uso da aplicação;
 - Possibilidade de indicação da aplicação para terceiros
+  
+Os participantes do teste deverão avaliar os indicadores descritos anteriormente de acordo com os critérios das 10 Heurísticas de Jakob Nielsen:
+
+1- Visibilidade do Status do Sistema
+> A interface da aplicação deve fornecer ao usuário o status em relação à sua posição dentro do sistema, ou seja, informar ao usuário sobre qual ambiente ele estava, em qual ele está e para quais outros ambientes ele poderá se dirigir a partir de sua localização.
+
+2- Compatibilidade entre o sistema e o mundo real
+> O sistema deve falar a mesma linguagem do usuário, ou seja, a linguagem que o usuário utiliza em seu dia-a-dia.
+> O sistema deverá apresentar os ícones adequados na interface para facilitar a compreensão das informações pelo usuário.
+
+3- Controle e liberdade para o usuário
+> Quando o usuário realiza ações por engano, o sistema deve apresentar uma “saída de emergência” do estado no qual entrou para o estado de segurança em que estava, pois essa possibilidade de reverter ações remove a insegurança do usuário ao utilizar a aplicação.
+
+4- Consistência e Padronização
+> Manter consistência entre as telas da aplicação, para que não seja necessário o entendimento de diferentes padrões e formas de interação em cada tela. Ou seja, uma vez aprendido determinado caminho, este poderá ser replicável em outros contextos.
+
+5- Prevenção de erros
+> Existem dois tipos de erros que os usuários normalmente cometem: o deslize e o engano. O deslize se dá quando um usuário pretende realizar uma ação, mas acaba realizando outra por falta de atenção. Já o engano se dá quando a compreensão de alguma informação pelo usuário é equivocada, ou entendida de forma diferente da correta.
+> O sistema deve prevenir que o usuário cometa tais erros. Caixas de confirmação, como as que aparecem quando você deleta um arquivo, são um exemplo de como evitar esses erros.
+
+6- Reconhecimento em vez de memorização
+> O sistema deve prover formas para que o usuário reconheceça padrões, ao invés de obrigá-lo a memorizar diversas informações, na medida em que navega pela aplicação.
+
+7- Eficiência e flexibilidade de uso
+> A interface deve ser útil tanto para usuários leigos como para usuários experientes.
+
+8- Estética e design minimalista
+> A interface deve manter apenas as informações que são realmente necessárias. As informações secundárias podem ser deixadas em segundo plano (menus, abas, etc.). Assim, a aplicação se torna mais eficiente em transmitir informação aos usuários.
+
+9- Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros
+> O ponto aqui é ajudá-lo a reparar um erro depois de ele ter cometido caso o “Cntrl+Z” não tenha funcionado.
+Um exemplo são aqueles avisos de formulários nos campos que não foram preenchidos corretamente. É uma forma simples de mostrar para o usuário que ele cometeu um erro, onde errou e o que precisa ser feito para corrigir tal erro.
+
+10- Ajuda e documentação
+> O sistema deverá apresentar uma área destinada a explicação e/ou resolução de eventuais dúvidas que o usuário possa ter com relação à navegação e à quais ações tomar dentro da aplicação, tornando-o mais independente do suporte.
 
 ### Meio de avaliação e forma de registro das percepções dos participantes do teste:
+
 - Formulário no estilo questionário
+> Utilização de um formulário contendo diversas perguntas acerca dos indicadores que se deseja mensurar com os testes, baseados nas 10 Heurísticas de Jakob Nielsen. Tal formulário será feito no formato de questionário e segurá a sequência de testes que os participantes deverão realizar. 
+> Os resultados deste questionário serão devidamente registrados e comporão a documentação final do projeto.
 
 ### Definição dos participantes do teste:
 
@@ -52,10 +100,3 @@ A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que se
 - 13- Logout (da conta);
 - 14- Excluir perfil do usuário
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
-
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
