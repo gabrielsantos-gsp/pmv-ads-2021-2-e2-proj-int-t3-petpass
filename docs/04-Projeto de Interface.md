@@ -21,7 +21,7 @@ São protótipos utilizados em design de interface para sugerir a estrutura de u
 
 A imagem abaixo mostra uma visão geral dos Wireframes da aplicação Pet Pass e seu fluxo de usuário:
 
-
+![User_Flow](img/Diagrama.png)
  
 ### Homepage:
 
