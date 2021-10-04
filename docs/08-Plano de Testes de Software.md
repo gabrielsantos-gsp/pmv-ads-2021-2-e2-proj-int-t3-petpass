@@ -644,7 +644,7 @@ RNF-002: O sistema deverá ser responsivo, permitindo sua utilização em comput
 
 **Requisitos associados:**
 
-RF-005: O sistema deverá fornecer notificações das datas de aplicação das próximas vacinas.
+RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação).
 
 **Passos:**
 
