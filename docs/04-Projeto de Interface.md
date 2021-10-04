@@ -18,6 +18,10 @@ A seguir, tem-se o Diagrama de Fluxo contruído para a aplicação do Pet Pass.
 ## Wireframes
 
 São protótipos utilizados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+
+A imagem abaixo mostra uma visão geral dos Wireframes da aplicação Pet Pass e seu fluxo de usuário:
+
+
  
 ### Homepage:
 
