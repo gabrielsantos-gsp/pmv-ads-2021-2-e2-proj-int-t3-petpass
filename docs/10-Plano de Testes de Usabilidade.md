@@ -20,18 +20,16 @@ A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que se
 
  Os indicadores a serem avaliados durante os testes de usabilidade do sistema estão descritos abaixo:
  
-- Visibilidade do sistema; (A interface do sistema 
-- Navegabilidade; (O sistema é intuitivo e de fácil navegação?)
-- Padronização de telas; (A telas do sistema são padronizadas ede fácil entendimento?)
-- Eficiência e flexibilidade de uso; (
-- Estética e design;
-- Informatividade;
-- Facilidade de uso;
-- Flexibilidade de uso;
-- Funcionamento adequado das funcionalidades durante a realização das etapas do teste;
-- Acessibilidade da aplicação;
-- Satisfação do usuário com o uso da aplicação;
-- Possibilidade de indicação da aplicação para terceiros
+- **Visibilidade do sistema** (A interface do sistema permite a visualização adequada das funcionalidades?);
+- **Navegabilidade** (O sistema é intuitivo e de fácil navegação?);
+- **Padronização de telas** (As telas do sistema são padronizadas e de fácil compreensão?);
+- **Eficiência e flexibilidade de uso** (O sistema se mostrou prático, rápido, intuitivo e de fácil utilização?);
+- **Estética e design** (A interface apresenta uma aparecncia agradável e minimalista?);
+- **Informatividade** (A aplicação apresenta informações sobre como utilizá-la?);
+- **Funcionamento durante os testes** (O sistema funcionou adequadamente durante todos os testes?);
+- **Acessibilidade** (A aplicação se mostrou acessível para pessoas com deficiência?);
+- **Grau de satisfação** (Qual sua satisfação com esta aplicação?);
+- **Possibilidade de indicação para terceiros** (Você indicaria esta aplicação para outras pessoas?).
   
 Os participantes do teste deverão avaliar os indicadores descritos anteriormente de acordo com os critérios das 10 Heurísticas de Jakob Nielsen:
 
