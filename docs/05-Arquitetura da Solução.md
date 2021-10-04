@@ -65,7 +65,7 @@ Como ferramentas de suporte ao design serão utilizados os seguintes sites:
 - Coolors.co (https://coolors.co/palettes/trending)
 - Flatcon (https://www.flaticon.com/br/)
 
-Como ferramenta de regitro dos testes de usabilidade será utilizado:
+Como ferramenta de registro dos testes de usabilidade será utilizado:
 - Google Forms (plataforma de formulários do Google)
 
 Serão utilizadas também APIs para as seguinte aplicações: G-mail.
