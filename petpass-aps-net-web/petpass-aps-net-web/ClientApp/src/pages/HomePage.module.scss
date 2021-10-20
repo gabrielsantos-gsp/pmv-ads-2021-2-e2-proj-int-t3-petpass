@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+
+  main {
+    display: flex;
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    height: 62vh;
+
+    img {
+      width: 600px;
+      height: 400px;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 2.5rem;
+      line-height: 2.5rem;
+      color: white;
+      font-weight: "900";
+    }
+
+    button {
+      background: white;
+      border-radius: 8px;
+      border: none;
+      margin-top: 1rem;
+      height: 50px;
+      align-items: center;
+      width: 100px;
+      font-size: 1rem;
+      color: black;
+      transition: all 0.5s ease;
+    }
+    button:hover {
+      background: black;
+      color: white;
+    }
+
+    @media (max-width: 750px) {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
