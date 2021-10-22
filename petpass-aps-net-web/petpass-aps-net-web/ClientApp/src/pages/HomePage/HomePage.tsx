@@ -11,7 +11,7 @@ export default function HomePage() {
         <div>
           <h1>PetPass</h1>
           <h2>
-            O joeito mais fácil de manter a saúde do seu melhor amigo em dia.
+            O jeito mais fácil de manter a saúde do seu melhor amigo em dia.
           </h2>
           <button>Sobre nós</button>
         </div>
