@@ -1,0 +1,74 @@
+﻿@model PetPass.Models.Pet
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Pet</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdPet" />
+            <div class="form-group">
+                <label asp-for="NomePet" class="control-label"></label>
+                <input asp-for="NomePet" class="form-control" />
+                <span asp-validation-for="NomePet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoPet" class="control-label"></label>
+                <select asp-for="TipoPet" class="form-control" asp-items="Html.GetEnumSelectList<PetTipo>()"></select>
+                <span asp-validation-for="TipoPet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RacaPet" class="control-label"></label>
+                <input asp-for="RacaPet" class="form-control" />
+                <span asp-validation-for="RacaPet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SexoPet" class="control-label"></label>
+                <select asp-for="SexoPet" class="form-control" asp-items="Html.GetEnumSelectList<PetSexo>()"></select>
+                <span asp-validation-for="SexoPet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdadePet" class="control-label"></label>
+                <input asp-for="IdadePet" class="form-control" />
+                <span asp-validation-for="IdadePet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PesoPet" class="control-label"></label>
+                <input asp-for="PesoPet" class="form-control" />
+                <span asp-validation-for="PesoPet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataNascPet" class="control-label"></label>
+                <input asp-for="DataNascPet" class="form-control" />
+                <span asp-validation-for="DataNascPet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataRegPet" class="control-label"></label>
+                <input asp-for="DataRegPet" class="form-control" />
+                <span asp-validation-for="DataRegPet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FotoPet" class="control-label"></label>
+                <input asp-for="FotoPet" class="form-control" />
+                <span asp-validation-for="FotoPet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-info">Voltar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

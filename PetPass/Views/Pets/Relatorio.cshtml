@@ -1,0 +1,119 @@
+﻿@model PetPass.Models.Pet
+
+@{
+    ViewData["Title"] = "Relatorio";
+}
+
+<h2>Dados do Pet</h2>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NomePet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NomePet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TipoPet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TipoPet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.RacaPet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RacaPet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SexoPet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SexoPet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IdadePet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IdadePet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PesoPet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PesoPet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataNascPet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataNascPet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataRegPet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataRegPet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FotoPet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FotoPet)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Descrição da Vacina
+                </th>
+                <th>
+                    Idade de Aplicação
+                </th>
+                <th>
+                    Data de Aplicação
+                </th>
+                <th>
+                    Dose Aplicada
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Vacinas.OrderByDescending(c => c.Data_Aplicacao))
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descricao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Idade_Aplicacao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Data_Aplicacao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Dose_Aplicada)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Pet.NomePet)
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-info">Voltar</a>
+</div>

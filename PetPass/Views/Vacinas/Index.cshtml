@@ -1,0 +1,65 @@
+﻿@model IEnumerable<PetPass.Models.Vacina>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Animal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Idade_Aplicacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data_Aplicacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dose_Aplicada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pet)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Animal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Idade_Aplicacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data_Aplicacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dose_Aplicada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pet.NomePet)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdVac">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdVac">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdVac">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
