@@ -18,6 +18,10 @@ A aplicação atendeu ao objetivo do teste;
 
 Foi verificada a possibilidade de cadastrar a conta do usuário no site.
 
+![Tela Criar Usuario](img/ct001.png)
+
+Figura 01 – Print da página Criar Usuário
+
 **Caso teste CT-002**
 
 **Objetivo do teste:**
@@ -27,6 +31,10 @@ Foi verificada a possibilidade de cadastrar a conta do usuário no site.
 **Resultado do teste:**
 
 Foi possível verificar que o usuário conseguiu logar normalmente em sua conta.
+
+![Tela Usuario Login](img/ct002.png)
+
+Figura 02 – Print da página Usuário Login
 
 **Caso teste CT-003**
 
@@ -48,6 +56,10 @@ Funcionalidade ainda não implantada no sistema.
 
 Foi verificado que por meio do botão "Pets" o usuário consegue cadastrar um perfil de pet contendo várias informações do animal, dentre elas: Nome, raça, idade, data de nascimento e peso.
 
+![Tela Criar Pet](img/ct004.png)
+
+Figura 03 – Print da página Criar Pet
+
 **Caso teste CT-005**
 
 **Objetivo do teste:**
@@ -59,6 +71,10 @@ Foi verificado que por meio do botão "Pets" o usuário consegue cadastrar um pe
 Atendeu parcialmente o requisito.
 
 Foi verificado que por meio do botão "Pets" o usuário consegue vizualizar não somente os perfis de pets cadastrados em uma conta mas sim todos os perfis de pet cadastrados no site.
+
+![Tela Ver Pets](img/ct005.png)
+
+Figura 04 – Print da página Ver Pets
 
 **Caso teste CT-006**
 
@@ -74,7 +90,7 @@ O usuário consegue visualizar o perfil detalhado de um Pet cadastrado em sua co
 
 ![Tela Detalhes](img/Detalhes_PetPass.PNG)
 
-Figura xx – Print da página Detalhes
+Figura 05 – Print da página Detalhes
 
 **Caso teste CT-007**
 
@@ -90,7 +106,7 @@ O relatório apresenta todas as informações do Pet selecionado porém ainda é
 
 ![Tela Relatorio](img/Relatorio_PetPass.PNG)
 
-Figura xx – Print da página Dados do Pet (Relatório)
+Figura 06 – Print da página Dados do Pet (Relatório)
 
 **Caso teste CT-008**
 
@@ -120,11 +136,11 @@ Não há alteração no perfil do usuário após a exclusão.
 
 ![Tela Excluir Pet](img/ExcluirPet_PetPass.PNG)
 
-Figura xx – Print da página de Excluir Pet (Parte 1)
+Figura 07 – Print da página de Excluir Pet (Parte 1)
 
 ![Tela Excluir Pet2](img/ExcluirPet2_PetPass.PNG)
 
-Figura xx – Print da página de Excluir Pet (Parte 2)
+Figura 08 – Print da página de Excluir Pet (Parte 2)
 
 **Caso teste CT-010**
 
@@ -144,8 +160,8 @@ Não houve alteração na Tela de Pets (ainda não existe vínculo Usuário-Pets
 
 ![Tela Excluir Usuario](img/ExcluirUsuario_PetPass.PNG)
 
-Figura xx – Print da página de Excluir Usuário (Parte 1)
+Figura 09 – Print da página de Excluir Usuário (Parte 1)
 
 ![Tela Excluir Usuario2](img/ExcluirUsuario2_PetPass.PNG)
 
-Figura xx – Print da página de Excluir Usuário (Parte 2)
+Figura 10 – Print da página de Excluir Usuário (Parte 2)
