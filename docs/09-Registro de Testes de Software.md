@@ -6,6 +6,60 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## Avaliação
 
+**Caso teste CT-001**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de criar uma conta no site.
+
+**Resultado do teste:**
+
+A aplicação atendeu ao objetivo do teste;
+
+Foi verificada a possibilidade de cadastrar a conta do usuário no site.
+
+**Caso teste CT-002**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de login do usuário.
+
+**Resultado do teste:**
+
+Foi possível verificar que o usuário conseguiu logar normalmente em sua conta.
+
+**Caso teste CT-003**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de recuperação de senha do usuário.
+
+**Resultado do teste:**
+
+Funcionalidade ainda não implantada no sistema.
+
+**Caso teste CT-004**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de criar um perfil de pet no site.
+
+**Resultado do teste:**
+
+Foi verificado que por meio do botão "Pets" o usuário consegue cadastrar um perfil de pet contendo várias informações do animal, dentre elas: Nome, raça, idade, data de nascimento e peso.
+
+**Caso teste CT-005**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de visualização dos perfis de pet cadastrados em uma conta.
+
+**Resultado do teste:**
+
+Atendeu parcialmente o requisito.
+
+Foi verificado que por meio do botão "Pets" o usuário consegue vizualizar não somente os perfis de pets cadastrados em uma conta mas sim todos os perfis de pet cadastrados no site.
+
 **Caso teste CT-006**
 
 **Objetivo do teste:**
