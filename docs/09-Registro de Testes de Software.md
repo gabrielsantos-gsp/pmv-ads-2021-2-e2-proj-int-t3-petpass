@@ -165,3 +165,87 @@ Figura 09 – Print da página de Excluir Usuário (Parte 1)
 ![Tela Excluir Usuario2](img/ExcluirUsuario2_PetPass.PNG)
 
 Figura 10 – Print da página de Excluir Usuário (Parte 2)
+
+### Caso teste CT-011
+
+**Objetivo do teste:**
+
+- Verificar o funcionamento do sistema nos principais navegadores da Web.
+
+**Resultado do Teste:**
+
+Funcionalidade ainda não implantada no sistema.
+
+### Caso teste CT-012
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de Editar perfil do usuário.
+
+**Resultado do Teste:**
+
+O teste ocorreu de forma parcialmente correta. O usuário consegue logar em sua conta e alterar seus dados de usuário, incluindo login e senha, com a respectiva alteração no banco de dados. Entretanto, o banco de dados ainda está visível para todos os usuários logados, permitindo a um usuário editar o perfil de outro usuário que não seja ele.
+
+![Tela Editar Usuario1]
+
+Figura 11 – Print da página de Editar Usuário
+
+![Tela Usuarios]
+
+Figura 12 – Print da página Usuários
+
+### Caso teste CT-013
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de Editar perfil do pet.
+
+**Resultado do Teste:**
+
+O teste ocorreu de forma parcialmente correta. O usuário consegue logar em sua conta e alterar o perfil de seu pet, com o devido registro da alteração no Banco de Dados da aplicação. Porém, o banco de dados ainda está visível para todos os usuários logados, permitindo a um usuário editar o perfil de um pet que não seja dele.
+
+![Tela Editar Usuario1]
+
+Figura 13 – Print da página de Editar Pet
+
+![Tela Usuarios]
+
+Figura 14 – Print da página Pets
+
+### Caso teste CT-014
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade do sistema enviar notificação quando estiver chegando a hora de revacinar o Pet.
+
+**Resultado do Teste:**
+
+Funcionalidade ainda não implantada no sistema.
+
+### Caso teste CT-015
+
+**Objetivo do teste:**
+
+- Verificar se o sistema está responsivo no acesso pelo smartphone.
+
+**Resultado do Teste:**
+
+Funcionalidade ainda não implantada no sistema.
+
+### Caso teste CT-016
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de adicionar uma vacina ao perfil do Pet.
+
+**Resultado do Teste:**
+
+O teste ocorreu de forma correta. O Usuário consegue adicionar uma nova vacina ao perfil de seu pet e ter seu registro atualizado no banco de dados, permitindo-o gerar um relatório já constando a nova vacina registrada.
+
+![Tela Editar Usuario1]
+
+Figura 15 – Print da página de Adicionar Vacina
+
+![Tela Usuarios]
+
+Figura 16 – Print da página Relatório do Pet
