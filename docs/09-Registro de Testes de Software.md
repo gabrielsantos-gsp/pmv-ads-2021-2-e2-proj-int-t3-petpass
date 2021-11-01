@@ -187,7 +187,6 @@ Funcionalidade ainda não implantada no sistema.
 O teste ocorreu de forma parcialmente correta. O usuário consegue logar em sua conta e alterar seus dados de usuário, incluindo login e senha, com a respectiva alteração no banco de dados. Entretanto, o banco de dados ainda está visível para todos os usuários logados, permitindo a um usuário editar o perfil de outro usuário que não seja ele.
 
 ![Tela Editar Usuario1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste_12_tela1.PNG?raw=true)
-![Tela Editar Usuario1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste12_tela2.PNG?raw=true)
 
 Figura 11 – Print da página de Editar Usuário
 
@@ -238,8 +237,8 @@ O teste ocorreu de forma correta. O Usuário consegue adicionar uma nova vacina 
 
 ![Tela Adicionar Vacina](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste_16_tela1.PNG?raw=true)
 
-Figura 14 – Print da página de Adicionar Vacina
+Figura 13 – Print da página de Adicionar Vacina
 
 ![Tela Relatorio_Pet](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste_16_tela2.PNG?raw=true)
 
-Figura 15 – Print da página Relatório do Pet
+Figura 14 – Print da página Relatório do Pet
