@@ -186,13 +186,10 @@ Funcionalidade ainda não implantada no sistema.
 
 O teste ocorreu de forma parcialmente correta. O usuário consegue logar em sua conta e alterar seus dados de usuário, incluindo login e senha, com a respectiva alteração no banco de dados. Entretanto, o banco de dados ainda está visível para todos os usuários logados, permitindo a um usuário editar o perfil de outro usuário que não seja ele.
 
-![Tela Editar Usuario1]
+![Tela Editar Usuario1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste_12_tela1.PNG?raw=true)
+![Tela Editar Usuario1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste12_tela2.PNG?raw=true)
 
 Figura 11 – Print da página de Editar Usuário
-
-![Tela Usuarios]
-
-Figura 12 – Print da página Usuários
 
 ### Caso teste CT-013
 
@@ -204,13 +201,13 @@ Figura 12 – Print da página Usuários
 
 O teste ocorreu de forma parcialmente correta. O usuário consegue logar em sua conta e alterar o perfil de seu pet, com o devido registro da alteração no Banco de Dados da aplicação. Porém, o banco de dados ainda está visível para todos os usuários logados, permitindo a um usuário editar o perfil de um pet que não seja dele.
 
-![Tela Editar Usuario1]
+![Tela Editar Pet](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste_13_tela1.PNG?raw=true)
 
-Figura 13 – Print da página de Editar Pet
+Figura 12 – Print da página de Editar Pet
 
-![Tela Usuarios]
+![Tela Pets](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste13_tela2.PNG?raw=true)
 
-Figura 14 – Print da página Pets
+Figura 13 – Print da página Pets
 
 ### Caso teste CT-014
 
@@ -242,10 +239,10 @@ Funcionalidade ainda não implantada no sistema.
 
 O teste ocorreu de forma correta. O Usuário consegue adicionar uma nova vacina ao perfil de seu pet e ter seu registro atualizado no banco de dados, permitindo-o gerar um relatório já constando a nova vacina registrada.
 
-![Tela Editar Usuario1]
+![Tela Adicionar Vacina](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste_16_tela1.PNG?raw=true)
 
-Figura 15 – Print da página de Adicionar Vacina
+Figura 14 – Print da página de Adicionar Vacina
 
-![Tela Usuarios]
+![Tela Relatorio_Pet](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste_16_tela2.PNG?raw=true)
 
-Figura 16 – Print da página Relatório do Pet
+Figura 15 – Print da página Relatório do Pet
