@@ -66,6 +66,7 @@ namespace PetPass.Controllers
         // GET: Pets/Create
         public IActionResult Create()
         {
+            ViewData["UsuarioId"] = new SelectList(_context.Pets, "IdUsuario", "Nome");
             return View();
         }
 
@@ -74,7 +75,7 @@ namespace PetPass.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdPet,NomePet,TipoPet,RacaPet,SexoPet,IdadePet,PesoPet,DataNascPet,DataRegPet,FotoPet")] Pet pet)
+        public async Task<IActionResult> Create([Bind("IdPet,NomePet,TipoPet,RacaPet,SexoPet,IdadePet,IdadePet2,PesoPet,DataNascPet,DataRegPet,FotoPet,UsuarioId")] Pet pet)
         {
             if (ModelState.IsValid)
             {
@@ -82,6 +83,7 @@ namespace PetPass.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["UsuarioId"] = new SelectList(_context.Pets, "IdUsuario", "Nome", pet.Usuario);
             return View(pet);
         }
 
@@ -98,6 +100,7 @@ namespace PetPass.Controllers
             {
                 return NotFound();
             }
+            ViewData["UsuarioId"] = new SelectList(_context.Pets, "IdUsuario", "Nome", pet.Usuario);
             return View(pet);
         }
 
@@ -106,7 +109,7 @@ namespace PetPass.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("IdPet,NomePet,TipoPet,RacaPet,SexoPet,IdadePet,PesoPet,DataNascPet,DataRegPet,FotoPet")] Pet pet)
+        public async Task<IActionResult> Edit(int id, [Bind("IdPet,NomePet,TipoPet,RacaPet,SexoPet,IdadePet,IdadePet2,PesoPet,DataNascPet,DataRegPet,FotoPet,UsuarioId")] Pet pet)
         {
             if (id != pet.IdPet)
             {
@@ -133,6 +136,7 @@ namespace PetPass.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["UsuarioId"] = new SelectList(_context.Pets, "IdUsuario", "Nome", pet.Usuario);
             return View(pet);
         }
 

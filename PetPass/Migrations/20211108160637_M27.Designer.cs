@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PetPass.Models;
 
 namespace PetPass.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20211108160637_M27")]
+    partial class M27
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -58,12 +60,7 @@ namespace PetPass.Migrations
                     b.Property<int>("TipoPet")
                         .HasColumnType("int");
 
-                    b.Property<int?>("UsuarioId")
-                        .HasColumnType("int");
-
                     b.HasKey("IdPet");
-
-                    b.HasIndex("UsuarioId");
 
                     b.ToTable("MeusPets");
                 });
@@ -122,15 +119,6 @@ namespace PetPass.Migrations
                     b.HasIndex("PetId");
 
                     b.ToTable("MinhasVacinas");
-                });
-
-            modelBuilder.Entity("PetPass.Models.Pet", b =>
-                {
-                    b.HasOne("PetPass.Models.Usuario", "Usuario")
-                        .WithMany()
-                        .HasForeignKey("UsuarioId");
-
-                    b.Navigation("Usuario");
                 });
 
             modelBuilder.Entity("PetPass.Models.Vacina", b =>

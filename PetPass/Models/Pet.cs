@@ -31,9 +31,14 @@ namespace PetPass.Models
         public PetSexo SexoPet { get; set; }
 
         [Display(Name = "Idade (anos)")]
-        [Column(TypeName = "decimal(18,2)")]
-        [Required(ErrorMessage = "É obrigatório informar a idade aproximada do Pet.")]
-        public decimal IdadePet { get; set; }
+        [Column(TypeName = "int")]
+        [Required(ErrorMessage = "É obrigatório informar a idade aproximada (em anos) do Pet. Caso ele ainda não tenha completado 1 ano, digite 0")]
+        public int IdadePet { get; set; }
+
+        [Display(Name = "Idade (meses)")]
+        [Column(TypeName = "int")]
+        [Required(ErrorMessage = "É obrigatório informar a idade aproximada (em meses) do Pet.")]
+        public int IdadePet2 { get; set; }
 
         [Display(Name = "Peso (kg)")]
         [Column(TypeName ="decimal(18,2)")]
@@ -50,13 +55,16 @@ namespace PetPass.Models
         [Display(Name = "Foto")]
         public string FotoPet { get; set; }
 
+        [ForeignKey("UsuarioId")]
+        public Usuario Usuario { get; set; }
+
         public ICollection<Vacina> Vacinas { get; set; }
 
     }
 
     public enum PetTipo
     {
-        Cao,
+        Cachorro,
         Gato
     }
 

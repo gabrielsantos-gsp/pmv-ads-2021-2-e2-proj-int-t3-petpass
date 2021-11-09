@@ -13,11 +13,11 @@ namespace PetPass.Models
         [Key]
         public int IdVac { get; set; }
 
-        [Display(Name = "Tipo de Animal")]
+        [Display(Name = "Animal")]
         [Required(ErrorMessage = "É obrigatório selecionar o tipo do Animal.")]
         public TipoAnimal Animal { get; set; }
 
-        [Display(Name = "Nome da Vacina")]
+        [Display(Name = "Vacina")]
         [Required(ErrorMessage = "É obrigatório selecionar a vacina aplicada.")]
         public TipoVacina Descricao { get; set; }
 
@@ -44,7 +44,7 @@ namespace PetPass.Models
 
     public enum TipoAnimal
     {
-        Cao,
+        Cachorro,
         Gato
     }
 
@@ -60,7 +60,7 @@ namespace PetPass.Models
 
     public enum IdadeSemanas
     {
-        de_6_a_8_semanas,
+        _6_a_8_semanas,
         _12_semanas,
         _16_semanas
 

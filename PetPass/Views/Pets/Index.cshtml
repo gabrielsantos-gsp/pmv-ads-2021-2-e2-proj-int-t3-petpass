@@ -4,10 +4,10 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Meus Pets</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-outline-primary">Adicionar Pet</a>
 </p>
 <table class="table">
     <thead>
@@ -28,16 +28,7 @@
                 @Html.DisplayNameFor(model => model.IdadePet)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.PesoPet)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DataNascPet)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DataRegPet)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FotoPet)
+                @Html.DisplayNameFor(model => model.IdadePet2)
             </th>
             <th></th>
         </tr>
@@ -61,22 +52,13 @@
                 @Html.DisplayFor(modelItem => item.IdadePet)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.PesoPet)
+                @Html.DisplayFor(modelItem => item.IdadePet2)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.DataNascPet)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DataRegPet)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.FotoPet)
-            </td>
-            <td>
-                <a asp-action="Relatorio" asp-route-id="@item.IdPet">Relatorio</a> |
-                <a asp-action="Edit" asp-route-id="@item.IdPet">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.IdPet">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.IdPet">Delete</a>
+                <a asp-action="Details" asp-route-id="@item.IdPet" class="btn btn-outline-dark">Visualizar</a> |
+                <a asp-action="Edit" asp-route-id="@item.IdPet" class="btn btn-outline-dark">Editar</a> |
+                <a asp-action="Relatorio" asp-route-id="@item.IdPet" class="btn btn-outline-dark">Relatório</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdPet" class="btn btn-outline-dark">Deletar</a>
             </td>
         </tr>
 }
