@@ -23,8 +23,12 @@ namespace PetPass.Controllers
         // GET: Vacinas
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Vacina.Include(v => v.Pet);
-            return View(await applicationDbContext.ToListAsync());
+            var vacinas = await _context.Pets
+                .Where(p => p.Usuario.Nome == User.Identity.Name)
+                .SelectMany(p => p.Vacinas)
+                .Include(v => v.Pet)
+                .ToListAsync();
+            return View(vacinas);
         }
 
         // GET: Vacinas/Details/5
@@ -35,7 +39,7 @@ namespace PetPass.Controllers
                 return NotFound();
             }
 
-            var vacina = await _context.Vacina
+            var vacina = await _context.Vacinas
                 .Include(v => v.Pet)
                 .FirstOrDefaultAsync(m => m.IdVac == id);
             if (vacina == null)
@@ -47,9 +51,10 @@ namespace PetPass.Controllers
         }
 
         // GET: Vacinas/Create
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
-            ViewData["PetId"] = new SelectList(_context.Pets, "IdPet", "NomePet");
+            var pets = await _context.Pets.Where(p => p.Usuario.Nome == User.Identity.Name).ToListAsync();
+            ViewData["PetId"] = new SelectList(pets, "IdPet", "NomePet");
             return View();
         }
 
@@ -78,12 +83,13 @@ namespace PetPass.Controllers
                 return NotFound();
             }
 
-            var vacina = await _context.Vacina.FindAsync(id);
+            var vacina = await _context.Vacinas.FindAsync(id);
             if (vacina == null)
             {
                 return NotFound();
             }
-            ViewData["PetId"] = new SelectList(_context.Pets, "IdPet", "NomePet", vacina.PetId);
+            var pets = await _context.Pets.Where(p => p.Usuario.Nome == User.Identity.Name).ToListAsync();
+            ViewData["PetId"] = new SelectList(pets, "IdPet", "NomePet", vacina.PetId);
             return View(vacina);
         }
 
@@ -119,7 +125,6 @@ namespace PetPass.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["PetId"] = new SelectList(_context.Pets, "IdPet", "NomePet", vacina.PetId);
             return View(vacina);
         }
 
@@ -131,7 +136,7 @@ namespace PetPass.Controllers
                 return NotFound();
             }
 
-            var vacina = await _context.Vacina
+            var vacina = await _context.Vacinas
                 .Include(v => v.Pet)
                 .FirstOrDefaultAsync(m => m.IdVac == id);
             if (vacina == null)
@@ -147,15 +152,15 @@ namespace PetPass.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var vacina = await _context.Vacina.FindAsync(id);
-            _context.Vacina.Remove(vacina);
+            var vacina = await _context.Vacinas.FindAsync(id);
+            _context.Vacinas.Remove(vacina);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool VacinaExists(int id)
         {
-            return _context.Vacina.Any(e => e.IdVac == id);
+            return _context.Vacinas.Any(e => e.IdVac == id);
         }
     }
 }

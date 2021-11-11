@@ -25,6 +25,8 @@ namespace PetPass.Models
         [DataType(DataType.Password)]
         public string Senha { get; set; }
 
+        public ICollection<Pet> Pets { get; set; }
+
     }
 
 }

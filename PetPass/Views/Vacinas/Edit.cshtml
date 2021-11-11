@@ -13,9 +13,9 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="IdVac" />
             <div class="form-group">
-                <label asp-for="Animal" class="control-label"></label>
-                <select asp-for="Animal" class="form-control" asp-items="Html.GetEnumSelectList<TipoAnimal>()"></select>
-                <span asp-validation-for="Animal" class="text-danger"></span>
+                <label asp-for="PetId" class="control-label"></label>
+                <select asp-for="PetId" class="form-control" asp-items="ViewBag.PetId"></select>
+                <span asp-validation-for="PetId" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Descricao" class="control-label"></label>
@@ -36,11 +36,6 @@
                 <label asp-for="Dose_Aplicada" class="control-label"></label>
                 <select asp-for="Dose_Aplicada" class="form-control" asp-items="Html.GetEnumSelectList<DoseAplic>()"></select>
                 <span asp-validation-for="Dose_Aplicada" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="PetId" class="control-label"></label>
-                <select asp-for="PetId" class="form-control" asp-items="ViewBag.PetId"></select>
-                <span asp-validation-for="PetId" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />

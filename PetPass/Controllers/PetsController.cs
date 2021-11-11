@@ -23,7 +23,8 @@ namespace PetPass.Controllers
         // GET: Pets
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Pets.ToListAsync());
+            var pets = await _context.Pets.Where(p => p.Usuario.Nome == User.Identity.Name).ToListAsync();
+            return View(pets);
         }
 
         // GET: Pets/Details/5
@@ -66,7 +67,6 @@ namespace PetPass.Controllers
         // GET: Pets/Create
         public IActionResult Create()
         {
-            ViewData["UsuarioId"] = new SelectList(_context.Pets, "IdUsuario", "Nome");
             return View();
         }
 
@@ -79,11 +79,12 @@ namespace PetPass.Controllers
         {
             if (ModelState.IsValid)
             {
+                var user = await _context.Usuarios.Where(u => u.Nome == User.Identity.Name).FirstOrDefaultAsync();
+                pet.Usuario = user;
                 _context.Add(pet);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["UsuarioId"] = new SelectList(_context.Pets, "IdUsuario", "Nome", pet.Usuario);
             return View(pet);
         }
 
@@ -100,7 +101,6 @@ namespace PetPass.Controllers
             {
                 return NotFound();
             }
-            ViewData["UsuarioId"] = new SelectList(_context.Pets, "IdUsuario", "Nome", pet.Usuario);
             return View(pet);
         }
 
@@ -120,6 +120,8 @@ namespace PetPass.Controllers
             {
                 try
                 {
+                    var user = await _context.Usuarios.Where(u => u.Nome == User.Identity.Name).FirstOrDefaultAsync();
+                    pet.Usuario = user;
                     _context.Update(pet);
                     await _context.SaveChangesAsync();
                 }
@@ -136,7 +138,6 @@ namespace PetPass.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["UsuarioId"] = new SelectList(_context.Pets, "IdUsuario", "Nome", pet.Usuario);
             return View(pet);
         }
 

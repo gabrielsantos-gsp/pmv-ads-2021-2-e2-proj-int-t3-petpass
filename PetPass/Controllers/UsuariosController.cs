@@ -12,6 +12,7 @@ using PetPass.Models;
 
 namespace PetPass.Controllers
 {
+    [Authorize]
     public class UsuariosController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -90,14 +91,12 @@ namespace PetPass.Controllers
         }
 
         // GET: Usuarios
-        [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Usuarios.ToListAsync());
         }
 
         // GET: Usuarios/Details/5
-        [Authorize]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -141,7 +140,6 @@ namespace PetPass.Controllers
         }
 
         // GET: Usuarios/Edit/5
-        [Authorize]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -162,7 +160,6 @@ namespace PetPass.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [Authorize]
         public async Task<IActionResult> Edit(int id, [Bind("IdUsuario,Nome,Email,Senha")] Usuario usuario)
         {
             if (id != usuario.IdUsuario)
@@ -195,7 +192,6 @@ namespace PetPass.Controllers
         }
 
         // GET: Usuarios/Delete/5
-        [Authorize]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -216,7 +212,6 @@ namespace PetPass.Controllers
         // POST: Usuarios/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        [Authorize]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var usuario = await _context.Usuarios.FindAsync(id);

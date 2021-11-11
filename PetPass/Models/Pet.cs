@@ -55,6 +55,10 @@ namespace PetPass.Models
         [Display(Name = "Foto")]
         public string FotoPet { get; set; }
 
+        [Display(Name = "Usuário")]
+        [Required(ErrorMessage = "É obrigatório informar o Dono.")]
+        public int UsuarioId { get; set; }
+
         [ForeignKey("UsuarioId")]
         public Usuario Usuario { get; set; }
 

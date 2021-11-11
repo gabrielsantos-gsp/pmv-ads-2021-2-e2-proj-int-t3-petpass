@@ -16,7 +16,6 @@ namespace PetPass.Models
 
         public DbSet<Pet> Pets { get; set; }
         public DbSet<Vacina> Vacinas { get; set; }
-        public DbSet<PetPass.Models.Vacina> Vacina { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
 
     }
