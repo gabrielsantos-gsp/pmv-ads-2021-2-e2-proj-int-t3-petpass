@@ -81,7 +81,7 @@ namespace PetPass.Controllers
         public async Task<IActionResult> Logout()
         {
             await HttpContext.SignOutAsync();
-            return RedirectToAction("Login", "Usuarios");
+            return Redirect("/");
         }
 
         [AllowAnonymous]
@@ -144,15 +144,13 @@ namespace PetPass.Controllers
         {
             if (id == null)
             {
-                return NotFound();
+                var identifier = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+                var user = await _context.Usuarios.Where(u => u.IdUsuario.ToString() == identifier).FirstOrDefaultAsync();
+                return View(user);
             }
 
-            var usuario = await _context.Usuarios.FindAsync(id);
-            if (usuario == null)
-            {
-                return NotFound();
-            }
-            return View(usuario);
+            return NotFound();
+            
         }
 
         // POST: Usuarios/Edit/5
@@ -162,10 +160,10 @@ namespace PetPass.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("IdUsuario,Nome,Email,Senha")] Usuario usuario)
         {
-            if (id != usuario.IdUsuario)
-            {
-                return NotFound();
-            }
+            //if (id != usuario.IdUsuario)
+            //{
+                //return NotFound();
+            //}
 
             if (ModelState.IsValid)
             {
@@ -186,7 +184,11 @@ namespace PetPass.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Details), new
+                {
+                    id = usuario.IdUsuario
+                }
+                );
             }
             return View(usuario);
         }

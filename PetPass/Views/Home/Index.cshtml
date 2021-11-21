@@ -3,11 +3,23 @@
 }
 
 <div class="text-center">
+    <br />
 
     <h2 class="display-4">Bem vindo : )</h2>
 
+    <br />
+
     <h5>Com o PetPass você tem a carteira de vacinação do seu Pet sempre a mão.</h5>
 
-    <p>Faça já seu cadastro!</p>
+    @if (!User.Identity.IsAuthenticated)
+    {
+        <br />
+        <p>Faça já seu cadastro!</p>
+        <p><a class="btn btn-lg btn-info" asp-area="" asp-controller="Usuarios" asp-action="Create">Cadastro</a></p>
+    }
+
+    <br />
+
+    <p><img src="./img/pet_2.png" class="img-fluid" width="600px" height="400px" /></p>
 
 </div>
