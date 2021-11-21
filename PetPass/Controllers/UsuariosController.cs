@@ -50,7 +50,7 @@ namespace PetPass.Controllers
                 var claims = new List<Claim>
                 {
                     new Claim(ClaimTypes.Name, user.Nome),
-                    new Claim(ClaimTypes.NameIdentifier, user.Nome),
+                    new Claim(ClaimTypes.NameIdentifier, user.IdUsuario.ToString()),
                     new Claim(ClaimTypes.Email, user.Email),
                 };
 

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -23,7 +24,8 @@ namespace PetPass.Controllers
         // GET: Pets
         public async Task<IActionResult> Index()
         {
-            var pets = await _context.Pets.Where(p => p.Usuario.Nome == User.Identity.Name).ToListAsync();
+            var identifier = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+            var pets = await _context.Pets.Where(p => p.UsuarioId.ToString() == identifier).ToListAsync();
             return View(pets);
         }
 
@@ -79,7 +81,8 @@ namespace PetPass.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = await _context.Usuarios.Where(u => u.Nome == User.Identity.Name).FirstOrDefaultAsync();
+                var identifier = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+                var user = await _context.Usuarios.Where(u => u.IdUsuario.ToString() == identifier).FirstOrDefaultAsync();
                 pet.Usuario = user;
                 _context.Add(pet);
                 await _context.SaveChangesAsync();
@@ -120,7 +123,8 @@ namespace PetPass.Controllers
             {
                 try
                 {
-                    var user = await _context.Usuarios.Where(u => u.Nome == User.Identity.Name).FirstOrDefaultAsync();
+                    var identifier = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+                    var user = await _context.Usuarios.Where(u => u.IdUsuario.ToString() == identifier).FirstOrDefaultAsync();
                     pet.Usuario = user;
                     _context.Update(pet);
                     await _context.SaveChangesAsync();

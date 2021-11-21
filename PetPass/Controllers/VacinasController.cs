@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -23,8 +24,9 @@ namespace PetPass.Controllers
         // GET: Vacinas
         public async Task<IActionResult> Index()
         {
+            var identifier = User.FindFirst(ClaimTypes.NameIdentifier).Value;
             var vacinas = await _context.Pets
-                .Where(p => p.Usuario.Nome == User.Identity.Name)
+                .Where(p => p.UsuarioId.ToString() == identifier)
                 .SelectMany(p => p.Vacinas)
                 .Include(v => v.Pet)
                 .ToListAsync();
@@ -53,7 +55,8 @@ namespace PetPass.Controllers
         // GET: Vacinas/Create
         public async Task<IActionResult> Create()
         {
-            var pets = await _context.Pets.Where(p => p.Usuario.Nome == User.Identity.Name).ToListAsync();
+            var identifier = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+            var pets = await _context.Pets.Where(p => p.UsuarioId.ToString() == identifier).ToListAsync();
             ViewData["PetId"] = new SelectList(pets, "IdPet", "NomePet");
             return View();
         }
@@ -88,7 +91,8 @@ namespace PetPass.Controllers
             {
                 return NotFound();
             }
-            var pets = await _context.Pets.Where(p => p.Usuario.Nome == User.Identity.Name).ToListAsync();
+            var identifier = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+            var pets = await _context.Pets.Where(p => p.UsuarioId.ToString() == identifier).ToListAsync();
             ViewData["PetId"] = new SelectList(pets, "IdPet", "NomePet", vacina.PetId);
             return View(vacina);
         }
