@@ -52,8 +52,6 @@ namespace PetPass.Models
         [Required(ErrorMessage = "É obrigatório informar a data de registro.")]
         public DateTime DataRegPet { get; set; }
 
-        [Display(Name = "Foto")]
-        public string FotoPet { get; set; }
 
         [Display(Name = "Usuário")]
         [Required(ErrorMessage = "É obrigatório informar o Dono.")]

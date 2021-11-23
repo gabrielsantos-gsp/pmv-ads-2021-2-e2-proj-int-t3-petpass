@@ -5,8 +5,8 @@
 }
 
 <h2>Perfil do Pet</h2>
-
-<div>
+<hr />
+<div class="centralizar">
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
@@ -63,15 +63,10 @@
         <dd class="col-sm-10">
             @Html.DisplayFor(model => model.DataRegPet)
         </dd>
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.FotoPet)
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.FotoPet)
-        </dd>
+        
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model.IdPet" class="btn btn-primary">Editar</a> |
-    <a asp-action="Index" class="btn btn-outline-info">Voltar</a>
+    <a asp-action="Edit" asp-route-id="@Model.IdPet" class="btn">Editar</a> |
+    <a asp-action="Index" class="btn">Voltar</a>
 </div>

@@ -4,8 +4,8 @@
     ViewData["Title"] = "Delete";
 }
 
-<h2>Você tem certeza que deseja deletar esse Usuário?</h2>
-<div>
+<h2 class="text-center" style="transform:translateX(-1.5%);">Você tem certeza que deseja deletar esse Usuário?</h2>
+<div class="centralizar">
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -30,7 +30,7 @@
     
     <form asp-action="Delete">
         <input type="hidden" asp-for="IdUsuario" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index" class="btn btn-outline-info">Cancelar</a>
+        <input type="submit" value="Delete" class="btn" /> |
+        <a asp-action="Index" class="btn">Cancelar</a>
     </form>
 </div>

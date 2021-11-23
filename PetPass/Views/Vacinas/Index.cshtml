@@ -43,9 +43,9 @@
                 @Html.DisplayFor(modelItem => item.Dose_Aplicada)
             </td>
             <td>
-                <a asp-action="Details" asp-route-id="@item.IdVac" class="btn btn-outline-dark">Visualizar</a> |
-                <a asp-action="Edit" asp-route-id="@item.IdVac" class="btn btn-outline-dark">Editar</a> |
-                <a asp-action="Delete" asp-route-id="@item.IdVac" class="btn btn-outline-dark">Deletar</a>
+                <a asp-action="Details" asp-route-id="@item.IdVac" class="btn"> <i class="far fa-eye" title="Visualizar"></i>Visualizar</a> |
+                <a asp-action="Edit" asp-route-id="@item.IdVac" class="btn"> <i class="fas fa-edit"></i>Editar</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdVac" class="btn"><i class="fas fa-trash-alt"></i>Deletar</a>
             </td>
         </tr>
 }

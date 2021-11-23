@@ -7,7 +7,7 @@
 <h1>Meus Pets</h1>
 
 <p>
-    <a asp-action="Create" class="btn btn-outline-primary">Adicionar Pet</a>
+    <a asp-action="Create" class="btn">Adicionar Pet</a>
 </p>
 <table class="table">
     <thead>
@@ -55,10 +55,10 @@
                 @Html.DisplayFor(modelItem => item.IdadePet2)
             </td>
             <td>
-                <a asp-action="Details" asp-route-id="@item.IdPet" class="btn btn-outline-dark"> <i class="far fa-eye" title="Visualizar"></i> Visualizar</a> |
-                <a asp-action="Edit" asp-route-id="@item.IdPet" class="btn btn-outline-dark">Editar</a> |
-                <a asp-action="Relatorio" asp-route-id="@item.IdPet" class="btn btn-outline-dark">Relatório</a> |
-                <a asp-action="Delete" asp-route-id="@item.IdPet" class="btn btn-outline-dark">Deletar</a>
+                <a asp-action="Details" asp-route-id="@item.IdPet" class="btn"> <i class="far fa-eye" title="Visualizar"></i> Visualizar</a>
+                <a asp-action="Edit" asp-route-id="@item.IdPet" class="btn"> <i class="fas fa-edit"></i>Editar</a> |
+                <a asp-action="Relatorio" asp-route-id="@item.IdPet" class="btn"> <i class="fas fa-info-circle"></i>Relatório</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdPet" class="btn"> <i class="fas fa-trash-alt"></i>Deletar</a>
             </td>
         </tr>
 }
