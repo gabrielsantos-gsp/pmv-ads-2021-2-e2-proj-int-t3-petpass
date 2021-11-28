@@ -67,15 +67,15 @@ html {
 }
 
 header {
-    background-color: #EE9B00 !important;
+    background-color: #c5781c !important;
 }
 
 body {
-    background: #EE9B00;
-    background-image:url(../img/laranja_fundo_2.svg);
+    background: #c5781c;
+    background-image: url(../img/Barrinhas_pata-removebg-preview.svg);
     background-repeat:no-repeat;
-    background-position:center;
-    background-size:cover;
+    background-position:right;
+    background-size: auto;
     /* Margin bottom by footer height */
     margin-bottom: 60px;
 }
