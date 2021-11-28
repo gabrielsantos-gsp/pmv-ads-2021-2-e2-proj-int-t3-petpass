@@ -105,15 +105,13 @@ Os participantes do teste deverão avaliar os indicadores descritos anteriorment
 
 - 01- Criar uma conta de usuário;
 - 02- Fazer login com a conta criada;
-- 03- Recuperar senha;
-- 04- Cadastrar um Pet;
-- 05- Cadastrar uma vacina;
-- 06- Acessar as informações da vacina;
-- 07- Acessar o perfil do pet;
-- 08- Gerar Relatorio;
-- 09- Editar Perfil do Pet;
-- 10- Transferir perfil do Pet;
-- 11- Excluir perfil do Pet;
-- 12- Editar perfil do usuário;
-- 13- Logout (da conta);
-- 14- Excluir perfil do usuário
+- 03- Cadastrar um Pet;
+- 04- Cadastrar uma vacina;
+- 05- Acessar as informações da vacina;
+- 06- Acessar o perfil do pet;
+- 07- Gerar Relatorio;
+- 08- Editar Perfil do Pet;
+- 09- Excluir perfil do Pet;
+- 10- Editar perfil do usuário;
+- 11- Logout (da conta);
+- 12- Excluir perfil do usuário

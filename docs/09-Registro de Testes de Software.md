@@ -40,16 +40,6 @@ Figura 02 – Print da página Usuário Login
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade de recuperação de senha do usuário.
-
-**Resultado do teste:**
-
-Funcionalidade ainda não implantada no sistema.
-
-**Caso teste CT-004**
-
-**Objetivo do teste:**
-
 - Verificar a funcionalidade de criar um perfil de pet no site.
 
 **Resultado do teste:**
@@ -60,7 +50,7 @@ Foi verificado que por meio do botão "Pets" o usuário consegue cadastrar um pe
 
 Figura 03 – Print da página Criar Pet
 
-**Caso teste CT-005**
+**Caso teste CT-004**
 
 **Objetivo do teste:**
 
@@ -76,7 +66,7 @@ Foi verificado que por meio do botão "Pets" o usuário consegue vizualizar não
 
 Figura 04 – Print da página Ver Pets
 
-**Caso teste CT-006**
+**Caso teste CT-005**
 
 **Objetivo do teste:**
 
@@ -92,7 +82,7 @@ O usuário consegue visualizar o perfil detalhado de um Pet cadastrado em sua co
 
 Figura 05 – Print da página Detalhes
 
-**Caso teste CT-007**
+**Caso teste CT-006**
 
 **Objetivo do teste:**
 
@@ -108,17 +98,7 @@ O relatório apresenta todas as informações do Pet selecionado porém ainda é
 
 Figura 06 – Print da página Dados do Pet (Relatório)
 
-**Caso teste CT-008**
-
-**Objetivo do teste:**
-
-- Verificar a funcionalidade de Transferência do perfil do Pet
-
-**Resultado do teste:**
-
-Funcionalidade ainda não implantada no sistema.
-
-**Caso teste CT-009**
+**Caso teste CT-007**
 
 **Objetivo do teste:**
 
@@ -142,7 +122,7 @@ Figura 07 – Print da página de Excluir Pet (Parte 1)
 
 Figura 08 – Print da página de Excluir Pet (Parte 2)
 
-**Caso teste CT-010**
+**Caso teste CT-008**
 
 **Objetivo do teste:**
 
@@ -166,7 +146,7 @@ Figura 09 – Print da página de Excluir Usuário (Parte 1)
 
 Figura 10 – Print da página de Excluir Usuário (Parte 2)
 
-### Caso teste CT-011
+### Caso teste CT-009
 
 **Objetivo do teste:**
 
@@ -176,7 +156,7 @@ Figura 10 – Print da página de Excluir Usuário (Parte 2)
 
 Funcionalidade ainda não implantada no sistema.
 
-### Caso teste CT-012
+### Caso teste CT-010
 
 **Objetivo do teste:**
 
@@ -190,7 +170,7 @@ O teste ocorreu de forma parcialmente correta. O usuário consegue logar em sua 
 
 Figura 11 – Print da página de Editar Usuário
 
-### Caso teste CT-013
+### Caso teste CT-011
 
 **Objetivo do teste:**
 
@@ -205,17 +185,7 @@ O teste ocorreu de forma parcialmente correta. O usuário consegue logar em sua 
 
 Figura 12 – Print da página de Editar Pet
 
-### Caso teste CT-014
-
-**Objetivo do teste:**
-
-- Verificar a funcionalidade do sistema enviar notificação quando estiver chegando a hora de revacinar o Pet.
-
-**Resultado do Teste:**
-
-Funcionalidade ainda não implantada no sistema.
-
-### Caso teste CT-015
+### Caso teste CT-012
 
 **Objetivo do teste:**
 
@@ -225,7 +195,7 @@ Funcionalidade ainda não implantada no sistema.
 
 Funcionalidade ainda não implantada no sistema.
 
-### Caso teste CT-016
+### Caso teste CT-013
 
 **Objetivo do teste:**
 

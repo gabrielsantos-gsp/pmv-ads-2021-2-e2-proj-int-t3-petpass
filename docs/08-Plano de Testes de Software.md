@@ -90,44 +90,6 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
 **Objetivo do teste:**
 
-- Verificar a funcionalidade de recuperação de senha do usuário
-
-**Requisitos associados:**
-
-RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet, associado ao seu e-mail, se ele for maior de idade.
-
-**Passos:**
-
-    1- Acessar o Navegador;
-
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/registrar);
-
-    3- Clicar em 'ENTER' no teclado;
-
-    4- Visualizar a homepage do site e a região de Login;
-
-    5- Localizar o texto “Esqueci minha senha" na região de Login;
-
-    6- Clicar em “Esqueci minha senha”;
-
-    7- Visualizar o campo para preenchimento com o e-mail de recuperação cadastrado;
-
-    7- Inserir o e-mail já cadastrado para recuperação de senha;
-
-    8- Clicar no botão “Confirmar”;
-
-**Critérios de êxito:**
-
-- Uma mensagem deve ser enviada ao e-mail de recuperação do usuário com a senha cadastrada;
-- O usuário deve conseguir recuperar sua senha;
-- O usuário deve conseguir fazer Login no site.
-
----
-
-### Caso teste CT-004
-
-**Objetivo do teste:**
-
 - Verificar a funcionalidade de criar um perfil de pet no site.
 
 **Requisitos associados:**
@@ -166,7 +128,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
 ---
 
-### Caso teste CT-005
+### Caso teste CT-004
 
 **Objetivo do teste:**
 
@@ -202,7 +164,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
 ---
 
-### Caso teste CT-006
+### Caso teste CT-005
 
 **Objetivo do teste:**
 
@@ -242,7 +204,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
 ---
 
-### Caso teste CT-007
+### Caso teste CT-006
 
 **Objetivo do teste:**
 
@@ -250,7 +212,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
 **Requisitos associados:**
 
-RF-004: O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinação, etc.) para compartilhamento com hotéis de pets, veterinários, etc.; mediante autorização do usuário responsável pela conta.
+RF-003: O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinas já aplicadas, datas de aplicação, etc.).
 
 **Passos:**
 
@@ -285,65 +247,7 @@ RF-004: O sistema deverá permitir gerar um relatório com as informações de s
 
 ---
 
-### Caso teste CT-008
-
-**Objetivo do teste:**
-
-- Verificar a funcionalidade de Tranferência do perfil do Pet
-
-**Requisitos associados:**
-
-RF-006: O sistema deverá permitir a transferência do perfil do pet para outra conta de usuário (responsável), caso ele mude de dono.
-
-**Passos:**
-
-    1- Acessar o Navegador;
-
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
-
-    3- Clicar em 'ENTER' no teclado;
-
-    4- Visualizar a homepage do site e a região de Login;
-
-    5- Informar o Email e Senha cadastrados no site;
-
-    6- Clicar no botão para Entrar;
-
-    7- Visualizar a tela *DashBoard*;
-
-    8- Clicar no botão 'Meus Pets' da *side bar*;
-
-    9- Visualizar a tela 'Meus Pets'
-
-    10- Selecionar a opção 'Tranferir Perfil' no Pet desejado;
-
-    11- Visualizar a tela de busca para o usuário de destino;
-
-    12- Preencher o campo de busca com o CPF do usuário de destino;
-
-    13- Encontrar o perfil do usuário de destino e selecioná-lo;
-
-    14- Clicar em 'Transferir';
-
-    15- Uma notificação aparecerá no perfil do usuário de destino;
-
-    16- O usuário de destino deverá abrir a notificação de transferência exibida no sininho da página;
-
-    17- A notificação de tranferência deve conter os dados principais do Pet, sua foto e o nome do usuário de origem;
-
-    18- O usuário de destino deverá clicar em 'Aceitar" ou 'Recusar' para completar ou não a tranferência.
-
-**Critérios de êxito:**
-
-- Uma notificação de tranferência deve ser enviada ao perfil do úsuário de destino;
-- A tranferência só poderá ser concluída quando o usuário de destino der o aceite;
-- O perfil do Pet não poderá aparecer simultaneamente nos dois perfis (usuário de origem e usuário de destino);
-- O usuário de origem deve conseguir encontrar o perfil do usuário de destino fazendo uma busca por CPF no site;
-- O usuário de origem deve conseguir realizar a transfeência do perfil do Pet.
-
----
-
-### Caso teste CT-009
+### Caso teste CT-007
 
 **Objetivo do teste:**
 
@@ -351,7 +255,7 @@ RF-006: O sistema deverá permitir a transferência do perfil do pet para outra 
 
 **Requisitos associados:**
 
-RF-007: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.
+RF-004: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.
 
 **Passos:**
 
@@ -387,7 +291,7 @@ RF-007: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
 ---
 
-### Caso teste CT-010
+### Caso teste CT-008
 
 **Objetivo do teste:**
 
@@ -395,7 +299,7 @@ RF-007: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
 **Requisitos associados:**
 
-RF-008: O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo automaticamente qualquer perfil de pet vinculado somente a ela no momento.
+RF-005: O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo automaticamente qualquer perfil de pet vinculado somente a ela no momento.
 
 **Passos:**
 
@@ -426,7 +330,7 @@ RF-008: O sistema deverá permitir a exclusão da conta de usuário responsável
 
 ---
 
-### Caso teste CT-011
+### Caso teste CT-009
 
 **Objetivo do teste:**
 
@@ -460,7 +364,7 @@ RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google C
 
 ---
 
-### Caso teste CT-012
+### Caso teste CT-010
 
 **Objetivo do teste:**
 
@@ -468,7 +372,7 @@ RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google C
 
 **Requisitos associados:**
 
-RF-009: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
+RF-006: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
 
 **Passos:**
 
@@ -504,7 +408,7 @@ RF-009: O sistema deverá permitir a edição das informações do usuário e do
 
 ---
 
-### Caso teste CT-013
+### Caso teste CT-011
 
 **Objetivo do teste:**
 
@@ -512,7 +416,7 @@ RF-009: O sistema deverá permitir a edição das informações do usuário e do
 
 **Requisitos associados:**
 
-RF-009: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
+RF-006: O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.
 
 **Passos:**
 
@@ -549,55 +453,7 @@ RF-009: O sistema deverá permitir a edição das informações do usuário e do
 
 ---
 
-### Caso teste CT-014
-
-**Objetivo do teste:**
-
-- Verificar a funcionalidade do sistema enviar notificação quando estiver chegando a hora de revacinar o Pet.
-
-**Requisitos associados:**
-
-RF-005: O sistema deverá fornecer notificações das datas de aplicação das próximas vacinas.
-
-**Passos:**
-
-    1- Acessar o Navegador;
-
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
-
-    3- Clicar em 'ENTER' no teclado;
-
-    4- Visualizar a página de Login do site;
-
-    5- Visualizar os inputs de Nome e Email;
-
-    6- Clicar nos inputs do login que aparecem no centro da página;
-
-    7- Informar o email e senha cadastrados no site;
-
-    8- Clicar no botão de Entrar;
-
-    9- Clicar em "Minhas Vacinas";
-
-    10- Adicionar uma nova vacina ao perfil de um Pet;
-
-    11- Colocar a data de aplicação como sendo do ano anterior;
-
-    12- Clicar em 'Cadastrar';
-
-    13- Encerrar sessão;
-    
-    14- Logar novamente no site;
-    
-    15- Verificar o 'sininho' e notificação
-
-**Critérios de êxito:**
-
-- O Usuário deverá receber uma notificação em seu perfil informando que se aproxima a data de revacinação de um determinado Pet.
-
----
-
-### Caso teste CT-015
+### Caso teste CT-012
 
 **Objetivo do teste:**
 
@@ -612,9 +468,9 @@ RNF-002: O sistema deverá ser responsivo, permitindo sua utilização em comput
     1- Acessar o Navegador web do celular;
 
     2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
-    
+
     3- Clicar no botão de 'AVANÇAR' no smartphone;
-    
+
     4- Visualizar a página de Login do site;
 
     5- Visualizar os inputs de Nome e E-mail;
@@ -630,13 +486,13 @@ RNF-002: O sistema deverá ser responsivo, permitindo sua utilização em comput
 **Critérios de êxito:**
 
 - O sistema deverá funcionar normalmente na versão mobile.
-- Deverá aparecer o "Menu hamburguer" contendo as mesmas informações da *sidebar* que aparece na versão para desktop e notebook.
-- Todas as funcionalidades da aplicação deverão estar operando de forma correta na versão *mobile*.
-- As APIs devem estar funcionando corretamente na versão *mobile*.
+- Deverá aparecer o "Menu hamburguer" contendo as mesmas informações da _sidebar_ que aparece na versão para desktop e notebook.
+- Todas as funcionalidades da aplicação deverão estar operando de forma correta na versão _mobile_.
+- As APIs devem estar funcionando corretamente na versão _mobile_.
 
 ---
 
-### Caso teste CT-016
+### Caso teste CT-013
 
 **Objetivo do teste:**
 
@@ -667,13 +523,13 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
     9- Clicar em 'Minhas Vacinas';
 
     10- Escolher o tipo de aninal;
-    
+
     11- Escolher a vacina desejada;
-    
+
     12- Escolher o Pet que tomou a vacina;
-    
+
     13- Preencher a data de aplicação;
-    
+
     14- Marcar a dose de aplicação;
 
     15- Clicar em 'Cadastrar';
@@ -681,4 +537,3 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 **Critérios de êxito:**
 
 - Ao acessar o perfil do Pet, deverá aparecer a vacina adicionada recentemente pelo usuário.
-

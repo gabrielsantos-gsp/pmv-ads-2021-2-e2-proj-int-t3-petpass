@@ -14,7 +14,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 - **Ocupação:** Dona de um abrigo de animais
 - **Motivação:** Encontrar um lar para animais abandonados.
 - **História:** Desde pequena, Priscila sempre teve animais de estimação. Daí veio sua inspiração para se tornar uma médica veterinária pois, diante do seu amor pelos bichinhos, passou a dedicar sua vida a cuidar deles. Fundou um abrigo para acolher animais abandonados, ou em situação de rua, e incentiva a adoção dos mesmos.
-- **Necessidade:** Um de seus desejos é ter um meio mais prático para registrar as informações importantes sobre a vacinação e medicação dos animais que se encontram em seu abrigo, já que são muitos.
+- **Necessidade:** Um de seus desejos é ter um meio mais prático para registrar as informações importantes sobre a vacinação dos animais que se encontram em seu abrigo, já que são muitos.
 
 ![Priscila Amaral](https://github.com/ICEI-PUC-Minas-PMV-ADS/pet-pass/blob/main/docs/img/Persona_Priscila%20Amaral.jpg?raw=true)
 
@@ -24,7 +24,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 - **Ocupação:** Advogada e Empresária
 - **Motivação:** Com seu hotelzinho de animais, visa prestar o melhor serviço a eles e garantir a satisfação dos donos.
 - **História:** Após se formar como advogada, Elena resolveu investir em um setor que está em crescimento, o de hotel de animais. Desde sempre amou seus diversos pets e quis conciliar essa característica com a vontade de crescer financeiramente.
-- **Necessidade:** Conhecer os registros de vacinas e vermífugos dos animais antes de hospedá-los em seu hotel.
+- **Necessidade:** Conhecer os registros de vacinas dos animais antes de hospedá-los em seu hotel.
 
 ![Elena Lima](https://github.com/ICEI-PUC-Minas-PMV-ADS/pet-pass/blob/main/docs/img/Persona_Elena%20Lima.jpg?raw=true)
 
@@ -34,7 +34,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 - **Ocupação:** Analista Contábil em uma empresa multinacional
 - **Motivação:** Cuidar bem dos seus pets para proporcionar a eles uma boa qualidade de vida.
 - **História:** Desde a infância Sempre gostou da companhia de animais e agora resolveu adotar um cachorro e um gato de rua.
-- **Necessidade:** Gostaria de ter um local onde possa armazenar as informações referente as vacinas e medicações que já foram aplicadas em cada um dos seus pets (data, validade, local, etc.).
+- **Necessidade:** Gostaria de ter um local onde possa armazenar as informações referente as vacinas que já foram aplicadas em cada um dos seus pets (nome da vacina, data de aplicação, etc.).
 
 ![Fernanda Amorim](https://github.com/ICEI-PUC-Minas-PMV-ADS/pet-pass/blob/main/docs/img/Persona_Fernanda%20Amorim.jpg?raw=true)
 
@@ -54,7 +54,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 - **Ocupação:** Assistente de clínica veterinária
 - **Motivação:** Ter um ambiente digital para registrar os dados dos pacientes e seus cadastros de vacinação e medicamentos.
 - **História:** Desde pequeno Jorge conviveu com os animais, pois seu pai é dono de uma clínica veterinária. Atualmente, Jorge é estudante de medicina veterinária e trabalha como assistente de seu pai na clínica de sua família.
-- **Necessidade:** Jorge está trabalhando para modernizar os processos burocráticos da clínica e viu a oportunidade de digitalizar o primeiro cadastro dos pacientes. Dessa forma os dados dos animais estariam disponíveis também na forma digital, bem como seu cronograma de vacinação e de medicação.
+- **Necessidade:** Jorge está trabalhando para modernizar os processos burocráticos da clínica e viu a oportunidade de digitalizar o primeiro cadastro dos pacientes. Dessa forma os dados dos animais estariam disponíveis também na forma digital, bem como seu cronograma de vacinação.
 
 ![Jorge Lima](https://github.com/ICEI-PUC-Minas-PMV-ADS/pet-pass/blob/main/docs/img/Persona_Jorge%20Lima.jpg?raw=true)
 
@@ -62,15 +62,15 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 A partir da compreensão do cotidiano das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
 
-| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE`                                                                                          | PARA ... `MOTIVO/VALOR`                                                                                                                                                               |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Priscila Amaral      | registrar informações básicas dos animais (dados)                                                                           | facilitar o controle para adoção.                                                                                                                                                     |
-| Priscila Amaral      | controlar de forma mais prática a vacinação                                                                                 | não perder as datas das vacinas que precisam ser dadas.                                                                                                                               |
-| Elena Lima           | consultar os dados de vacinação e vermifugação dos animais                                                                  | aceitar hospedá-los no meu hotel com maior segurança.                                                                                                                                 |
-| Fernanda Amorim      | encontrar uma solução para programar as datas de aplicação das vacinas dos meus pets                                        | não pôr em risco a saúde dos meus animais.                                                                                                                                            |
-| Fernanda Amorim      | encontrar uma solução digital que me permita ter o controle de quais vacinas e medicamentos já foram aplicados em meus pets | não precisar depender apenas da carteira física de vacinação.                                                                                                                         |
-| Carlos Silva         | encontrar uma aplicação onde seja fácil registrar informações básicas de vacinação dos animais                              | tornar mais fácil o controle das vacinas, pois tenho dificuldade em lembrar onde guardei os cartões de vacinação e também não tenho muita familiaridade em acessar _sites_ complexos. |
-| Jorge Lima           | encontrar uma aplicação onde eu possa fazer o registro dos animais (pacientes) que vêm à minha clínica                      | tornar mais fácil o controle das vacinas e dos medicamentos, mantendo também no formato digital os registros dos pacientes.                                                           |
+| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE`                                                                           | PARA ... `MOTIVO/VALOR`                                                                                                                                                               |
+| -------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Priscila Amaral      | registrar informações básicas dos animais (dados)                                                            | facilitar o controle para adoção.                                                                                                                                                     |
+| Priscila Amaral      | controlar de forma mais prática a vacinação                                                                  | manter atualizadas as vacinas que já foram dadas.                                                                                                                                     |
+| Elena Lima           | consultar os dados de vacinação dos animais                                                                  | aceitar hospedá-los no meu hotel com maior segurança.                                                                                                                                 |
+| Fernanda Amorim      | encontrar uma solução para programar as datas de aplicação das vacinas dos meus pets                         | não pôr em risco a saúde dos meus animais.                                                                                                                                            |
+| Fernanda Amorim      | encontrar uma solução digital que me permita ter o controle de quais vacinas já foram aplicados em meus pets | não precisar depender apenas da carteira física de vacinação.                                                                                                                         |
+| Carlos Silva         | encontrar uma aplicação onde seja fácil registrar informações básicas de vacinação dos animais               | tornar mais fácil o controle das vacinas, pois tenho dificuldade em lembrar onde guardei os cartões de vacinação e também não tenho muita familiaridade em acessar _sites_ complexos. |
+| Jorge Lima           | encontrar uma aplicação onde eu possa fazer o registro dos animais (pacientes) que vêm à minha clínica       | tornar mais fácil o controle das vacinas, mantendo também no formato digital os registros dos pacientes.                                                                              |
 
 ## Requisitos
 
@@ -80,17 +80,17 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 A tabela abaixo apresenta os requisitos funcionais do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
-| ID     | Descrição do Requisito                                                                                                                                                                                                              | Prioridade |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| RF-001 | O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.                                                                                          | ALTA       |
-| RF-002 | O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação).                          | ALTA       |
-| RF-003 | O sistema deverá informar ao usuário as vacinas que estiverem em atraso.                                                                                                                                                            | MÉDIA      |
-| RF-004 | O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinação, etc.) para compartilhamento com hotéis de pets, veterinários, etc., mediante autorização do usuário responsável pela conta. | MÉDIA      |
-| RF-005 | O sistema deverá fornecer notificações das datas de aplicação das próximas vacinas.                                                                                                                                                | MÉDIA      |
-| RF-006 | O sistema deverá permitir a transferência do perfil do pet para outra conta de usuário (responsável), caso ele mude de dono.                                                                                                        | ALTA       |
-| RF-007 | O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável.                                                                                                                                          | ALTA       |
-| RF-008 | O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo, automaticamente, qualquer perfil de pet vinculado somente a ela.                                                                            | ALTA       |
-| RF-009 | O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados.                                                                                                                                               | ALTA       |
+| ID     | Descrição do Requisito                                                                                                                                                                                     | Prioridade |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| RF-001 | O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.                                                                 | ALTA       |
+| RF-002 | O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação). | ALTA       |
+
+| RF-003 | O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinas já aplicadas, datas de aplicação, etc.).
+| MÉDIA |
+
+| RF-004 | O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável. | ALTA |
+| RF-005 | O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo, automaticamente, qualquer perfil de pet vinculado somente a ela. | ALTA |
+| RF-006 | O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados. | ALTA |
 
 ### Requisitos não Funcionais
 
@@ -122,6 +122,6 @@ As questões que limitam a execução deste projeto e que se configuram como obr
 
 O diagrama de casos de uso é o primeiro esboço da aplicação a ser desenvolvida, feito após a etapa elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos.
 
-A seguir, é representado o Diagrama de Casos de Uso do sistema Pat Pass (carteira de vacinação digital para pets):
+A seguir, é representado o Diagrama de Casos de Uso do sistema Pet Pass (carteira de vacinação digital para pets):
 
 ![Diagrama de Casos de Uso_REVISADO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Diagrama%20de%20Caso%20de%20Uso_REVISADO.png?raw=true)
