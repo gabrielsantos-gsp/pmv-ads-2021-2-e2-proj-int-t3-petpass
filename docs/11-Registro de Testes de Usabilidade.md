@@ -198,7 +198,7 @@ Você indicaria esta aplicação para outras pessoas? Sim
 
 **Usuário 1**
 
-**Usuário 1: Natália, 30 anos, possui 3 cachorros**
+**Natália, 30 anos, possui 3 cachorros**
 
 **Resultados:**
 
@@ -246,7 +246,7 @@ Você indicaria esta aplicação para outras pessoas? Sim
 
 **Usuário 2**
 
-**Usuário 2: Felipe, 45 anos, possui 1 gato e um cachorro**
+**Felipe, 45 anos, possui 1 gato e um cachorro**
 
 **Resultados:**
 
