@@ -4,7 +4,7 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
-## Avaliação
+## Avaliação - 1ª rodada:
 
 **Caso teste CT-001**
 
@@ -212,3 +212,124 @@ Figura 13 – Print da página de Adicionar Vacina
 ![Tela Relatorio_Pet](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Teste_16_tela2.PNG?raw=true)
 
 Figura 14 – Print da página Relatório do Pet
+
+## Avaliação - 2ª rodada:
+
+**Caso teste CT-001**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de criar uma conta no site.
+
+**Resultado do teste:**
+
+A aplicação atendeu ao objetivo do teste.   
+
+O usuário consegue cadastrar sua conta no site com sucesso. 
+
+![Tela Criar Usuario](img/Teste01-et4.png)
+
+Figura 15 – Print da página Criar Usuário 
+
+**Caso teste CT-002**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de login do usuário.
+
+**Resultado do teste:**
+
+A aplicação atendeu ao objetivo do teste.  
+
+O usuário cadastrado no sistema consegue logar normalmente na sua conta. 
+
+![Tela Usuario Login](img/Teste02-et4.png)
+
+Figura 16 – Print da página Usuário Login
+
+**Caso teste CT-003**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de criar um perfil de pet no site.
+
+**Resultado do teste:**
+
+A aplicação atendeu ao objetivo do teste.  
+
+No separador "Pets", ao clicar no botão “Adicionar Pets” o usuário consegue cadastrar um perfil contendo várias informações do animal, dentre elas: Nome, tipo, raça, sexo, idade, data de nascimento e peso. 
+
+![Tela Criar Pet](img/Teste03-et4.png)
+
+Figura 17 – Print da página Criar Pet 
+
+**Caso teste CT-004**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de visualização dos perfis de Pets cadastrados em uma conta.
+
+**Resultado do teste:**
+
+A aplicação atendeu ao objetivo do teste. 
+
+Por meio do separador "Pets" o usuário consegue visualizar os perfis dos Pets cadastrados na sua conta. 
+
+![Visualizar Pet](img/Teste04-et4.png)
+
+Figura 18 – Print da página Visualizar Pets 
+
+**Caso teste CT-005**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de visualização dos detalhes do perfil de um Pet cadastrado em uma conta.
+
+**Resultado do teste:**
+
+A aplicação atendeu ao objetivo do teste. 
+
+O usuário consegue visualizar o perfil detalhado de um Pet cadastrado em sua conta. 
+
+![Detalhar Pet](img/Teste05-et4.png)
+
+Figura 19 – Print da página Detalhes 
+
+**Caso teste CT-006**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de Gerar Relatório do Pet .
+
+**Resultado do teste:**
+
+Atendeu parcialmente ao que era esperado. 
+
+O relatório apresenta todas as informações do Pet selecionado porém ainda é necessário implantar a opção de impressão. 
+
+![Reltorio Pet](img/Teste06-et4.png)
+
+Figura 20 – Print da página Dados do Pet (Relatório) 
+
+**Caso teste CT-007**
+
+**Objetivo do teste:**
+
+- Verificar a funcionalidade de Excluir o perfil de um Pet associado ao usuário.
+
+**Resultado do teste:**
+
+A aplicação atendeu ao objetivo do teste. 
+
+O usuário consegue excluir o perfil de qualquer Pet cadastrado no sistema e após a exclusão o sistema direciona o usuário para a Tela Pets atualizada. 
+
+Não há alteração no perfil do usuário após a exclusão. 
+
+Figura 21 – Print da página de Excluir Pet (Parte 1) 
+
+![Excluir Pet](img/Teste07-et4.png)
+
+Figura 22 – Print da página de Excluir Pet (Parte 2)  
+
+![Excuir Pet 2](img/Teste07a-et4.png)
+ 
