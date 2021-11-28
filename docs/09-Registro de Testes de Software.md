@@ -227,7 +227,7 @@ A aplicação atendeu ao objetivo do teste.
 
 O usuário consegue cadastrar sua conta no site com sucesso. 
 
-![Tela Criar Usuario](img/Teste01-et4.png)
+![Tela Criar Usuario](img/Teste01-et4.PNG)
 
 Figura 15 – Print da página Criar Usuário 
 
@@ -243,7 +243,7 @@ A aplicação atendeu ao objetivo do teste.
 
 O usuário cadastrado no sistema consegue logar normalmente na sua conta. 
 
-![Tela Usuario Login](img/Teste02-et4.png)
+![Tela Usuario Login](img/Teste02-et4.PNG)
 
 Figura 16 – Print da página Usuário Login
 
@@ -259,7 +259,7 @@ A aplicação atendeu ao objetivo do teste.
 
 No separador "Pets", ao clicar no botão “Adicionar Pets” o usuário consegue cadastrar um perfil contendo várias informações do animal, dentre elas: Nome, tipo, raça, sexo, idade, data de nascimento e peso. 
 
-![Tela Criar Pet](img/Teste03-et4.png)
+![Tela Criar Pet](img/Teste03-et4.PNG)
 
 Figura 17 – Print da página Criar Pet 
 
@@ -275,7 +275,7 @@ A aplicação atendeu ao objetivo do teste.
 
 Por meio do separador "Pets" o usuário consegue visualizar os perfis dos Pets cadastrados na sua conta. 
 
-![Visualizar Pet](img/Teste04-et4.png)
+![Visualizar Pet](img/Teste04-et4.PNG)
 
 Figura 18 – Print da página Visualizar Pets 
 
@@ -291,7 +291,7 @@ A aplicação atendeu ao objetivo do teste.
 
 O usuário consegue visualizar o perfil detalhado de um Pet cadastrado em sua conta. 
 
-![Detalhar Pet](img/Teste05-et4.png)
+![Detalhar Pet](img/Teste05-et4.PNG)
 
 Figura 19 – Print da página Detalhes 
 
@@ -307,7 +307,7 @@ Atendeu parcialmente ao que era esperado.
 
 O relatório apresenta todas as informações do Pet selecionado porém ainda é necessário implantar a opção de impressão. 
 
-![Reltorio Pet](img/Teste06-et4.png)
+![Reltorio Pet](img/Teste06-et4.PNG)
 
 Figura 20 – Print da página Dados do Pet (Relatório) 
 
@@ -327,9 +327,9 @@ Não há alteração no perfil do usuário após a exclusão.
 
 Figura 21 – Print da página de Excluir Pet (Parte 1) 
 
-![Excluir Pet](img/Teste07-et4.png)
+![Excluir Pet](img/Teste07-et4.PNG)
 
 Figura 22 – Print da página de Excluir Pet (Parte 2)  
 
-![Excuir Pet 2](img/Teste07a-et4.png)
+![Excuir Pet 2](img/Teste07a-et4.PNG)
  
