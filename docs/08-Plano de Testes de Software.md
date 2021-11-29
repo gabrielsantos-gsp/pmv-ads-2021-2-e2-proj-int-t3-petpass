@@ -22,7 +22,7 @@ Os testes funcionais a serem realizados na aplicação interativa são descritos
 
 **Requisitos associados:**
 
-RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.
+RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail).
 
 **Passos:**
 
@@ -59,7 +59,7 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
 **Requisitos associados:**
 
-RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.
+RF-001: O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail).
 
 **Passos:**
 
