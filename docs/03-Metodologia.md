@@ -21,7 +21,7 @@ A relação das ferramentas empregadas no projeto e suas respectivas funções s
 
 |Função     |Ferramentas          |
 |-----------|---------------------|
-|Editor de código |Github, VS Code | 
+|Editor de código |Github, Visual Studio 2019 | 
 |Ferramentas de comunicação |Github, Microsoft Teams, Discord |
 |Ferramentas de diagramação |Figma, Astah, Lucidchart |
 
@@ -29,9 +29,7 @@ Os editores de código foram escolhidos por possuírem uma integração com o si
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório.
 
 O projeto segue a seguinte convenção para o nome de branches:
 
