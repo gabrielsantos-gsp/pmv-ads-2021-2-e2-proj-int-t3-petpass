@@ -32,17 +32,17 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a homepage do site e a região de Login;
+    4- Visualizar a homepage do site;
 
-    5- Clicar no botão 'Criar conta';
+    5- Clicar no botão 'Cadastro';
 
-    6- Visualizar a página de registrar do site;
+    6- Visualizar a página de Cadastrar Usuário;
 
     7- Visualizar os compos para preenchimento com os dados do usuário;
 
     8- Preencher as informações a cada um dos campos e suas exigências;
 
-    9- Clicar no botão de 'Cadastrar';
+    9- Clicar no botão de 'Criar';
 
 **Critérios de êxito:**
 
@@ -69,20 +69,18 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a homepage do site e a região de Login;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Visualizar os campos de Nome e e-mail na área de Login;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar nos campos do Login que aparecem no centro da página;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Preencher os campos com o e-mail e a senha cadastrados no site;
-
-    8- Clicar no botão de Entrar;
+    7- Clicar no botão de Entrar;
 
 **Critérios de êxito:**
 
 - O usuário deve conseguir logar em sua conta;
-- O redirecionamento deverá levar o usuário para o DashBoard (Tela principal do site) da aplicação.
+- O redirecionamento deverá levar o usuário para o DashBoard (Tela principal) da aplicação.
 
 ---
 
@@ -104,23 +102,19 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de Login do site;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Visualizar os inputs de Nome e Email;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar nos inputs do login que aparecem no centro da página;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Informar o email e senha cadastrada no site;
+    7- Clicar no botão de Entrar;
 
-    8- Clicar no botão de Entrar;
+    8- Clicar na aba Pets e no botão ‘Adicionar Pet’ no menu à esquerda;
 
-    9- Clicar na opção ‘CADASTRAR PETS’ no menu à esquerda;
+    9- Informar os dados do pet: Nome, Idade, Cachorro/Gato, Raça, Sexo, Peso, Data de Nascimento e Registo;
 
-    10- Clicar na opção ‘Cadastre um novo pet’;
-
-    11- Informar os dados do pet: Foto, Nome, Idade, Cachorro/Gato, Raça, Sexo, Peso;
-
-    12- Clicar no botão Cadastrar.
+    10- Clicar no botão 'Adicionar'.
 
 **Critérios de êxito:**
 
@@ -146,17 +140,15 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de Login do site;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Visualizar os inputs de Nome e Email;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar nos inputs do login que aparecem no centro da página;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Informar o email e senha cadastrada no site;
+    7- Clicar no botão de Entrar;
 
-    8- Clicar no botão de Entrar;
-
-    9- Clicar na opção ‘Meus pets’ no menu à esquerda;
+    8- Clicar na aba 'Pets' no menu à esquerda para ser direcionado a página 'Meus Pets';
 
 **Critérios de êxito:**
 
@@ -182,21 +174,19 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de Login do site;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Visualizar os inputs de Nome e Email;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar nos inputs do login que aparecem no centro da página;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Informar o email e senha cadastrada no site;
+    7- Clicar no botão de Entrar;
 
-    8- Clicar no botão de Entrar;
+    8- Clicar na aba 'Pets' no menu à esquerda para ser direcionado a página 'Meus Pets';
 
-    9- Clicar na opção ‘Meus pets’ no menu à esquerda;
+    9- Clicar no botão ‘Visualizar’ no perfil do pet desejado;
 
-    10- Clicar na opção ‘Ver perfil’ no perfil do pet desejado;
-
-    11- Clicar em ‘Voltar’ para retornar ao menu com o perfil geral de todos os pets cadastrados.
+    10- Clicar em ‘Voltar’ para retornar ao menu com o perfil geral de todos os pets cadastrados.
 
 **Critérios de êxito:**
 
@@ -222,23 +212,21 @@ RF-003: O sistema deverá permitir gerar um relatório com as informações de s
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a homepage do site e a região de Login;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Informar o Email e Senha cadastrados no site;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar no botão para Entrar;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Visualizar a tela *DashBoard*;
+    7- Clicar no botão de Entrar;
+    
+    8- Clicar na aba 'Pets' no menu à esquerda para ser direcionado a página 'Meus Pets';
 
-    8- Clicar no botão 'Gerar Relatório' da *side bar*;
+    9- Clicar no botão ‘Relatório’ do perfil do pet desejado;
 
-    9- Visualizar a tela 'Gerar Relatório'
+    10- Clicar em ‘Voltar’ para retornar ao menu com o perfil geral de todos os pets cadastrados;
 
-    10- Selecionar as check box de quais Pets deseja-se emitir o relatório (pode ser de um ou mais Pets);
-
-    11- Clicar e 'Gerar relatório';
-
-    12- Ser redirecionado para a tela de impressão do seu computador, celular ou tablet.
+    11- Clicar em ‘Imprimir’ para imprimir o relatório.
 
 **Critérios de êxito:**
 
@@ -265,23 +253,23 @@ RF-004: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a homepage do site e a região de Login;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Informar o Email e Senha cadastrados no site;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar no botão para Entrar;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Visualizar a tela *DashBoard*;
+    7- Clicar no botão de Entrar;
+    
+    8- Clicar na aba 'Pets' no menu à esquerda para ser direcionado a página 'Meus Pets';
 
-    8- Clicar no botão 'Meus Pets' da *side bar*;
+    9- Clicar no botão ‘Deletar’ do perfil do pet desejado;
 
-    9- Visualizar a tela 'Meus Pets'
+    10- O usuário será direcionado para a página Delete;
+    
+    11- Clicar no botão ‘Delete’ para confirmação da exclusão;
 
-    10- Selecionar a opção 'Excluir Perfil' no Pet desejado;
-
-    11- Clicar em 'SIM' na tela de confirmação da exclusão;
-
-    12- Visualizar a mensagem de confirmação de exclusão;
+    12- Visualizar a página Meus Pets atualizada;
 
 **Critérios de êxito:**
 
@@ -309,19 +297,21 @@ RF-005: O sistema deverá permitir a exclusão da conta de usuário responsável
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de Login do site;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Informar o Email e Senha cadastrada no site;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar no botão para Entrar;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Visualizar a tela DashBoard, clicar no botão referente ao Perfil e selecionar a opção 'Editar Perfil';
+    7- Clicar no botão de Entrar;
 
-    8- Visualizar a tela Editar Perfil e selecionar a opção 'Excluir Perfil';
+    8- Visualizar a tela DashBoard, clicar no texto 'Olá, Usuário' no campo superior direito;
 
-    9- Clicar em 'Sim' na tela de exclusão;
+    9- Visualizar a tela Editar Perfil e selecionar a opção 'Excluir Perfil';
 
-    10- Visualizar a mensagem de confirmação;
+    10- Clicar em 'Confirmar' na tela de exclusão;
+
+    11- Visualizar a mensagem de confirmação;
 
 **Critérios de êxito:**
 
@@ -348,13 +338,13 @@ RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google C
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de Login do site;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Informar o Email e Senha cadastrada no site;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar no botão para Entrar;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7 – Assistir ao vídeo demonstrativo;
+    7- Clicar no botão de Entrar;
 
     8- Executar as principais funcionalidades do sistema: Cadastrar Pet, Cadastrar Vacina, Editar Perfil de Usuário, Excluir Pet, Excluir Perfil de Usuário, Gerar Relatório, etc;
 
@@ -382,23 +372,22 @@ RF-006: O sistema deverá permitir a edição das informações do usuário e do
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a homepage do site e a região de Login;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Visualizar os campos de Nome e e-mail na área de Login;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar nos campos do Login que aparecem no centro da página;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Preencher os campos com o e-mail e a senha cadastrados no site;
+    7- Clicar no botão de Entrar;
 
-    8- Clicar no botão de Entrar;
+    8- Visualizar a tela DashBoard, clicar no texto 'Olá, Usuário' no campo superior direito;
 
-    9- Clicar no ícone redondo no canto superior direito;
+    9- Visualizar a tela Editar Perfil e alterar os campos desejados;
 
-    10- Clicar em 'Editar Perfil';
+    10- Clicar em 'Salvar' na tela de exclusão;
 
-    11-Clicar em 'Editar' nos campos à direita de 'Nome' ou 'Email' ou 'Alterar foto' e fazer as alterações necessárias;
+    11- O usuário será direcionado para a tela de Detalhes;
 
-    12- Clicar no botão 'Salvar'.
 
 **Critérios de êxito:**
 
@@ -426,25 +415,23 @@ RF-006: O sistema deverá permitir a edição das informações do usuário e do
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de Login do site;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Visualizar os inputs de Nome e Email;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar nos inputs do login que aparecem no centro da página;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Informar o email e senha cadastrada no site;
+    7- Clicar no botão de Entrar;
 
-    8- Clicar no botão de Entrar;
+    8- Clicar na aba ‘Pets’ no menu à esquerda;
 
-    9- Clicar na opção ‘Meus pets’ no menu à esquerda;
+    9- Clicar na opção ‘Editar’ no perfil do pet desejado;
 
-    10- Clicar na opção ‘Editar perfil’ no perfil do pet desejado;
+    10- Alterar os dados desejados em cada campo específico;
 
-    11- Alterar os dados desejados em cada campo específico;
+    11-  Clicar em 'Salvar alterações';
 
-    12-  Clicar em 'Salvar alterações';
-
-    13- Caso deseje cancelar as alterações, clicar em 'Cancelar'.
+    12- Caso deseje cancelar as alterações, clicar em 'Voltar'.
 
 **Critérios de êxito:**
 
@@ -469,19 +456,17 @@ RNF-002: O sistema deverá ser responsivo, permitindo sua utilização em comput
 
     2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
 
-    3- Clicar no botão de 'AVANÇAR' no smartphone;
+    3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de Login do site;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Visualizar os inputs de Nome e E-mail;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar nos inputs do login que aparecem no centro da página;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Informar o e-mail e senha cadastrados no site;
+    7- Clicar no botão de Entrar;
 
-    8- Clicar no botão de Entrar;
-
-    9- Navegar pelo site verificando seu layout e todas as suas funcionalidades.
+    8- Navegar pelo site verificando seu layout e todas as suas funcionalidades.
 
 **Critérios de êxito:**
 
@@ -510,29 +495,21 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar a página de Login do site;
+    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
 
-    5- Visualizar os inputs de Nome e Email;
+    5- Visualizar os campos de e-mail e senha na Página de Login;
 
-    6- Clicar nos inputs do login que aparecem no centro da página;
+    6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
-    7- Informar o email e senha cadastrados no site;
+    7- Clicar no botão de Entrar;
 
-    8- Clicar no botão de Entrar;
+    8- Clicar na aba ‘Vacinas’ no menu à esquerda;
 
-    9- Clicar em 'Minhas Vacinas';
+    9- Clicar no botão ‘Adicionar Vacina’ e 
+    
+    10- Selecionar o perfil do pet desejado e preencher o restante dos campos solicitados;
 
-    10- Escolher o tipo de aninal;
-
-    11- Escolher a vacina desejada;
-
-    12- Escolher o Pet que tomou a vacina;
-
-    13- Preencher a data de aplicação;
-
-    14- Marcar a dose de aplicação;
-
-    15- Clicar em 'Cadastrar';
+    11- Clicar em 'Salvar';
 
 **Critérios de êxito:**
 
