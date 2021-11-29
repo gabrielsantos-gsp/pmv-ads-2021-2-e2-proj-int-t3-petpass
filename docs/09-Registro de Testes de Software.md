@@ -345,7 +345,7 @@ Não atendeu ao que era esperado. A funcionalidade ainda não foi desenvolvida, 
 
 Figura 23 – Print da tela de perfil do Usuário sem a opção de excluir conta.
 
-![Tela Perfil Usuario](img/ct08-tela-perfil-usuario.PNG)
+![Tela Perfil Usuario](img/ct08-tela-perfil-usuario.png)
 
 **Caso teste CT-009**
 
@@ -369,11 +369,11 @@ O teste ocorreu de forma correta. O usuário consegue logar em sua conta e alter
 
 Figura 24 – Print da tela de perfil do Usuário com a opção de editar.
 
-![Tela Perfil Usuario](img/ct08-tela-perfil-usuario.PNG)
+![Tela Perfil Usuario](img/ct08-tela-perfil-usuario.png)
 
 Figura 25 – Print da página de Editar Usuário.
 
-![Tela Perfil Usuario Editar](img/ct10-editar-usuario.PNG)
+![Tela Perfil Usuario Editar](img/ct10-editar-usuario.png)
 
 **Caso teste CT-011**
 
@@ -387,7 +387,7 @@ O teste ocorreu de forma correta. O usuário consegue acessar a página de edita
 
 Figura 26 – Print da página de Editar dados do Pet
 
-![Tela Editar Pet](img/ct11-editar-pet.PNG)
+![Tela Editar Pet](img/ct11-editar-pet.png)
 
 **Caso teste CT-012**
 
@@ -401,7 +401,7 @@ Cumpriu ao teste. Sistema responsivo conforme a imagem a seguir.
 
 Figura 27 – Print da aplicação na tela de um Samsumg S5
 
-![Tela sistema responsivo](img/ct12-responsividade.PNG)
+![Tela sistema responsivo](img/ct12-responsividade.png)
 
 **Caso teste CT-013**
 
@@ -415,4 +415,4 @@ O teste ocorreu de forma correta. O Usuário consegue adicionar uma nova vacina 
 
 Figura 28 – Print da página de cadastrar vacina.
 
-![Tela cadastra vacina](img/ct13-cadastra-vacina.PNG)
+![Tela cadastra vacina](img/ct13-cadastra-vacina.png)
