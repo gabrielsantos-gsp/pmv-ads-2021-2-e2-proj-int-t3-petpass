@@ -80,14 +80,11 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 A tabela abaixo apresenta os requisitos funcionais do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
-| ID     | Descrição do Requisito                                                                                                                                                                                     | Prioridade |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| RF-001 | O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade.                                                                 | ALTA       |
-| RF-002 | O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação). | ALTA       |
-
-| RF-003 | O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinas já aplicadas, datas de aplicação, etc.).
-| MÉDIA |
-
+| ID     | Descrição do Requisito  | Prioridade |
+| ------ | ----------------------- | ---------- |
+| RF-001 | O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade. | ALTA |
+| RF-002 | O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação). | ALTA |
+| RF-003 | O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinas já aplicadas, datas de aplicação, etc.).| MÉDIA |
 | RF-004 | O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável. | ALTA |
 | RF-005 | O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo, automaticamente, qualquer perfil de pet vinculado somente a ela. | ALTA |
 | RF-006 | O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados. | ALTA |
@@ -96,15 +93,15 @@ A tabela abaixo apresenta os requisitos funcionais do projeto, identificando a p
 
 A tabela abaixo apresenta os requisitos não funcionais que o projeto deverá atender.
 
-| ID      | Descrição do Requisito                                                                                                                                                                     | Prioridade |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| RNF-001 | O sistema deverá funcionar nos principais navegadores da web (Google Chrome, Mozila Firefox, Microsoft Edge)                                                                               | ALTA       |
-| RNF-002 | O sistema deverá ser responsivo, permitindo sua utilização em computadores desktops, notebooks, tablets e smartphones                                                                      | ALTA       |
-| RNF-003 | A aplicação deverá ser publicada no Git Hub e ser hospedada em plataforma que permita a hospedagem em nuvem (Git Hub Pages, Heroku, etc.), permitindo o acesso dos usuários à página web   | ALTA       |
-| RNF-004 | A segurança no armazenamento e na manipulação dos dados do dono e do pet deve seguir as diretrizes da Lei Geral de Proteção de Dados (LGPD)                                                | ALTA       |
-| RNF-005 | O sistema deverá ser intuitivo e de fácil utilização, para atender também ao público idoso                                                                                                 | ALTA       |
-| RNF-006 | O sistema deverá estar disponível para acesso 24h por dia, exceto quando em manutenção                                                                                                     | MÉDIA      |
-| RNF-007 | O sistema deverá disponibilizar as informações cadastrais do responsável e do pet apenas para o usuário responsável pela conta e para a equipe de desenvolvimento e manutenção do software | ALTA       |
+| ID      | Descrição do Requisito  | Prioridade |
+| ------- | ----------------------- | ---------- |
+| RNF-001 | O sistema deverá funcionar nos principais navegadores da web (Google Chrome, Mozila Firefox, Microsoft Edge) | ALTA |
+| RNF-002 | O sistema deverá ser responsivo, permitindo sua utilização em computadores desktops, notebooks, tablets e smartphones | ALTA |
+| RNF-003 | A aplicação deverá ser publicada no Git Hub e ser hospedada em plataforma que permita a hospedagem em nuvem (Git Hub Pages, Heroku, etc.), permitindo o acesso dos usuários à página web  | ALTA |
+| RNF-004 | A segurança no armazenamento e na manipulação dos dados do dono e do pet deve seguir as diretrizes da Lei Geral de Proteção de Dados (LGPD). | ALTA |
+| RNF-005 | O sistema deverá ser intuitivo e de fácil utilização, para atender também ao público idoso.| ALTA |
+| RNF-006 | O sistema deverá estar disponível para acesso 24h por dia, exceto quando em manutenção. | MÉDIA |
+| RNF-007 | O sistema deverá disponibilizar as informações cadastrais do responsável e do pet apenas para o usuário responsável pela conta e para a equipe de desenvolvimento e manutenção do software | ALTA |
 
 ## Restrições
 
