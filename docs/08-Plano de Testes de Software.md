@@ -69,7 +69,7 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
@@ -102,7 +102,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
@@ -140,7 +140,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
@@ -174,7 +174,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
@@ -212,14 +212,14 @@ RF-003: O sistema deverá permitir gerar um relatório com as informações de s
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
     6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
     7- Clicar no botão de Entrar;
-    
+
     8- Clicar na aba 'Pets' no menu à esquerda para ser direcionado a página 'Meus Pets';
 
     9- Clicar no botão ‘Relatório’ do perfil do pet desejado;
@@ -253,20 +253,20 @@ RF-004: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
     6- Preencher os campos com o e-mail e a senha cadastrados no site;
 
     7- Clicar no botão de Entrar;
-    
+
     8- Clicar na aba 'Pets' no menu à esquerda para ser direcionado a página 'Meus Pets';
 
     9- Clicar no botão ‘Deletar’ do perfil do pet desejado;
 
     10- O usuário será direcionado para a página Delete;
-    
+
     11- Clicar no botão ‘Delete’ para confirmação da exclusão;
 
     12- Visualizar a página Meus Pets atualizada;
@@ -297,7 +297,7 @@ RF-005: O sistema deverá permitir a exclusão da conta de usuário responsável
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
@@ -338,7 +338,7 @@ RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google C
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
@@ -372,7 +372,7 @@ RF-006: O sistema deverá permitir a edição das informações do usuário e do
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
@@ -387,7 +387,6 @@ RF-006: O sistema deverá permitir a edição das informações do usuário e do
     10- Clicar em 'Salvar' na tela de exclusão;
 
     11- O usuário será direcionado para a tela de Detalhes;
-
 
 **Critérios de êxito:**
 
@@ -415,7 +414,7 @@ RF-006: O sistema deverá permitir a edição das informações do usuário e do
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
@@ -458,7 +457,7 @@ RNF-002: O sistema deverá ser responsivo, permitindo sua utilização em comput
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
@@ -495,7 +494,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     3- Clicar em 'ENTER' no teclado;
 
-    4- Visualizar na homepage do site e clicar no botão de 'Loguin;
+    4- Visualizar na homepage do site e clicar no botão de 'Login';
 
     5- Visualizar os campos de e-mail e senha na Página de Login;
 
@@ -505,8 +504,8 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     8- Clicar na aba ‘Vacinas’ no menu à esquerda;
 
-    9- Clicar no botão ‘Adicionar Vacina’ e 
-    
+    9- Clicar no botão ‘Adicionar Vacina’ e
+
     10- Selecionar o perfil do pet desejado e preencher o restante dos campos solicitados;
 
     11- Clicar em 'Salvar';
