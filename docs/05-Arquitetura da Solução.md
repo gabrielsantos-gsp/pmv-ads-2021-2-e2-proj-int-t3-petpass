@@ -10,7 +10,7 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 
 A seguir, é mostrado o Diagrama de Classes da aplicação Pet Pass:
 
-![Diagrama de Classes](img/Diagrama%20de%20Classes.PNG)
+![Diagrama de Classes](img/DC.PNG)
 
 ## Modelo ER
 
