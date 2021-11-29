@@ -6,15 +6,15 @@ O site da _PetPass_ segue um padrão de _layout_ apenas nas telas de dentro do s
 
 Até o momento, o template do sistema se encontra na forma como é mostrado nas imagens abaixo. Contudo, atualizações ainda estão sendo feitas para melhorar as características de design e estilização da aplicação, deixando-a mais personalizada e visualmente agradável.
 
-![Homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Template_padrao3.PNG?raw=true)
+![Homepage](img/Homepage.PNG)
 
 Figura 1 - Homepage
 
-![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Template_padrao1.PNG?raw=true)
+![Login](img/Login.PNG)
 
 Figura 2 - Tela de Login
 
-![Conteudo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Template_padrao2.PNG?raw=true)
+![Conteudo](img/Conteudo.PNG)
 
 Figura 3 - Conteúdo da aplicação
 
