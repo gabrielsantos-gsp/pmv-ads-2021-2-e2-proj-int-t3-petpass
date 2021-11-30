@@ -71,6 +71,12 @@ Tela que inicialmente convida o usuário a realizar o cadastro de uma vacina, as
 
 ![Tela Selecionar Vacinas](img/Cadastrar_vacina.PNG)
 
+### Tela Cadastrar Vacina:
+
+Tela responsável pela associação de uma vacina existente no banco de dados do sistema a um Pet previamente cadastrado, associado ao perfil do usuário, no sistema. Possui os atributos: nome do Pet, descrição da vacina, dose, data de aplicação e idade de aplicação.
+
+![Tela Cadastrar Pets](img/Tela_CadastrarPet.PNG)
+
 ### Tela Editar Perfil Pet:
 
 Tela responsável por realizar a edição dos dados cadastrados inicialmente no perfil Pet: alteração de nome, idade, raça, sexo, peso e a opção de escolha entre gato e cachorro.
