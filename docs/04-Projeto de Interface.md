@@ -27,37 +27,37 @@ A imagem abaixo mostra uma visão geral dos Wireframes da aplicação Pet Pass e
 
 Tela de apresentação, que também proporciona ao usuário o conhecimento inicial das funcionalidades e objetivos do projeto.
 
-![Tela Homepage](img/Homepage.PNG)
+![Tela Homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Homepage1.PNG?raw=true)
 
 ### Tela de Login:
 
 Tela responsável pela autenticação de clientes cadastrados no sistema. Caso o cliente tenha esquecido a senha de acesso ele será direcionado a tela para recuperação.
 
-![Tela Login](img/Tela_login.PNG)
+![Tela Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/login.PNG?raw=true)
 
 ### Tela de Cadastro de Usuário:
 
 Tela responsável pelo cadastro de novos usuários no sistema.
 
-![Tela Cadastro](img/Tela_cadastro.PNG)
+![Tela Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/cadastrarUser.PNG?raw=true)
 
 ### Tela Homepage Interna:
 
 Após a realização do login o usuário é direcionado para a tela de Homepage Interna, na qual ele já está autenticado no sistema. Essa tela apresenta os menus "Pets" e "Vacinas", para cadastro de novos Pets e associação de novas vacinas a eles.
 
-![Tela Dashboard](img/Tela_Dashboard.PNG)
+![Tela Dashboard](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Homepage_Interna.PNG?raw=true)
 
 ### Tela Editar Perfil de Usuário:
 
 Tela responsável por realizar a edição dos dados cadastrados no perfil do usuário: alteração de nome, e-mail de login e exclusão do perfil (incluindo perfis de Pets associados). 
 
-![Tela Editar Perfil](img/Tela_EditarPerfil.PNG)
+![Tela Editar Perfil](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/editarUser.PNG?raw=true)
 
 ### Tela Meus Pets:
 
 Tela que inicialmente convida o usuário a realizar o cadastro de um Pet. Após o cadastro é possível observar uma visualização resumida do perfil do Pet, contendo as opções de: visualização (detalhada), edição, exclusão e relatório do pet.
 
-![Tela Meus Pets](img/Tela_MeusPets.PNG)
+![Tela Meus Pets](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/meusPets.PNG?raw=true)
 
 ### Tela Cadastrar Pets:
 
@@ -69,13 +69,13 @@ Tela responsável pelo cadastro do perfil Pet, associado ao perfil do usuário, 
 
 Tela que inicialmente convida o usuário a realizar o cadastro de uma vacina, associando-a a um Pet já cadastrado previamente por ele. Após o cadastro é possível observar uma visualização resumida do perfil do Pet relacionado à Vacina cadastrada, contendo as opções de: visualização (detalhada), edição, exclusão de vacina.
 
-![Tela Selecionar Vacinas](img/Cadastrar_vacina.PNG)
+![Tela Selecionar Vacinas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/minhasVacinas.PNG?raw=true)
 
 ### Tela Cadastrar Vacina:
 
 Tela responsável pela associação de uma vacina existente no banco de dados do sistema a um Pet previamente cadastrado, associado ao perfil do usuário, no sistema. Possui os atributos: nome do Pet, descrição da vacina, dose, data de aplicação e idade de aplicação.
 
-![Tela Cadastrar Pets](img/Tela_CadastrarPet.PNG)
+![Tela Cadastrar Pets](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/cadastrarVacinas.PNG?raw=true)
 
 ### Tela Editar Perfil Pet:
 
