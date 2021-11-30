@@ -41,45 +41,39 @@ Tela responsável pelo cadastro de novos usuários no sistema.
 
 ![Tela Cadastro](img/Tela_cadastro.PNG)
 
-### Tela de Recuperação de Senha:
+### Tela Homepage Interna:
 
-Tela responsável pela execução da rotina de recuperação de senhas de acesso dos usuários.
-
-![Tela Recuperar Senha](img/Tela_RecuperarSenha.PNG)
-
-### Tela Dashboard:
-
-Após a realização do login o usuário é direcionado para a tela de Dashboard. Essa tela possui um vídeo explicativo a respeito do funcionamento da aplicação, a fim de auxiliar o usuário a realizar uma melhor navegação pelo sistema.
+Após a realização do login o usuário é direcionado para a tela de Homepage Interna, na qual ele já está autenticado no sistema. Essa tela apresenta os menus "Pets" e "Vacinas", para cadastro de novos Pets e associação de novas vacinas a eles.
 
 ![Tela Dashboard](img/Tela_Dashboard.PNG)
 
 ### Tela Editar Perfil de Usuário:
 
-Tela responsável por realizar a edição dos dados cadastrados no perfil do usuário: alteração de nome, e-mail de login, inclusão/alteração de foto e exclusão do perfil (incluindo perfis de Pets associados). Nessa tela é possível também visualizar notificações do sistema.
+Tela responsável por realizar a edição dos dados cadastrados no perfil do usuário: alteração de nome, e-mail de login e exclusão do perfil (incluindo perfis de Pets associados). 
 
 ![Tela Editar Perfil](img/Tela_EditarPerfil.PNG)
 
 ### Tela Meus Pets:
 
-Tela que inicialmente convida o usuário a realizar o cadastro de um Pet. Após o cadastro é possível observar uma visualização resumida do perfil do Pet, contendo as opções de: visualização (detalhada), edição, exclusão e transferência do perfil do pet.
+Tela que inicialmente convida o usuário a realizar o cadastro de um Pet. Após o cadastro é possível observar uma visualização resumida do perfil do Pet, contendo as opções de: visualização (detalhada), edição, exclusão e relatório do pet.
 
 ![Tela Meus Pets](img/Tela_MeusPets.PNG)
 
 ### Tela Cadastrar Pets:
 
-Tela responsável pelo cadastro do perfil Pet, associado ao perfil do usuário, no sistema. Possui os atributos: nome, idade, raça, sexo, peso, inclusão de foto e a opção de escolha entre gato e cachorro.
+Tela responsável pelo cadastro do perfil Pet, associado ao perfil do usuário, no sistema. Possui os atributos: nome, idade, raça, sexo, peso e a opção de escolha entre gato e cachorro.
 
 ![Tela Cadastrar Pets](img/Tela_CadastrarPet.PNG)
 
 ### Tela Minhas Vacinas:
 
-Tela em que o usuário seleciona, de uma relação de vacinas previamente cadastradas no sistema, quais já foram aplicadas, bem como as datas em que foram realizadas as aplicações.
+Tela que inicialmente convida o usuário a realizar o cadastro de uma vacina, associando-a a um Pet já cadastrado previamente por ele. Após o cadastro é possível observar uma visualização resumida do perfil do Pet relacionado à Vacina cadastrada, contendo as opções de: visualização (detalhada), edição, exclusão de vacina.
 
 ![Tela Selecionar Vacinas](img/Cadastrar_vacina.PNG)
 
 ### Tela Editar Perfil Pet:
 
-Tela responsável por realizar a edição dos dados cadastrados inicialmente no perfil Pet: alteração de nome, idade, raça, sexo, peso, foto e a opção de escolha entre gato e cachorro.
+Tela responsável por realizar a edição dos dados cadastrados inicialmente no perfil Pet: alteração de nome, idade, raça, sexo, peso e a opção de escolha entre gato e cachorro.
 
 ![Tela Editar Pet](img/Tela_EditarPet.PNG)
 
@@ -89,20 +83,8 @@ Tela responsável por realizar a exclusão do perfil do Pet associado a um usuá
 
 ![Tela Excluir Pet](img/Tela_ExcluirPet.PNG)
 
-### Tela Transferir Perfil Pet:
-
-Tela responsável por realizar uma solicitação de transferência do perfil do Pet para a conta de outro usuário cadastrado no sistema.
-
-![Tela Transferir Pet](img/Tela_transferencia.PNG)
-
-### Tela de Informações:
-
-ela que fornece informações a respeito da relação de vacinas que devem ser aplicadas nos Pets.
-
-![Tela Informações](img/Tela_Informacoes.PNG)
-
 ### Tela Gerar Relatório:
 
-Tela utilizada para gerar o relatório de vacinação dos Pets selecionados.
+Tela utilizada para gerar o relatório de vacinação do Pet selecionados.
 
 ![Tela Gerar Relatório](img/Tela_Relatorio.PNG)
