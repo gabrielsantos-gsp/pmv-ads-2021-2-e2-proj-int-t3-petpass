@@ -8,7 +8,7 @@ Abaixo seguem três exemplos de templates distintos de telas que abrangem, de fo
 
 ![Homepage](img/Homepage.PNG)
 
-Figura 1 - Homepage
+Figura 1 - Homepage após autenticação
 
 ![Login](img/Login.PNG)
 
