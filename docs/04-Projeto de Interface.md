@@ -81,7 +81,7 @@ Tela responsável pela associação de uma vacina existente no banco de dados do
 
 Tela responsável por realizar a edição dos dados cadastrados inicialmente no perfil Pet: alteração de nome, idade, raça, sexo, peso e a opção de escolha entre gato e cachorro.
 
-![Tela Editar Pet](img/Tela_EditarPet.PNG)
+![Tela Editar Pet](img/ct11-editar-pet.png)
 
 ### Tela Excluir Perfil Pet:
 
