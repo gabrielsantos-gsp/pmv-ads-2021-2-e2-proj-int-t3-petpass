@@ -4,7 +4,7 @@
 
 O site da _PetPass_ segue um padrão de _layout_ apenas nas telas de dentro do site. Ou seja, as telas referentes a cadastro de pets e vacinas, onde ficam expostos os pets cadastrados juntamente com suas respectivas vacinas. Esse padrão está de acordo com o layout do Bootsrap para _Websites_, que pode ser encontrado em: [boostrap Website](https://getbootstrap.com/).
 
-Até o momento, o template do sistema se encontra na forma como é mostrado nas imagens abaixo. Contudo, atualizações ainda estão sendo feitas para melhorar as características de design e estilização da aplicação, deixando-a mais personalizada e visualmente agradável.
+Abaixo seguem três exemplos de templates distintos de telas que abrangem, de forma genérica, todo o rol de layout de telas montadas no sistema do PetPass.
 
 ![Homepage](img/Homepage.PNG)
 
