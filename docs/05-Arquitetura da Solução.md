@@ -48,12 +48,12 @@ Em complemento ao Diagrama de Fluxo, é destacado abaixo o *User Flow*, que apre
 
 ![User_Flow](img/Diagrama.png)
 
-O usuário acessa o endereço *web* onde a aplicação está hospedada e então tem acesso à homepage do sistema. Nesta etapa, ele poderá fazer login em sua conta, caso já esteja cadastrado, ou criar uma nova conta de usuário, login e senha; podendo também recuperar a conta caso tenha esquecido a senha. Após o login, ao entrar de fato no sistema, o usuário é direcionado para a área do Dashboad, onde poderá assistir ao vídeo demonstrativo acerca do funcionamento da aplicação. Em seguida, ele poderá adicionar um perfil de Pet a sua conta, fornecendo todas as informações solicitadas acerca do Pet. Criado o perfil desse Pet, o usuário poderá associar a ele as vacinas que já foram aplicadas, escolhendo o tipo de vacina e informando a dose e a data de aplicação. Concluído o perfil do Pet, o usuário terá a opção, através da tela principal "Meus Pets", de visualizar o perfil do Pet criado (de forma detalhada), excluir o perfil desse Pet, ou tranferir o perfil desse Pet para outro usuário cadastrado no sistema. Na *sidebar* da aplicação, o usuário ainda encontra a opção de gerar um relatório das condições de vacinação dos Pets selecionados e um local de informações a respeitos de todas as vacinas que podem ser aplicadas nos pets, por espécie.
+O usuário acessa o endereço *web* onde a aplicação está hospedada e então tem acesso à homepage do sistema. Nesta etapa, ele poderá fazer login em sua conta, caso já esteja cadastrado, ou criar uma nova conta de usuário, login e senha. Após o login, ao entrar de fato no sistema, o usuário é direcionado para a homepage. Em seguida, ele poderá adicionar um perfil de Pet a sua conta, fornecendo todas as informações solicitadas acerca do Pet. Criado o perfil desse Pet, o usuário poderá associar a ele as vacinas que já foram aplicadas, escolhendo o tipo de vacina e informando a dose e a data de aplicação. Concluído o perfil do Pet, o usuário terá a opção, através da tela principal "Meus Pets", de visualizar o perfil do Pet criado (de forma detalhada), excluir o perfil desse Pet, ou de gerar um relatório das condições de vacinação do Pet selecionado.
 
 ## Tecnologias Utilizadas e Hospedagem da Aplicação
 
 Para a elaboração da página web serão utilizadas as seguintes linguagens:
-- Front-end: JavaScript, TypeScript, React
+- Front-end: html, css, Bootstrap
 - Back-end: C#, Asp.NET
 
 Como ferramentas de diagramação serão utilizados:
@@ -68,9 +68,7 @@ Como ferramentas de suporte ao design serão utilizados os seguintes sites:
 Como ferramenta de registro dos testes de usabilidade será utilizado:
 - Google Forms (plataforma de formulários do Google)
 
-Serão utilizadas também APIs para as seguinte aplicações: G-mail.
-
-Para a elaboração do código será utilizado o Visual Studio Code (VS Code).
+Para a elaboração do código será utilizado o Visual Studio 2019.
 
 A hospedagem do site se dará na plataforma Github Pages, que tem integração com o Github.
 - Github Pages (https://pages.github.com/)
