@@ -63,7 +63,7 @@ Tela que inicialmente convida o usuário a realizar o cadastro de um Pet. Após 
 
 Tela responsável pelo cadastro do perfil Pet, associado ao perfil do usuário, no sistema. Possui os atributos: nome, idade, raça, sexo, peso e a opção de escolha entre gato e cachorro.
 
-![Tela Cadastrar Pets](img/Tela_CadastrarPet.PNG)
+![Tela Cadastrar Pets](img/Teste03-et4.PNG)
 
 ### Tela Minhas Vacinas:
 
@@ -87,10 +87,10 @@ Tela responsável por realizar a edição dos dados cadastrados inicialmente no 
 
 Tela responsável por realizar a exclusão do perfil do Pet associado a um usuário no sistema.
 
-![Tela Excluir Pet](img/Tela_ExcluirPet.PNG)
+![Tela Excluir Pet](img/Teste07-et4.PNG)
 
 ### Tela Gerar Relatório:
 
 Tela utilizada para gerar o relatório de vacinação do Pet selecionados.
 
-![Tela Gerar Relatório](img/Tela_Relatorio.PNG)
+![Tela Gerar Relatório](img/Teste06-et4.PNG)
