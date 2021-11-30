@@ -22,6 +22,6 @@ Como é possível observar nas imagens acima, o template padrão da aplicação 
 
 - **Header:** É o cabeçalho da página. É fixo e idêntico em todas as telas. Nele constam o logo da empresa _Petpass_, um menu de navegação, no qual o usuário poderá acessar as telas com suas funcionalidades. A única excessão é a Homepage, que só mostra todos os botões do menu do Header após a autenticação do usuário no sistema.
 
-- **Main Content:** É o conteúdo principal da tela. Tal coneúdo muda de acordo com a tela e suas respectivas funcionalidades.
+- **Main Content:** É o conteúdo principal da tela. Tal conteúdo muda de acordo com a tela e suas respectivas funcionalidades.
 
 - **Footer:** É o rodapé das telas que, no caso do sistema do PetPass, é fixo e invariável.
