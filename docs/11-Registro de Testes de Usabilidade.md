@@ -12,43 +12,53 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 **Visibilidade do sistema**
 
-A interface do sistema permite a visualização adequada das funcionalidades? Sim
+Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+Resposta: Sim
 
 **Navegabilidade**
 
-O sistema é intuitivo e de fácil navegação? Sim
+Pergunta: O sistema é intuitivo e de fácil navegação? 
+Resposta: Sim
 
 **Padronização de telas**
 
-As telas do sistema são padronizadas e de fácil compreensão? Sim
+Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+Resposta: Sim
 
 **Eficiência e flexibilidade de uso**
 
-O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? Sim
+Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+Resposta: Sim
 
 **Estética e design**
 
-A interface apresenta uma aparência agradável e minimalista? Sim
+Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+Resposta: Sim
 
 **Informatividade**
 
-A aplicação apresenta informações sobre como utilizá-la? Não
+Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+Resposta: Não
 
 **Funcionamento durante os testes**
 
-O sistema funcionou adequadamente durante todos os testes? Sim
+Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+Resposta: Sim
 
 **Acessibilidade**
 
-A aplicação se mostrou acessível para pessoas com deficiência? Não
+Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+Resposta: Não
 
 **Grau de satisfação do usuário**
 
-Qual sua satisfação com esta aplicação? Bom
+Pergunta: Qual sua satisfação com esta aplicação? 
+Resposta: Bom
 
 **Possibilidade de indicação para terceiros**
 
-Você indicaria esta aplicação para outras pessoas? Sim
+Pergunta: Você indicaria esta aplicação para outras pessoas? 
+Resposta: Sim
 
 --
 
@@ -60,43 +70,53 @@ Você indicaria esta aplicação para outras pessoas? Sim
 
 **Visibilidade do sistema**
 
-A interface do sistema permite a visualização adequada das funcionalidades? Sim
+Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+Resposta: Sim
 
 **Navegabilidade**
 
-O sistema é intuitivo e de fácil navegação? Sim
+Pergunta: O sistema é intuitivo e de fácil navegação? 
+Resposta: Sim
 
 **Padronização de telas**
 
-As telas do sistema são padronizadas e de fácil compreensão? Sim
+Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+Resposta: Sim
 
 **Eficiência e flexibilidade de uso**
 
-O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? Sim
+Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+Resposta: Sim
 
 **Estética e design**
 
-A interface apresenta uma aparência agradável e minimalista? Sim
+Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+Resposta: Sim
 
 **Informatividade**
 
-A aplicação apresenta informações sobre como utilizá-la? Não
+Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+Resposta: Não
 
 **Funcionamento durante os testes**
 
-O sistema funcionou adequadamente durante todos os testes? Sim
+Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+Resposta: Sim
 
 **Acessibilidade**
 
-A aplicação se mostrou acessível para pessoas com deficiência? Não
+Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+Resposta: Não
 
 **Grau de satisfação do usuário**
 
-Qual sua satisfação com esta aplicação? Bom
+Pergunta: Qual sua satisfação com esta aplicação? 
+Resposta: Bom
 
 **Possibilidade de indicação para terceiros**
 
-Você indicaria esta aplicação para outras pessoas? Sim
+Pergunta: Você indicaria esta aplicação para outras pessoas? 
+Resposta: Sim
 
 --
 
@@ -108,43 +128,53 @@ Você indicaria esta aplicação para outras pessoas? Sim
 
 **Visibilidade do sistema**
 
-A interface do sistema permite a visualização adequada das funcionalidades? Sim
+Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+Resposta: Sim
 
 **Navegabilidade**
 
-O sistema é intuitivo e de fácil navegação? Sim
+Pergunta: O sistema é intuitivo e de fácil navegação? 
+Resposta: Sim
 
 **Padronização de telas**
 
-As telas do sistema são padronizadas e de fácil compreensão? Sim
+Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+Resposta: Sim
 
 **Eficiência e flexibilidade de uso**
 
-O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? Sim
+Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+Resposta: Sim
 
 **Estética e design**
 
-A interface apresenta uma aparência agradável e minimalista? Não
+Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+Resposta: Não
 
 **Informatividade**
 
-A aplicação apresenta informações sobre como utilizá-la? Não
+Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+Resposta: Não
 
 **Funcionamento durante os testes**
 
-O sistema funcionou adequadamente durante todos os testes? Não
+Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+Resposta: Não
 
 **Acessibilidade**
 
-A aplicação se mostrou acessível para pessoas com deficiência? Não
+Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+Resposta: Não
 
 **Grau de satisfação do usuário**
 
-Qual sua satisfação com esta aplicação? Bom
+Pergunta: Qual sua satisfação com esta aplicação? 
+Resposta: Bom
 
 **Possibilidade de indicação para terceiros**
 
-Você indicaria esta aplicação para outras pessoas? Sim
+Pergunta: Você indicaria esta aplicação para outras pessoas? 
+Resposta: Sim
 
 --
 
@@ -156,43 +186,53 @@ Você indicaria esta aplicação para outras pessoas? Sim
 
 **Visibilidade do sistema**
 
-A interface do sistema permite a visualização adequada das funcionalidades? Sim
+Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+Resposta: Sim
 
 **Navegabilidade**
 
-O sistema é intuitivo e de fácil navegação? Não
+Pergunta: O sistema é intuitivo e de fácil navegação? 
+Resposta: Não
 
 **Padronização de telas**
 
-As telas do sistema são padronizadas e de fácil compreensão? Sim
+Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+Resposta: Sim
 
 **Eficiência e flexibilidade de uso**
 
-O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? Sim
+Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+Resposta: Sim
 
 **Estética e design**
 
-A interface apresenta uma aparência agradável e minimalista? Sim
+Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+Resposta: Sim
 
 **Informatividade**
 
-A aplicação apresenta informações sobre como utilizá-la? Não
+Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+Resposta: Não
 
 **Funcionamento durante os testes**
 
-O sistema funcionou adequadamente durante todos os testes? Não
+Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+Resposta: Não
 
 **Acessibilidade**
 
-A aplicação se mostrou acessível para pessoas com deficiência? Não
+Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+Resposta: Não
 
 **Grau de satisfação do usuário**
 
-Qual sua satisfação com esta aplicação? Regular
+Pergunta: Qual sua satisfação com esta aplicação? 
+Resposta: Regular
 
 **Possibilidade de indicação para terceiros**
 
-Você indicaria esta aplicação para outras pessoas? Sim
+Pergunta: Você indicaria esta aplicação para outras pessoas? 
+Resposta: Sim
 
 ## Avaliação - 2ª rodada:
 
@@ -204,43 +244,53 @@ Você indicaria esta aplicação para outras pessoas? Sim
 
 **Visibilidade do sistema**
 
-A interface do sistema permite a visualização adequada das funcionalidades? Sim
+Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+Resposta: Sim
 
 **Navegabilidade**
 
-O sistema é intuitivo e de fácil navegação? Sim
+Pergunta: O sistema é intuitivo e de fácil navegação? 
+Resposta: Sim
 
 **Padronização de telas**
 
-As telas do sistema são padronizadas e de fácil compreensão? Sim
+Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+Resposta: Sim
 
 **Eficiência e flexibilidade de uso**
 
-O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? Sim
+Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+Resposta: Sim
 
 **Estética e design**
 
-A interface apresenta uma aparência agradável e minimalista? Sim
+Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+Resposta: Sim
 
 **Informatividade**
 
-A aplicação apresenta informações sobre como utilizá-la? Não
+Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+Resposta: Não
 
 **Funcionamento durante os testes**
 
-O sistema funcionou adequadamente durante todos os testes? Sim
+Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+Resposta: Sim
 
 **Acessibilidade**
 
-A aplicação se mostrou acessível para pessoas com deficiência? Não
+Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+Resposta: Não
 
 **Grau de satisfação do usuário**
 
-Qual sua satisfação com esta aplicação? Muito Bom
+Pergunta: Qual sua satisfação com esta aplicação? 
+Resposta: Muito Bom
 
 **Possibilidade de indicação para terceiros**
 
-Você indicaria esta aplicação para outras pessoas? Sim
+Pergunta: Você indicaria esta aplicação para outras pessoas? 
+Resposta: Sim
 
 --
 
@@ -252,43 +302,53 @@ Você indicaria esta aplicação para outras pessoas? Sim
 
 **Visibilidade do sistema**
 
-A interface do sistema permite a visualização adequada das funcionalidades? Sim
+Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+Resposta: Sim
 
 **Navegabilidade**
 
-O sistema é intuitivo e de fácil navegação? Sim
+Pergunta: O sistema é intuitivo e de fácil navegação? 
+Resposta: Sim
 
 **Padronização de telas**
 
-As telas do sistema são padronizadas e de fácil compreensão? Sim
+Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+Resposta: Sim
 
 **Eficiência e flexibilidade de uso**
 
-O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? Sim
+Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+Resposta: Sim
 
 **Estética e design**
 
-A interface apresenta uma aparência agradável e minimalista? Sim
+Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+Resposta: Sim
 
 **Informatividade**
 
-A aplicação apresenta informações sobre como utilizá-la? Não
+Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+Resposta: Não
 
 **Funcionamento durante os testes**
 
-O sistema funcionou adequadamente durante todos os testes? Sim
+Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+Resposta: Sim
 
 **Acessibilidade**
 
-A aplicação se mostrou acessível para pessoas com deficiência? Não
+Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+Resposta: Não
 
 **Grau de satisfação do usuário**
 
-Qual sua satisfação com esta aplicação? Muito Bom
+Pergunta: Qual sua satisfação com esta aplicação? Muito 
+Resposta: Bom
 
 **Possibilidade de indicação para terceiros**
 
-Você indicaria esta aplicação para outras pessoas? Sim
+Pergunta: Você indicaria esta aplicação para outras pessoas? 
+Resposta: Sim
 
 **Usuário 3**
 
@@ -298,43 +358,53 @@ Você indicaria esta aplicação para outras pessoas? Sim
 
 **Visibilidade do sistema**
 
-A interface do sistema permite a visualização adequada das funcionalidades? Sim
+Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+Resposta: Sim
 
 **Navegabilidade**
 
-O sistema é intuitivo e de fácil navegação? Sim
+Pergunta: O sistema é intuitivo e de fácil navegação? 
+Resposta: Sim
 
 **Padronização de telas**
 
-As telas do sistema são padronizadas e de fácil compreensão? Sim
+Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+Resposta: Sim
 
 **Eficiência e flexibilidade de uso**
 
-O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? Sim
+Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+Resposta: Sim
 
 **Estética e design**
 
-A interface apresenta uma aparência agradável e minimalista? Não
+Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+Resposta: Não
 
 **Informatividade**
 
-A aplicação apresenta informações sobre como utilizá-la? Não
+Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+Resposta: Não
 
 **Funcionamento durante os testes**
 
-O sistema funcionou adequadamente durante todos os testes? Sim
+Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+Resposta: Sim
 
 **Acessibilidade**
 
-A aplicação se mostrou acessível para pessoas com deficiência? Não
+Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+Resposta: Não
 
 **Grau de satisfação do usuário**
 
-Qual sua satisfação com esta aplicação? Bom
+Pergunta: Qual sua satisfação com esta aplicação? 
+Resposta: Bom
 
 **Possibilidade de indicação para terceiros**
 
-Você indicaria esta aplicação para outras pessoas? Sim
+Pergunta: Você indicaria esta aplicação para outras pessoas? 
+Resposta: Sim
 
 --
 
@@ -346,40 +416,50 @@ Você indicaria esta aplicação para outras pessoas? Sim
 
 **Visibilidade do sistema**
 
-A interface do sistema permite a visualização adequada das funcionalidades? Sim
+Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+Resposta: Sim
 
 **Navegabilidade**
 
-O sistema é intuitivo e de fácil navegação? Não
+Pergunta: O sistema é intuitivo e de fácil navegação? 
+Resposta: Não
 
 **Padronização de telas**
 
-As telas do sistema são padronizadas e de fácil compreensão? Sim
+Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+Resposta: Sim
 
 **Eficiência e flexibilidade de uso**
 
-O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? Sim
+Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+Resposta: Sim
 
 **Estética e design**
 
-A interface apresenta uma aparência agradável e minimalista? Sim
+Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+Resposta: Sim
 
 **Informatividade**
 
-A aplicação apresenta informações sobre como utilizá-la? Não
+Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+Resposta: Não
 
 **Funcionamento durante os testes**
 
-O sistema funcionou adequadamente durante todos os testes? Não
+Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+Resposta: Não
 
 **Acessibilidade**
 
-A aplicação se mostrou acessível para pessoas com deficiência? Não
+Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+Resposta: Não
 
 **Grau de satisfação do usuário**
 
-Qual sua satisfação com esta aplicação? Regular
+Pergunta: Qual sua satisfação com esta aplicação? 
+Resposta: Regular
 
 **Possibilidade de indicação para terceiros**
 
-Você indicaria esta aplicação para outras pessoas? Sim
+Pergunta: Você indicaria esta aplicação para outras pessoas? 
+Resposta: Sim
