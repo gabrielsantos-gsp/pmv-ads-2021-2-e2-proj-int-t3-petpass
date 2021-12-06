@@ -12,8 +12,8 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 **Visibilidade do sistema**
 
-Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-Resposta: Sim
+- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+- Resposta: Sim
 
 **Navegabilidade**
 
