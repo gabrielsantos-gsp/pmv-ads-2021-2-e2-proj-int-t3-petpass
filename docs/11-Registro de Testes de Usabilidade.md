@@ -463,3 +463,6 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 - Pergunta: Você indicaria esta aplicação para outras pessoas? 
 - Resposta: Sim
+
+## Análise dos resultados e Conclusão:
+
