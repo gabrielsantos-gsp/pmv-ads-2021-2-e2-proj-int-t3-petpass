@@ -16,7 +16,7 @@ A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que se
 - Teste de aprendizado
   > O modelo adotado será o de teste de experimentação, por meio do qual, para realizar uma tarefa específica, uma pessoa que lida com a ferramenta pela primeira vez terá que começar do zero.
 
-### O que será mensurado:
+### Indicadores de avaliação:
 
 Os indicadores a serem avaliados durante os testes de usabilidade do sistema estão descritos abaixo:
 
@@ -95,11 +95,11 @@ Os participantes do teste deverão avaliar os indicadores descritos anteriorment
 ### Definição dos participantes do teste:
 
 | Faixa etária | Nº de particiántes | Possui pet? |
-| ------------ | ------------------ | ----------- | --- |
+| ------------ | ------------------ | ----------- |
 | 18 - 39 anos | 2                  | sim ou não? |
 | 40 - 59 anos | 2                  | sim ou não? |
 | 60 anos ou + | 2                  | sim ou não? |
-| Total:       | 6                  |             |     |
+| Total:       | 6                  |             |
 
 ### Sequência de testes a serem aplicados:
 
@@ -110,8 +110,10 @@ Os participantes do teste deverão avaliar os indicadores descritos anteriorment
 - 05- Acessar as informações da vacina;
 - 06- Acessar o perfil do pet;
 - 07- Gerar Relatorio;
-- 08- Editar Perfil do Pet;
-- 09- Excluir perfil do Pet;
-- 10- Editar perfil do usuário;
-- 11- Logout (da conta);
-- 12- Excluir perfil do usuário
+- 08- Editar perfil do Pet;
+- 09- Editar Vacina
+- 10- Excluir Vacina
+- 11- Excluir perfil do Pet;
+- 12- Editar perfil do usuário;
+- 13- Logout (da conta);
+- 14- Excluir perfil do usuário
