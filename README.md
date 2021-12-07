@@ -18,7 +18,6 @@ O sistema foi pensado para ser prático, intuitivo e de fácil navegação, prop
 * Arthur Fernandes Roque Ferrarez
 * Gabriel Santos Pereira
 * Luisa Helena Gonçalves de Oliveira
-* Maiquel Alves Peres
 
 ## Orientador
 
