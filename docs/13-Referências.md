@@ -10,3 +10,5 @@ PREFEITURA DE SÃO PAULO; Ter um bichinho de estimação faz bem para a saúde. 
 
 PROTESTE!; Saiba quais vacinas seu pet deve receber. Portal PROTESTE!, out-2017. Disponível em: https://www.proteste.org.br/animais-de-estimacao/caes/noticia/saiba-quais-vacinas-seu-pet-deve-receber. Acessado em: 11-08-2021.
 
+TEIXEIRA, Fabricio; O que é o SUS (System Usability Scale) e como usá-lo em seu site. UX Collective, ago-2015. Disponível em: https://brasil.uxdesign.cc/o-que-%C3%A9-o-sus-system-usability-scale-e-como-us%C3%A1-lo-em-seu-site-6d63224481c8. Acessado em: 06-12-2021.
+
