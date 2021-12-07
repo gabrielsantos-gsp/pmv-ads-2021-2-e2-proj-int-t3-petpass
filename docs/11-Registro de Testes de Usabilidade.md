@@ -4,7 +4,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 O método utilizado para o Teste de Usabilidade da aplicação PetPass foi o Método SUS (System Usability Scale), que contempla um questionário de 10 perguntas a cerca da usabilidade da aplicação. Para cada uma das perguntas, o usuário pode responder utilizando uma escala de 1 a 5, na qual 1 significa "Discordo Completamente" e 5 significa "Concordo Completamente".
 
-
+![Score Método SUS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Git%20Flow.png?raw=true)
 
 Encontram-se abaixo os resultados dos questionários de cada entrevistado, respondidos em dois momentos diferentes do desenvolvimento da aplicação. Na 1ª rodada, os testes foram feitos com o sistema ainda em construção, contendo apenas as principais funcionalidades em operação. Já na 2ª rodada, os testes foram realizados com a aplicação já pronta. Dessa forma, será possível verificar a evolução do sistema sobre o ponto de vista de cada usuário.
 
