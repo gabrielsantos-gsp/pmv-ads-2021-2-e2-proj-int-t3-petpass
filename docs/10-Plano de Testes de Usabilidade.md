@@ -27,10 +27,15 @@ A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que se
 
 - O cálculo do resultado dos testes pelo método SUS será feito da seguinte maneira: 
   > Para as respostas ímpares (1, 3, 5), será subtraído 1 da pontuação que o usuário respondeu.
+  > 
   > Para as respostas pares (2 e 4), será subtraída a resposta de 5. Ou seja, se o usuário respondeu 2, será contabilizado 3. Caso tenha respondido 4, será contabilizado 1.
+  > 
   > Após isto, serão somados todos os valores das 10 perguntas, multiplicando ao final por 2.5.
+  > 
   > O resultado final será um valor entre 0 e 100 pontos.
+  > 
   > A média do System Usability Score (SUS) é de 68 pontos. Caso o resultado seja menor do que este valor, significa que o produto apresenta problemas graves de usabilidade.
+  > 
 - Os resultados dos testes e dos questionários questionário serão devidamente registrados e comporão a documentação final do projeto.
 
 ### Indicadores de avaliação:
