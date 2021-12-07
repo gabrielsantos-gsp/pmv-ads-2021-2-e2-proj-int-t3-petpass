@@ -25,7 +25,8 @@ A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade que se
 
 ![Score Método SUS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Score_metodo_SUS.PNG?raw=true)
 
-- O cálculo do resultado dos testes pelo método SUS será feito da seguinte maneira: 
+- O cálculo do resultado dos testes pelo método SUS será feito da seguinte maneira:
+
   > Para as respostas ímpares (1, 3, 5), será subtraído 1 da pontuação que o usuário respondeu.
   > 
   > Para as respostas pares (2 e 4), será subtraída a resposta de 5. Ou seja, se o usuário respondeu 2, será contabilizado 3. Caso tenha respondido 4, será contabilizado 1.
