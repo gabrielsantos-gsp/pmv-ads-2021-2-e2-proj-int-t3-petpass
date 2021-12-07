@@ -416,3 +416,5 @@ O teste ocorreu de forma correta. O Usuário consegue adicionar uma nova vacina 
 Figura 28 – Print da página de cadastrar vacina.
 
 ![Tela cadastra vacina](img/ct13-cadastra-vacina.png)
+
+## Conclusão:
