@@ -10,7 +10,7 @@ Abaixo encontram-se os resultados dos questionários de cada entrevistado, respo
 
 ## Avaliação - 1ª rodada:
 
-### Usuário 1
+### Usuário 1:
 
 **Luis, 18 anos de idade, possui 1 gato**
 
@@ -68,7 +68,7 @@ Abaixo encontram-se os resultados dos questionários de cada entrevistado, respo
 
 --
 
-**Usuário 2**
+### Usuário 2:
 
 **Valdete, 40 anos, possui 1 gato e 1 cachorro**
 
@@ -126,7 +126,7 @@ Abaixo encontram-se os resultados dos questionários de cada entrevistado, respo
 
 --
 
-**Usuário 3**
+### Usuário 3:
 
 **Rafaela, 20 anos, possui 1 gato**
 
@@ -184,7 +184,7 @@ Abaixo encontram-se os resultados dos questionários de cada entrevistado, respo
 
 --
 
-**Usuário 4**
+### Usuário 4:
 
 **Luiz, 68 anos de idade, possui 1 gato e 2 cachorros**
 
@@ -240,7 +240,7 @@ Abaixo encontram-se os resultados dos questionários de cada entrevistado, respo
 - Pergunta: Você indicaria esta aplicação para outras pessoas? 
 - Resposta: Sim
 
-**Usuário 5**
+### Usuário 5:
 
 **Natália, 30 anos, possui 3 cachorros**
 
@@ -298,7 +298,7 @@ Abaixo encontram-se os resultados dos questionários de cada entrevistado, respo
 
 --
 
-**Usuário 6**
+### Usuário 6:
 
 **Felipe, 45 anos, possui 1 gato e um cachorro**
 
@@ -354,7 +354,7 @@ Abaixo encontram-se os resultados dos questionários de cada entrevistado, respo
 - Pergunta: Você indicaria esta aplicação para outras pessoas? 
 - Resposta: Sim
 
-**Usuário 7**
+### Usuário 7:
 
 **Maria, 28 anos, possui 2 cachorros**
 
@@ -412,7 +412,7 @@ Abaixo encontram-se os resultados dos questionários de cada entrevistado, respo
 
 --
 
-**Usuário 8**
+### Usuário 8:
 
 **Carlos, 62 anos de idade, possui 1 gato e 1 cachorro**
 
@@ -470,7 +470,465 @@ Abaixo encontram-se os resultados dos questionários de cada entrevistado, respo
 
 ## Avaliação - 2ª rodada:
 
+### Usuário 1:
 
+**Luis, 18 anos de idade, possui 1 gato**
 
-## Análise dos resultados e Conclusão:
+**Resultados:**
+
+**Visibilidade do sistema**
+
+- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+- Resposta: Sim
+
+**Navegabilidade**
+
+- Pergunta: O sistema é intuitivo e de fácil navegação? 
+- Resposta: Sim
+
+**Padronização de telas**
+
+- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+- Resposta: Sim
+
+**Eficiência e flexibilidade de uso**
+
+- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+- Resposta: Sim
+
+**Estética e design**
+
+- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+- Resposta: Sim
+
+**Informatividade**
+
+- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+- Resposta: Não
+
+**Funcionamento durante os testes**
+
+- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+- Resposta: Sim
+
+**Acessibilidade**
+
+- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+- Resposta: Não
+
+**Grau de satisfação do usuário**
+
+- Pergunta: Qual sua satisfação com esta aplicação? 
+- Resposta: Bom
+
+**Possibilidade de indicação para terceiros**
+
+- Pergunta: Você indicaria esta aplicação para outras pessoas? 
+- Resposta: Sim
+
+--
+
+### Usuário 2:
+
+**Valdete, 40 anos, possui 1 gato e 1 cachorro**
+
+**Resultados:**
+
+**Visibilidade do sistema**
+
+- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+- Resposta: Sim
+
+**Navegabilidade**
+
+- Pergunta: O sistema é intuitivo e de fácil navegação? 
+- Resposta: Sim
+
+**Padronização de telas**
+
+- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+- Resposta: Sim
+
+**Eficiência e flexibilidade de uso**
+
+- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+- Resposta: Sim
+
+**Estética e design**
+
+- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+- Resposta: Sim
+
+**Informatividade**
+
+- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+- Resposta: Não
+
+**Funcionamento durante os testes**
+
+- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+- Resposta: Sim
+
+**Acessibilidade**
+
+- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+- Resposta: Não
+
+**Grau de satisfação do usuário**
+
+- Pergunta: Qual sua satisfação com esta aplicação? 
+- Resposta: Bom
+
+**Possibilidade de indicação para terceiros**
+
+- Pergunta: Você indicaria esta aplicação para outras pessoas? 
+- Resposta: Sim
+
+--
+
+### Usuário 3:
+
+**Rafaela, 20 anos, possui 1 gato**
+
+**Resultados:**
+
+**Visibilidade do sistema**
+
+- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+- Resposta: Sim
+
+**Navegabilidade**
+
+- Pergunta: O sistema é intuitivo e de fácil navegação? 
+- Resposta: Sim
+
+**Padronização de telas**
+
+- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+- Resposta: Sim
+
+**Eficiência e flexibilidade de uso**
+
+- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+- Resposta: Sim
+
+**Estética e design**
+
+- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+- Resposta: Não
+
+**Informatividade**
+
+- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+- Resposta: Não
+
+**Funcionamento durante os testes**
+
+- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+- Resposta: Não
+
+**Acessibilidade**
+
+- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+- Resposta: Não
+
+**Grau de satisfação do usuário**
+
+- Pergunta: Qual sua satisfação com esta aplicação? 
+- Resposta: Bom
+
+**Possibilidade de indicação para terceiros**
+
+- Pergunta: Você indicaria esta aplicação para outras pessoas? 
+- Resposta: Sim
+
+--
+
+### Usuário 4:
+
+**Luiz, 68 anos de idade, possui 1 gato e 2 cachorros**
+
+**Resultados:**
+
+**Visibilidade do sistema**
+
+- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+- Resposta: Sim
+
+**Navegabilidade**
+
+- Pergunta: O sistema é intuitivo e de fácil navegação? 
+- Resposta: Não
+
+**Padronização de telas**
+
+- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+- Resposta: Sim
+
+**Eficiência e flexibilidade de uso**
+
+- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+- Resposta: Sim
+
+**Estética e design**
+
+- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+- Resposta: Sim
+
+**Informatividade**
+
+- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+- Resposta: Não
+
+**Funcionamento durante os testes**
+
+- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+- Resposta: Não
+
+**Acessibilidade**
+
+- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+- Resposta: Não
+
+**Grau de satisfação do usuário**
+
+- Pergunta: Qual sua satisfação com esta aplicação? 
+- Resposta: Regular
+
+**Possibilidade de indicação para terceiros**
+
+- Pergunta: Você indicaria esta aplicação para outras pessoas? 
+- Resposta: Sim
+
+### Usuário 5:
+
+**Natália, 30 anos, possui 3 cachorros**
+
+**Resultados:**
+
+**Visibilidade do sistema**
+
+- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+- Resposta: Sim
+
+**Navegabilidade**
+
+- Pergunta: O sistema é intuitivo e de fácil navegação? 
+- Resposta: Sim
+
+**Padronização de telas**
+
+- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+- Resposta: Sim
+
+**Eficiência e flexibilidade de uso**
+
+- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+- Resposta: Sim
+
+**Estética e design**
+
+- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+- Resposta: Sim
+
+**Informatividade**
+
+- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+- Resposta: Não
+
+**Funcionamento durante os testes**
+
+- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+- Resposta: Sim
+
+**Acessibilidade**
+
+- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+- Resposta: Não
+
+**Grau de satisfação do usuário**
+
+- Pergunta: Qual sua satisfação com esta aplicação? 
+- Resposta: Muito Bom
+
+**Possibilidade de indicação para terceiros**
+
+- Pergunta: Você indicaria esta aplicação para outras pessoas? 
+- Resposta: Sim
+
+--
+
+### Usuário 6:
+
+**Felipe, 45 anos, possui 1 gato e um cachorro**
+
+**Resultados:**
+
+**Visibilidade do sistema**
+
+- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+- Resposta: Sim
+
+**Navegabilidade**
+
+- Pergunta: O sistema é intuitivo e de fácil navegação? 
+- Resposta: Sim
+
+**Padronização de telas**
+
+- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+- Resposta: Sim
+
+**Eficiência e flexibilidade de uso**
+
+- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+- Resposta: Sim
+
+**Estética e design**
+
+- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+- Resposta: Sim
+
+**Informatividade**
+
+- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+- Resposta: Não
+
+**Funcionamento durante os testes**
+
+- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+- Resposta: Sim
+
+**Acessibilidade**
+
+- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+- Resposta: Não
+
+**Grau de satisfação do usuário**
+
+- Pergunta: Qual sua satisfação com esta aplicação? Muito 
+- Resposta: Bom
+
+**Possibilidade de indicação para terceiros**
+
+- Pergunta: Você indicaria esta aplicação para outras pessoas? 
+- Resposta: Sim
+
+### Usuário 7:
+
+**Maria, 28 anos, possui 2 cachorros**
+
+**Resultados:**
+
+**Visibilidade do sistema**
+
+- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+- Resposta: Sim
+
+**Navegabilidade**
+
+- Pergunta: O sistema é intuitivo e de fácil navegação? 
+- Resposta: Sim
+
+**Padronização de telas**
+
+- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+- Resposta: Sim
+
+**Eficiência e flexibilidade de uso**
+
+- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+- Resposta: Sim
+
+**Estética e design**
+
+- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+- Resposta: Não
+
+**Informatividade**
+
+- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+- Resposta: Não
+
+**Funcionamento durante os testes**
+
+- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+- Resposta: Sim
+
+**Acessibilidade**
+
+- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+- Resposta: Não
+
+**Grau de satisfação do usuário**
+
+- Pergunta: Qual sua satisfação com esta aplicação? 
+- Resposta: Bom
+
+**Possibilidade de indicação para terceiros**
+
+- Pergunta: Você indicaria esta aplicação para outras pessoas? 
+- Resposta: Sim
+
+--
+
+### Usuário 8:
+
+**Carlos, 62 anos de idade, possui 1 gato e 1 cachorro**
+
+**Resultados:**
+
+**Visibilidade do sistema**
+
+- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
+- Resposta: Sim
+
+**Navegabilidade**
+
+- Pergunta: O sistema é intuitivo e de fácil navegação? 
+- Resposta: Não
+
+**Padronização de telas**
+
+- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
+- Resposta: Sim
+
+**Eficiência e flexibilidade de uso**
+
+- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
+- Resposta: Sim
+
+**Estética e design**
+
+- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
+- Resposta: Sim
+
+**Informatividade**
+
+- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
+- Resposta: Não
+
+**Funcionamento durante os testes**
+
+- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
+- Resposta: Não
+
+**Acessibilidade**
+
+- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
+- Resposta: Não
+
+**Grau de satisfação do usuário**
+
+- Pergunta: Qual sua satisfação com esta aplicação? 
+- Resposta: Regular
+
+**Possibilidade de indicação para terceiros**
+
+- Pergunta: Você indicaria esta aplicação para outras pessoas? 
+- Resposta: Sim
+
+## Análise dos resultados: 
+
+## Conclusão:
 
