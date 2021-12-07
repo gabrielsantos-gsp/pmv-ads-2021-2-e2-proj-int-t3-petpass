@@ -2,9 +2,15 @@
 
 Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
 
+O mátodo utilizado para o Teste de Usabilidade da aplicação PetPass foi o método SUS (System Usability Scale), que contempla um questionário de 10 perguntas a cerca da usabilidade da aplicação. Para cada uma da perguntas, o usuário pode responder em uma escala de 1 a 5, na qual 1 significa "Discordo Completamente" e 5 significa "Concordo Completamente".
+
+
+
+Abaixo encontram-se os resultados dos questionários de cada entrevistado, respondidos em dois momentos diferentes da construção da aplicação. Na 1ª rodada, os testes foram feitos com o sistema ainda em construção, contendo apenas as principais funcionalidades em operação. Já na 2ª rodada, os testes foram realizados com a aplicação já pronta. Dessa forma, será possível verificar a evolução do sistema sobre o ponto de vista do usuário.
+
 ## Avaliação - 1ª rodada:
 
-**Usuário 1**
+### Usuário 1
 
 **Luis, 18 anos de idade, possui 1 gato**
 
@@ -234,9 +240,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 - Pergunta: Você indicaria esta aplicação para outras pessoas? 
 - Resposta: Sim
 
-## Avaliação - 2ª rodada:
-
-**Usuário 1**
+**Usuário 5**
 
 **Natália, 30 anos, possui 3 cachorros**
 
@@ -294,7 +298,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 --
 
-**Usuário 2**
+**Usuário 6**
 
 **Felipe, 45 anos, possui 1 gato e um cachorro**
 
@@ -350,7 +354,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 - Pergunta: Você indicaria esta aplicação para outras pessoas? 
 - Resposta: Sim
 
-**Usuário 3**
+**Usuário 7**
 
 **Maria, 28 anos, possui 2 cachorros**
 
@@ -408,7 +412,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 --
 
-**Usuário 4**
+**Usuário 8**
 
 **Carlos, 62 anos de idade, possui 1 gato e 1 cachorro**
 
@@ -463,6 +467,10 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 - Pergunta: Você indicaria esta aplicação para outras pessoas? 
 - Resposta: Sim
+
+## Avaliação - 2ª rodada:
+
+
 
 ## Análise dos resultados e Conclusão:
 
