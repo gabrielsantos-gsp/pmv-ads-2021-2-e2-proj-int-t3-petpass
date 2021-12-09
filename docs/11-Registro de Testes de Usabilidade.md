@@ -14,421 +14,161 @@ Encontram-se abaixo os resultados dos questionários de cada entrevistado, respo
 
 ### **Luis, 18 anos, possui 1 gato**
 
-| **Perguntas** | **Respostas** | **Conversão** |
-| --- | --- | --- |
-| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5 | 5-1=4 |
-| 2 - Eu acho que o sistema é complexo | 1 | 5-1=4 |
-| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão | 5 | 5-1=4 |
-| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização | 2 | 5-2=3 |
-| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista | 4 | 4-1=3 |
-| 6 - Eu não localizei informações sobre como utilizar a aplicação | 4 | 5-4=1 |
-| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso | 4 | 4-1=3 |
-| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência | 4 | 5-4=1 |
-| 9 - Eu acho que estou satisfeita com esta aplicação | 4 | 4-1=3 |
-| 10 - Eu não indicaria esta aplicação para outras pessoas | 2 | 5-2=3 |
-| | **Cálculo SUS** | **29\*2,5=72,5** |
-
-------
-
-### Usuário 2:
-
-**Valdete, 40 anos, possui 1 gato e 1 cachorro**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Sim
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Sim
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Sim
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Bom
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
---
-
-### Usuário 3:
-
-**Rafaela, 20 anos, possui 1 gato**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Sim
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Não
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Não
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Bom
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
---
-
-### Usuário 4:
-
-**Luiz, 68 anos de idade, possui 1 gato e 2 cachorros**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Não
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Sim
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Não
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Regular
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
-### Usuário 5:
-
-**Natália, 30 anos, possui 3 cachorros**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Sim
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Sim
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Sim
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Muito Bom
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
---
-
-### Usuário 6:
-
-**Felipe, 45 anos, possui 1 gato e um cachorro**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Sim
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Sim
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Sim
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? Muito 
-- Resposta: Bom
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
-### Usuário 7:
-
-**Maria, 28 anos, possui 2 cachorros**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Sim
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Não
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Sim
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Bom
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
---
-
-### Usuário 8:
-
-**Carlos, 62 anos de idade, possui 1 gato e 1 cachorro**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Não
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Sim
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Não
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Regular
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 2:**
+
+### **Valdete, 40 anos, possui 1 gato e 1 cachorro**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 4               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 2               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 4               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 3               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 5               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 5               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 3               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 3:**
+
+### **Rafaela, 20 anos, possui 1 gato**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 4:**
+
+### **Luiz, 68 anos de idade, possui 1 gato e 2 cachorros**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 5:**
+
+### **Natália, 30 anos, possui 3 cachorros**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 6:**
+
+### **Felipe, 45 anos, possui 1 gato e um cachorro**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 7:**
+
+### **Maria, 28 anos, possui 2 cachorros**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 8:**
+
+### **Carlos, 62 anos de idade, possui 1 gato e 1 cachorro**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
 
 ## Avaliação - 2ª rodada:
 
@@ -436,423 +176,162 @@ Encontram-se abaixo os resultados dos questionários de cada entrevistado, respo
 
 ### **Luis, 18 anos, possui 1 gato**
 
-| **Perguntas** | **Respostas** | **Conversão** |
-| --- | --- | --- |
-| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5 | 5-1=4 |
-| 2 - Eu acho que o sistema é complexo | 1 | 5-1=4 |
-| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão | 5 | 5-1=4 |
-| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização | 1 | 5-1=4 |
-| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista | 5 | 5-1=4 |
-| 6 - Eu não localizei informações sobre como utilizar a aplicação | 4 | 5-4=1 |
-| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso | 5 | 5-1=4 |
-| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência | 4 | 5-4=1 |
-| 9 - Eu acho que estou satisfeita com esta aplicação | 4 | 4-1=3 |
-| 10 - Eu não indicaria esta aplicação para outras pessoas | 1 | 5-1=4 |
-|  |**Cálculo SUS** | **33\*2,5=82,5** |
-
-------
-
-### Usuário 2:
-
-**Valdete, 40 anos, possui 1 gato e 1 cachorro**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Sim
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Sim
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Sim
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Bom
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
---
-
-### Usuário 3:
-
-**Rafaela, 20 anos, possui 1 gato**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Sim
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Não
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Não
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Bom
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
---
-
-### Usuário 4:
-
-**Luiz, 68 anos de idade, possui 1 gato e 2 cachorros**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Não
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Sim
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Não
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Regular
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
-### Usuário 5:
-
-**Natália, 30 anos, possui 3 cachorros**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Sim
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Sim
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Sim
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Muito Bom
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
---
-
-### Usuário 6:
-
-**Felipe, 45 anos, possui 1 gato e um cachorro**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Sim
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Sim
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Sim
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? Muito 
-- Resposta: Bom
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
-### Usuário 7:
-
-**Maria, 28 anos, possui 2 cachorros**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Sim
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Não
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Sim
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Bom
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
---
-
-### Usuário 8:
-
-**Carlos, 62 anos de idade, possui 1 gato e 1 cachorro**
-
-**Resultados:**
-
-**Visibilidade do sistema**
-
-- Pergunta: A interface do sistema permite a visualização adequada das funcionalidades? 
-- Resposta: Sim
-
-**Navegabilidade**
-
-- Pergunta: O sistema é intuitivo e de fácil navegação? 
-- Resposta: Não
-
-**Padronização de telas**
-
-- Pergunta: As telas do sistema são padronizadas e de fácil compreensão? 
-- Resposta: Sim
-
-**Eficiência e flexibilidade de uso**
-
-- Pergunta: O sistema se mostrou prático, rápido, intuitivo e de fácil utilização? 
-- Resposta: Sim
-
-**Estética e design**
-
-- Pergunta: A interface apresenta uma aparência agradável e minimalista? 
-- Resposta: Sim
-
-**Informatividade**
-
-- Pergunta: A aplicação apresenta informações sobre como utilizá-la? 
-- Resposta: Não
-
-**Funcionamento durante os testes**
-
-- Pergunta: O sistema funcionou adequadamente durante todos os testes? 
-- Resposta: Não
-
-**Acessibilidade**
-
-- Pergunta: A aplicação se mostrou acessível para pessoas com deficiência? 
-- Resposta: Não
-
-**Grau de satisfação do usuário**
-
-- Pergunta: Qual sua satisfação com esta aplicação? 
-- Resposta: Regular
-
-**Possibilidade de indicação para terceiros**
-
-- Pergunta: Você indicaria esta aplicação para outras pessoas? 
-- Resposta: Sim
-
-## Análise dos resultados: 
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 1               | 5-1=4            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 5               | 5-1=4            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 5               | 5-1=4            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 1               | 5-1=4            |
+|                                                                                            | **Cálculo SUS** | **33\*2,5=82,5** |
+
+---
+
+### **Usuário 2:**
+
+### **Valdete, 40 anos, possui 1 gato e 1 cachorro**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 3:**
+
+### **Rafaela, 20 anos, possui 1 gato**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 4:**
+
+### **Luiz, 68 anos de idade, possui 1 gato e 2 cachorros**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 5:**
+
+### **Natália, 30 anos, possui 3 cachorros**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 6:**
+
+### **Felipe, 45 anos, possui 1 gato e um cachorro**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 7:**
+
+### **Maria, 28 anos, possui 2 cachorros**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+### **Usuário 8:**
+
+### **Carlos, 62 anos de idade, possui 1 gato e 1 cachorro**
+
+| **Perguntas**                                                                              | **Respostas**   | **Conversão**    |
+| ------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| 1 - Eu acho que a interface do sistema permite a visualização adequada das funcionalidades | 5               | 5-1=4            |
+| 2 - Eu acho que o sistema é complexo                                                       | 1               | 5-1=4            |
+| 3 - Eu acho que as telas do sistema são padronizadas e de fácil compreensão                | 5               | 5-1=4            |
+| 4 - Eu acho que o sistema não se mostrou prático, rápido, intuitivo e de fácil utilização  | 2               | 5-2=3            |
+| 5 - Eu acho que a interface apresenta uma aparência agradável e minimalista                | 4               | 4-1=3            |
+| 6 - Eu não localizei informações sobre como utilizar a aplicação                           | 4               | 5-4=1            |
+| 7 - Eu acho que o sistema funcionou adequadamente durante todo o uso                       | 4               | 4-1=3            |
+| 8 - Eu acho que a aplicação não se mostrou acessível para pessoas com deficiência          | 4               | 5-4=1            |
+| 9 - Eu acho que estou satisfeita com esta aplicação                                        | 4               | 4-1=3            |
+| 10 - Eu não indicaria esta aplicação para outras pessoas                                   | 2               | 5-2=3            |
+|                                                                                            | **Cálculo SUS** | **29\*2,5=72,5** |
+
+---
+
+## Análise dos resultados:
 
 ## Conclusão:
-
