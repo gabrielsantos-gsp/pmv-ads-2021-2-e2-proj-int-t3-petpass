@@ -417,4 +417,3 @@ Figura 28 – Print da página de cadastrar vacina.
 
 ![Tela cadastra vacina](img/ct13-cadastra-vacina.png)
 
-## Conclusão:
