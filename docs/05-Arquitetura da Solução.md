@@ -70,5 +70,5 @@ Como ferramenta de registro dos testes de usabilidade será utilizado:
 
 Para a elaboração do código será utilizado o Visual Studio 2019.
 
-A hospedagem do site se dará na plataforma Github Pages, que tem integração com o Github.
-- Github Pages (https://pages.github.com/)
+A hospedagem do site se dará na plataforma Microsoft Azure, que tem integração com o Visual Studio.
+- Microsof Azure (https://azure.microsoft.com/pt-br/)
