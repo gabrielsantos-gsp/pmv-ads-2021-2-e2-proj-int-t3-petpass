@@ -28,7 +28,7 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/registrar);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -65,7 +65,7 @@ RF-001: O sistema deverá permitir a criação de um perfil de usuário para o r
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -98,7 +98,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -136,7 +136,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -170,7 +170,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -208,7 +208,7 @@ RF-003: O sistema deverá permitir gerar um relatório com as informações de s
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site *(https://pet-pass.vercel.app/login)*;
+    2- Informar o endereço do Site *(https://petpass20211214211928.azurewebsites.net/)*;
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -249,7 +249,7 @@ RF-004: O sistema deverá permitir a exclusão do perfil do pet, sem excluir a c
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -293,7 +293,7 @@ RF-005: O sistema deverá permitir a exclusão da conta de usuário responsável
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -334,7 +334,7 @@ RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google C
 
     1- Acessar o Navegador Google Chrome;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -368,7 +368,7 @@ RF-006: O sistema deverá permitir a edição das informações do usuário e do
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -410,7 +410,7 @@ RF-006: O sistema deverá permitir a edição das informações do usuário e do
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -453,7 +453,7 @@ RNF-002: O sistema deverá ser responsivo, permitindo sua utilização em comput
 
     1- Acessar o Navegador web do celular;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
@@ -490,7 +490,7 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
     1- Acessar o Navegador;
 
-    2- Informar o endereço do Site (https://pet-pass.vercel.app/login);
+    2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
     3- Clicar em 'ENTER' no teclado;
 
