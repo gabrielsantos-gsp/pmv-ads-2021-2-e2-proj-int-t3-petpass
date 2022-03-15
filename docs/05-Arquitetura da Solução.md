@@ -53,8 +53,7 @@ O usuário acessa o endereço *web* onde a aplicação está hospedada e então 
 ## Tecnologias Utilizadas e Hospedagem da Aplicação
 
 Para a elaboração da página web serão utilizadas as seguintes linguagens:
-- Front-end: html, css, Bootstrap
-- Back-end: C#, Asp.NET
+- CSS, Java Script, React Native
 
 Como ferramentas de diagramação serão utilizados:
 - Figma (https://www.figma.com/)
@@ -72,4 +71,3 @@ Para a elaboração do código será utilizado o Visual Studio 2019.
 
 A hospedagem do site se dará na plataforma Microsoft Azure, que tem integração com o Visual Studio.
 - Microsof Azure (https://azure.microsoft.com/pt-br/)
-- O link do site hospedado na Microsoft Azure é: https://petpass20211214211928.azurewebsites.net/
