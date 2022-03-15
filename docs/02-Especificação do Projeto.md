@@ -110,8 +110,8 @@ As questões que limitam a execução deste projeto e que se configuram como obr
 | ID     | Restrição                                                                                                  |
 | ------ | ---------------------------------------------------------------------------------------------------------- |
 | RE-001 | O sistema deverá ser entregue pronto e funcional ao final do semestre letivo.                              |
-| RE-002 | O sistema deverá ser uma aplicação interativa, apresentando estrutura de programação web front e back-end. |
-| RE-003 | O sistema deverá ter sua programação back-end feita nas linguagens C# e Asp.Net.                           |
+| RE-002 | O sistema deverá ser uma aplicação mobile.                                                                 |
+| RE-003 | O sistema deverá utilizar uma Web API para fazer persistência de dados de uma aplicação móvel.             |
 | RE-004 | O sistema deverá permitir apenas o cadastro de cães e gatos num primeiro momento.                          |
 | RE-005 | O sistema deverá ser elaborado pelos próprios alunos, não podendo subcontratar o serviço de terceiros.     |
 
