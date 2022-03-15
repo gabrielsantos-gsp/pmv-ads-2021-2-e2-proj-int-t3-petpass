@@ -113,10 +113,10 @@ Os participantes do teste deverão avaliar os 10 indicadores descritos anteriorm
 
 | Faixa etária | Nº de particiántes | Possui pet? |
 | ------------ | ------------------ | ----------- |
-| 18 - 35 anos | 4                  | sim         |
-| 36 - 59 anos | 2                  | sim         |
-| 60 anos ou + | 2                  | sim         |
-| Total:       | 8                  |             |
+| 18 - 35 anos | ?                  | sim         |
+| 36 - 59 anos | ?                  | sim         |
+| 60 anos ou + | ?                  | sim         |
+| Total:       | ?                  |             |
 
 ### Sequência de testes a serem aplicados:
 
