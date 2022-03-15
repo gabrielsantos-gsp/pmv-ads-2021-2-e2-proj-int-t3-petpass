@@ -21,7 +21,7 @@ A relação das ferramentas empregadas no projeto e suas respectivas funções s
 
 |Função     |Ferramentas          |
 |-----------|---------------------|
-|Editor de código |Github, Visual Studio 2019 | 
+|Editor de código |Github, Visual Studio Code, Expo | 
 |Ferramentas de comunicação |Github, Microsoft Teams, Discord |
 |Ferramentas de diagramação |Figma, Astah, Lucidchart |
 
@@ -62,7 +62,7 @@ A equipe utilizará o conceito de metodologias ágeis para fazer o gerenciamento
 A equipe está organizada da seguinte maneira:
 - **Scrum Master:** Arthur Bernardo de Almeida Simões
 - **Product Owner:** Gabriel Santos Pereira
-- **Equipe de Desenvolvimento:** Aline dos Santos Silva, Arthur Bernardo de Almeida Simões, Arthur Fernandes Roque Ferrarez, Gabriel Santos Pereira, Luisa Helena Gonçalves de Oliveira, Maiquel Alves Peres
+- **Equipe de Desenvolvimento:** Aline dos Santos Silva, Arthur Bernardo de Almeida Simões, Arthur Fernandes Roque Ferrarez, Gabriel Santos Pereira, Luisa Helena Gonçalves de Oliveira
 
 ### Processo
 
