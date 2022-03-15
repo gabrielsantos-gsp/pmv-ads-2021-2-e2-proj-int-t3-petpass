@@ -21,7 +21,7 @@ São protótipos utilizados em design de interface para sugerir a estrutura de u
 
 A imagem abaixo mostra uma visão geral dos Wireframes da aplicação Pet Pass e seu fluxo de usuário:
 
-![User_Flow](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/User_flow1.PNG?raw=true)
+![Wireframe](https://github.com/gabrielsantos-gsp/pmv-ads-2021-2-e2-proj-int-t3-petpass/blob/main/docs/img/Wireframe.png?raw=true)
  
 ### Homepage:
 
