@@ -82,12 +82,13 @@ A tabela abaixo apresenta os requisitos funcionais do projeto, identificando a p
 
 | ID     | Descrição do Requisito  | Prioridade |
 | ------ | ----------------------- | ---------- |
-| RF-001 | O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet (associado ao seu e-mail) se ele for maior de idade. | ALTA |
+| RF-001 | O sistema deverá permitir a criação de um perfil de usuário para o responsável do pet associado ao seu e-mail. | ALTA |
 | RF-002 | O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação). | ALTA |
-| RF-003 | O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados, vacinas já aplicadas, datas de aplicação, etc.).| MÉDIA |
+| RF-003 | O sistema deverá permitir gerar um relatório com as informações de saúde dos animais (dados do pet, vacinas aplicadas, datas de aplicação, etc.).| ALTA |
 | RF-004 | O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável. | ALTA |
-| RF-005 | O sistema deverá permitir a exclusão da conta de usuário responsável do pet, excluindo, automaticamente, qualquer perfil de pet vinculado somente a ela. | ALTA |
-| RF-006 | O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados. | ALTA |
+| RF-005 | O sistema deverá permitir a exclusão da conta do usuário responsável pelo pet, excluindo também qualquer perfil de pet vinculado a ela. | ALTA |
+| RF-006 | O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados e das vacinas aplicadas. | ALTA |
+| RF-007 | O sistema deverá enviar notificações ao usuário assim que estiver próxima a data da pr´rocima vacina de seu pet. | MÉDIA |
 
 ### Requisitos não Funcionais
 
@@ -95,9 +96,7 @@ A tabela abaixo apresenta os requisitos não funcionais que o projeto deverá at
 
 | ID      | Descrição do Requisito  | Prioridade |
 | ------- | ----------------------- | ---------- |
-| RNF-001 | O sistema deverá funcionar nos principais navegadores da web (Google Chrome, Mozila Firefox, Microsoft Edge) | ALTA |
-| RNF-002 | O sistema deverá ser responsivo, permitindo sua utilização em computadores desktops, notebooks, tablets e smartphones | ALTA |
-| RNF-003 | A aplicação deverá ser publicada no Git Hub e ser hospedada em plataforma que permita a hospedagem em nuvem (Git Hub Pages, Heroku, etc.), permitindo o acesso dos usuários à página web  | ALTA |
+| RNF-001 | O sistema deverá funcionar nos principais sistemas Mobile, como Android e IOS | ALTA |
 | RNF-004 | A segurança no armazenamento e na manipulação dos dados do dono e do pet deve seguir as diretrizes da Lei Geral de Proteção de Dados (LGPD). | ALTA |
 | RNF-005 | O sistema deverá ser intuitivo e de fácil utilização, para atender também ao público idoso.| ALTA |
 | RNF-006 | O sistema deverá estar disponível para acesso 24h por dia, exceto quando em manutenção. | MÉDIA |
@@ -110,7 +109,7 @@ As questões que limitam a execução deste projeto e que se configuram como obr
 | ID     | Restrição                                                                                                  |
 | ------ | ---------------------------------------------------------------------------------------------------------- |
 | RE-001 | O sistema deverá ser entregue pronto e funcional ao final do semestre letivo.                              |
-| RE-002 | O sistema deverá ser uma aplicação mobile.                                                                 |
+| RE-002 | O sistema deverá ser uma aplicação Mobile.                                                                 |
 | RE-003 | O sistema deverá utilizar uma Web API para fazer persistência de dados de uma aplicação móvel.             |
 | RE-004 | O sistema deverá permitir apenas o cadastro de cães e gatos num primeiro momento.                          |
 | RE-005 | O sistema deverá ser elaborado pelos próprios alunos, não podendo subcontratar o serviço de terceiros.     |
