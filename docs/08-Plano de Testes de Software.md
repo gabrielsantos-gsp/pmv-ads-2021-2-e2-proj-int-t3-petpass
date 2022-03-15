@@ -8,9 +8,9 @@ Esta seção aborda o Plano de Testes de Software a ser aplicado neste projeto. 
 
 Requisitos para realização dos testes:
 
-- _Site_ hospedado na Internet (_Vercel_);
-- Navegador de Internet (_Google Chrome, Firefox, Microsoft Edge_);
-- Conectividade de Internet para acesso à plataforma.
+- Apicativo disponivel para utilizar em  Android e IOS;
+- Smartphenos (Android e/ou IOS), ou emulador Mobile
+- Conectividade de Internet para acesso ao aplicativo.
 
 Os testes funcionais a serem realizados na aplicação interativa são descritos a seguir:
 
@@ -324,15 +324,15 @@ RF-005: O sistema deverá permitir a exclusão da conta de usuário responsável
 
 **Objetivo do teste:**
 
-- Verificar o funcionamento do sistema nos principais navegadores da Web.
+- Verificar o funcionamento do aplicativo nos sistemas IOS e Android.
 
 **Requisitos associados:**
 
-RNF-001: O sistema deverá funcionar nos principais navegadores da Web (Google Chrome, Mozila Firefox, Microsoft Edge).
+RNF-001: O aplicativo deverá funcionar nos principais sistemas operacionais mobile (Android e IOS).
 
 **Passos:**
 
-    1- Acessar o Navegador Google Chrome;
+    1- Acessar o aplicativo pelo smartphoe com sistema operacional Android e /ou IOS;
 
     2- Informar o endereço do Site (https://petpass20211214211928.azurewebsites.net/);
 
