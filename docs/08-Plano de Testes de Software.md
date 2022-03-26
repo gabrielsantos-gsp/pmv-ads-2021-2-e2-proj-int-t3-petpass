@@ -487,6 +487,6 @@ RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e per
 
 **Requisitos associados:**
 
-RF-002: O sistema deverá permitir criar um perfil para o pet, registrando e permitindo a verificação de seus dados básicos (nome, raça, espécie, peso, idade) e de vacinação (tipo de vacina e data de vacinação).
+RF-007: O sistema deverá enviar notificações ao usuário assim que estiver próxima a data da próxima vacina de seu pet.
 
 **Passos:**
