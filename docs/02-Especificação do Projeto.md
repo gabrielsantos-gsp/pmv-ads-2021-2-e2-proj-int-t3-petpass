@@ -88,7 +88,7 @@ A tabela abaixo apresenta os requisitos funcionais do projeto, identificando a p
 | RF-004 | O sistema deverá permitir a exclusão do perfil do pet, sem excluir a conta do responsável. | ALTA |
 | RF-005 | O sistema deverá permitir a exclusão da conta do usuário responsável pelo pet, excluindo também qualquer perfil de pet vinculado a ela. | ALTA |
 | RF-006 | O sistema deverá permitir a edição das informações do usuário e dos pets cadastrados e das vacinas aplicadas. | ALTA |
-| RF-007 | O sistema deverá enviar notificações ao usuário assim que estiver próxima a data da pr´rocima vacina de seu pet. | MÉDIA |
+| RF-007 | O sistema deverá enviar notificações ao usuário assim que estiver próxima a data da próxima vacina de seu pet. | MÉDIA |
 
 ### Requisitos não Funcionais
 
